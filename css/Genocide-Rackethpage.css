@@ -1,0 +1,157 @@
+@font-face{
+    font-family: Recoleta;
+    src: url(../fonts/Roboto/Roboto-Bold.ttf);
+}
+@font-face{
+    font-family: times;
+    src: url(../fonts/times\ new\ roman.ttf);
+}
+@font-face{
+    font-family: Poppinssemibold;
+    src: url(../fonts/Poppins-SemiBold.ttf);
+}
+@font-face{
+    font-family: montserrat;
+    src: url(../fonts/Montserrat-SemiBold.ttf);
+}
+@font-face{
+    font-family: HarlowSolid;
+    src: url(../fonts/HARLOWSI.TTF);
+}
+@font-face{
+    font-family: timesbold;
+    src: url(../fonts/times\ new\ roman\ bold.ttf);
+}
+header{
+    background-color: #F3FFF3; 
+  }
+  .Genocide-Racketsec{
+    width: 100%;
+    background-color: #F3FFF3;
+}
+.Genocide-Racket-heading h1{
+    font-family: HarlowSolid;
+    color: #9F1D3C;
+    font-weight: 100;
+    font-size: 51px;
+}
+.Genocide-Racket-heading{
+    text-align: center;
+    padding: 30px;
+}
+.about-Genocide-Racket p{
+    font-family:times ;
+    color:#000000 ;
+}
+.title-Genocide-Racket{
+    text-align: center;
+    padding: 20px 0;
+}
+.title-Genocide-Racket h1{
+    font-family: HarlowSolid;
+    color: #9F1D3C;
+    font-weight: 400;
+    font-size: 35px;
+}
+.title-Genocide-Racket h1 span{
+    color: #000000;
+}
+.about-Genocide-Racket span{
+    margin-right: 25px;
+    color: #000000;
+}
+.bold {
+    font-family: timesbold;
+    font-weight: 600;
+    color: #000000;
+}
+.about-Genocide-Racket .bolds{
+    margin-right: 5px;
+    font-family: timesbold;
+    font-weight: 600;
+}
+a {
+    font-family: Poppinsmedium;
+    font-size: 14px;
+    display: block;
+    color: #4A80FF;
+}
+.about-Genocide {
+    text-align: center;
+    padding: 20px 0;
+}
+.about-Genocide h2{
+    color: #000000;
+    font-family: poppinssemibold;
+    font-size: 29px;
+    margin: 0;
+}
+.img-box1{
+ margin: 10px;
+ text-align: end;
+}
+.border{
+    /* background-color: #DA9796; */
+    border: 2px solid transparent;
+    padding: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 20px;
+    background-image: linear-gradient(to bottom , #DA9796, #FFEBEB, #DA9796);
+}
+.border p{
+    font-family: timesbold;
+    font-size: 23px;
+}
+.about-Genocide-Racket h3{
+    font-size: 19px;
+    color: #000000;
+}
+.about-Racket{
+    padding-bottom: 90px;
+}
+a{
+    font-family: Poppinsmedium;
+    font-size: 14px;
+}
+
+
+@media(max-width: 768px){
+    a {
+        font-family: Poppinsmedium;
+        font-size: 13px;
+        overflow: hidden !important;
+        font-variant: all-small-caps !important;
+    }
+.about-Genocide-Racket p {
+    font-family: times;
+    color: #000000;
+    font-size: 10px;
+    overflow: hidden !important;
+
+}
+.title-Genocide-Racket h1 {
+    font-size: 20px;
+}
+.img-box1 {
+    text-align: center;
+    margin: 10px;
+}
+.Genocide-Racket-heading h1 {
+   font-size: 28px;
+}
+.about-Genocide h2 {
+    font-size: 26px;
+}
+.logo-img {
+    width: 70%;
+    margin-left: 0;
+    padding-bottom: 10px;
+}
+
+#nav {
+    margin-top: 0; 
+     margin-left: 0;
+}
+}
+

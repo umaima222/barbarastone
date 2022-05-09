@@ -1,0 +1,121 @@
+@font-face {
+    font-family: Poppinssemibold;
+    src: url(../fonts/Poppins-SemiBold.ttf);
+  }
+  #header{
+    background-color: transparent !important;
+  }
+.signup .sign-up-box-wrapper {
+    background: #F9F9F9;
+    padding: 27px;
+    text-align: center;
+    box-shadow: 0px 0px 10px 4px #a4a9a4;
+    margin: 100px -53px;
+    padding: 50px 90px;
+    position: relative;
+}
+
+.signup .sign-up-heading-wrapper {
+    margin-bottom: 28px;
+}
+.signup .sign-up-heading-wrapper h4 {
+    color:#000000 ;
+    font-family:  Poppinssemibold;
+    font-size: 29px;
+}
+
+.sign-up-heading-wrapper h6 {
+    color:#959595;
+    font-weight: 500;
+    font-family: "poppins";
+    font-size: 12px;
+
+}
+.sign-up-box-wrapper input.form-control {
+    border-radius: 0px;
+    border: 1px solid #707070;
+    font-family: 'Work sans';
+    font-size: 17px;
+}
+.sign-up-box-wrapper input.form-control {
+    border-radius: 0px;
+    border: 1px solid #D6D6D6;
+    font-family: 'Work sans';
+    font-size: 17px;
+    margin: 10px 0px
+}
+.sign-up-box-wrapper input.form-control::placeholder{
+    font-family: 'Work sans';
+    font-size: 17px;
+    font-weight: 300;
+    color: #635F5F;
+}
+.sign-up-box-wrapper .btn {
+    font-family: 'Work Sans';
+    color: #fff;
+    background:#9F1D3C;
+    border-radius: 0px;
+    border: 1px solid #fff;
+    transition: all 0.3s ease-in-out;
+}
+.signup button.form-control.btn:hover {
+    outline: 2px solid #31007b;
+}
+
+.signup .sign-up-form-wrapper a {
+    font-family: 'poppins';
+    color: #9F1D3C;
+    font-weight: 600;
+    font-size: 15px;
+}
+.sign-up-form-wrapper label.form-check-label {
+    color: #000000;
+    font-family: "poppins";
+    font-weight: 600;
+    padding: 0;
+    font-size: 15px;
+    margin: 0;
+}
+.form-check {
+    width: 30%;
+    position: relative;
+    display: block;
+    padding-left: 1.25rem;
+}
+input[type=checkbox] {
+    position: relative;
+      cursor: pointer;
+}
+.signup .img-uplo-wrapper input[type="file"] {
+    margin-right: -99px;
+}   
+span{
+    color: #959595;
+    font-family: "poppins";
+    font-weight: 400;
+    font-size: 16px;
+}
+.account{
+    justify-content: center;
+    align-items: center;
+}
+@media screen and (max-width: 760px){
+    .form-check {
+        width: 43%;
+        position: relative;
+        display: block;
+        padding-left: 1.25rem;
+    }
+    .signup .sign-up-box-wrapper {
+        background: #F9F9F9;
+        padding: 27px;
+        text-align: center;
+        box-shadow: 0px 0px 10px 4px #a4a9a4;
+        margin: 0;
+        padding: 50px 10px;
+        position: relative;
+    }
+    .signup{
+        padding: 40px 0;
+    }
+}

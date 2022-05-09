@@ -1,0 +1,69 @@
+@font-face{
+    font-family: Poppinsmedium;
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+@font-face{
+    font-family: Poppinssemibold;
+    src: url(../fonts/Poppins-SemiBold.ttf);
+}
+@font-face{
+    font-family: Recoleta;
+    src: url(../fonts/Roboto/Roboto-Bold.ttf);
+}
+header{
+    background-color: #FFFFFF;
+}
+.logo-img {
+    width: 100%;
+    margin: 0;
+  }
+.Trafficking-Articles-sec{
+    width: 100%;
+    background-color: #FFFFFF;
+}
+.Trafficking-Articles-heading{
+    text-align: center;
+    background-color: #9E1C36;
+    padding: 30px;
+}
+.Trafficking-Articles-heading h1{
+    color: #FFFFFF;
+    font-family: Recoleta;
+    font-size: 25px;
+}
+.about-Trafficking-Articles-article{
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+.about-Trafficking-Articles-article p{
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.space-text{
+ margin-top: 30px;
+}
+.space{
+    margin-top: 20px;
+}
+a{
+    color: #000000;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 16px;
+}
+@media(max-width: 768px){
+    .about-Trafficking-Articles-article{
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+    .logo-img {
+        width: 70%;
+        margin-left: 0;
+        padding-bottom: 10px;
+    }
+
+    #nav {
+        margin-top: 0; 
+         margin-left: 0;
+    }
+}

@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+@font-face{
+    font-family: Script;
+    src: url(../fonts/ScriptMTBold.ttf);
+}
+@font-face{
+    font-family: Poppinsmedium;
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+@font-face{
+    font-family: Poppinssemibold;
+    src: url(../fonts/Poppins-SemiBold.ttf);
+}
+@font-face{
+    font-family: Recoleta;
+    src: url(../fonts/Roboto/Roboto-Bold.ttf);
+}
+@font-face{
+    font-family: harlow;
+    src: url(../fonts//HarlowSolidPlain.otf);
+}
+@font-face {
+    font-family: montserratmedium;
+    src: url(../fonts/Montserrat-Medium.ttf);
+}
+@font-face {
+    font-family: montserrat;
+    src: url(../fonts/Montserrat-Regular.ttf);
+}
+header{
+    background-color: #ECFCF9;
+}
+.Unconstitutional-sec{
+    width: 100%;
+    background-color: #ECFCF9;
+
+}
+.Unconstitutional-heading {
+    text-align: center;
+    padding: 49px 0;
+}
+.Unconstitutional-heading h1{
+    font-family: harlow;
+    color: #9F1D3C;
+    font-size: 41px;
+    font-weight: 400;
+}
+.about-Unconstitutional p{
+    font-family:Montserrat ;
+    font-size: 16px;
+    color: #000000;
+    font-weight: 500;
+}
+.Unconstitutional-title{
+    text-align: center;
+    margin: 35px;
+}
+.Unconstitutional-title h1{
+    font-family: harlow;
+    color: #9F1D3C;
+    font-weight: 400;
+}
+.Unconstitutional-title a{
+    font-size: 18px;
+    text-decoration: underline;
+}
+.about-Unconstitutional h2{
+   margin-bottom: 30px;
+    font-size: 20px;
+    color: #000000;
+    margin-left: 0;
+    font-family: montserratmedium;
+}
+.space a {
+    font-size: 16px;
+    display: block;
+}
+span{
+    color: #000000;
+    font-family: montserrat;
+    margin-right: 20px;
+}
+.script-text{
+    text-align: center;
+    padding: 6px;
+    margin-bottom: 10px;
+    background-color: #FFFFFF;
+}
+.script-text h5{
+    font-family: Script;
+    color: #876911;
+    margin-bottom: 30px;
+    font-size: 22px;
+}
+a{
+    font-family:montserratmedium ;
+}
+.side-spce{
+    padding-bottom: 43px;
+}
+@media(max-width: 768px){
+    .img-box{
+        text-align: center;
+    }
+    .logo-img {
+        width: 72%;
+        margin-left: 10px;
+        padding-bottom: 10px;
+    }
+}

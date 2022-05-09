@@ -1,0 +1,155 @@
+@font-face{
+    font-family: timesregular;
+    src: url(../fonts/times\ new\ roman.ttf);
+}
+@font-face{
+    font-family: timebold;
+    src: url(../fonts/times\ new\ roman\ bold.ttf);
+}
+@font-face{
+    font-family: harlow;
+    src: url(../fonts//HarlowSolidPlain.otf);
+}
+@font-face{
+    font-family: Edwardian;
+    src: url(../fonts/ITCEDSCR.TTF);
+}
+@font-face{
+    font-family: Poppinsmedium;
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+@font-face{
+    font-family: Montserratbold;
+    src: url(../fonts/Montserrat-SemiBold.ttf);
+}
+@font-face{
+    font-family: poppins;
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+header{
+    background-color:#F3FFF3; 
+  }
+.img-box{
+    text-align: right;
+}
+.img-box1{
+    text-align: right;
+}
+.img-box1 img{
+    width: 58%;
+
+}
+.logo-img {
+    width: 70%;
+    margin-left: 87px;
+    padding-bottom: 10px;
+}
+.CrimeSyndicate-sec{
+    width: 100%;
+    background-color: #F3FFF3;
+    padding-bottom: 30px;
+}
+.CrimeSyndicate-heading{
+    text-align: center;
+    padding: 20px;
+}
+.abt-crime{
+    margin-left:0 ;
+    padding-left: 0;
+}
+.CrimeSyndicate-heading h1{
+    color: #9F1D3C;
+    font-family: harlow;
+    font-size: 46px;
+    font-weight: 300;
+}
+.CrimeSyndicate-heading h2 {
+    color: #9F1D3C;
+    font-family: harlow;
+    font-size: 30px;
+}
+.about-CrimeSyndicate p{
+    font-family: timesregular;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 0
+}
+.img-box img{
+    width: 140px;
+    margin: 10px;
+}
+.img-box2{
+    text-align: center;
+}
+a{
+    font-family: timesregular;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 4px; 
+}
+.about-CrimeSyndicate .bold{
+    font-family: timebold;
+}
+.CrimeSyndicate-title {
+    text-align: center;
+}
+.CrimeSyndicate-title h1{
+    color: #9F1D3C;
+    font-family: harlow;
+    font-size: 48px;
+    margin-bottom: 15px;
+}
+.CrimeSyndicate-title h2{
+    color: #9F1D3C;
+    font-family: harlow;
+    font-size: 31px;
+}
+span{
+    padding-right: 8px;
+}
+
+@media(max-width: 768px){
+.about-CrimeSyndicate p{
+    font-size: 11px;
+}
+.CrimeSyndicate-title p{
+    font-size: 13px;
+}
+.about-CrimeSyndicate a{
+    font-size: 11px;
+}
+.CrimeSyndicate-heading h2 {
+    font-size: 20px;
+}
+.CrimeSyndicate-heading h1 {
+    font-size: 30px;
+}
+.CrimeSyndicate-title h1 {
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+.CrimeSyndicate-title h2 {
+    font-size: 18px;
+}
+
+.img-box{
+    text-align: center;
+}
+.img-box1{
+    text-align: center;
+}
+.img-box1 img{
+    width: 58%;
+
+}
+.logo-img {
+    width: 70%;
+    margin-left: 0;
+    padding-bottom: 10px;
+}
+
+#nav {
+    margin-top: 0; 
+     margin-left: 0;
+}
+}

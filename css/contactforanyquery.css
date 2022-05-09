@@ -1,0 +1,139 @@
+/* contactforanyquery-sec start here */
+@font-face {
+    font-family: Recoletabold;
+    src: url(../fonts/Recoleta-Bold.ttf);
+  }
+  #header{
+    background-color: transparent !important;
+  }
+.contact-sec{
+    padding-bottom: 60px;
+  }
+  .contact-heading h2 {
+    font-family:Recoletabold;
+    font-weight: 700;
+    color: #1D1D1D;
+    margin: 0
+  }
+  
+  .contact-heading {
+    padding-top: 65px;
+    padding-bottom: 30px;
+  }
+  .payment-info{
+   display: flex;
+   flex-direction: row;
+  }
+  .payment-info .form-group {
+    padding-top: 20px;
+  }
+  label {
+    display: inline-block;
+    margin-bottom: 2px;
+    color: #000000;
+    font-family: Poppinssemibold;
+    font-weight: 400;
+    font-size: 15px;
+  }
+  
+  .contact-sec .btn-primary {
+    color: #fff;
+    padding: 10px 89px;
+    background-color: #9F1D3C;
+    border-color: transparent;
+    border-radius: 0;
+    font-family: Poppinssemibold;
+    font-size: 13px;
+    margin-top: 10px;
+  }
+  
+  .problems{
+      display: flex;
+      width: 95%;
+      justify-content: space-between;
+  }
+  .problems .form-control{
+    width: 95% !important;
+  }
+  .form-control {
+    width: 100% !important;
+    border: 2px solid #FFF5F5;
+    border-radius: 0;
+    padding: 0.375rem 1.75rem;
+    background-color: #FFF5F5;
+   
+  
+  }
+  .contact .form-group {
+    padding-top: 20px;
+  }
+  .contact-sec ::placeholder{
+    font-size: 12px;
+    font-family: Poppinsmedium;
+    color: #8A8A8A;
+  }
+  .contact-map{
+      margin-top: 66px;
+      height: 430px;
+  }
+  textarea{
+    resize: none;
+}
+ .phone{
+    width: 100%;
+    border-right: 2px solid black;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    margin-top: 40px;
+    padding: 11px 0;
+}
+.phone1{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    margin-top: 40px;
+}
+.contact-info{
+    justify-content: center;
+}
+.contact-info p{
+    margin-bottom: 4px;
+}
+.location {
+    width: 100%;
+    display: flex;
+    border-left: 2px solid black;
+    text-align: center;
+    flex-direction: column;
+    margin-top: 40px;
+}
+.contact-sec .fa{
+    font-size: 20px;
+    color: #9F1D3C;
+}
+  @media screen and (max-width: 760px){
+  p {
+    font-size: 12px !important;
+  }
+
+  .problems label {
+      margin-bottom: -1px !important;
+      font-weight: 400;
+  }
+  .phone{
+      border-right: transparent;
+  }
+  .phone1{
+      border: transparent;
+  }
+  .location{
+      border-left: transparent;
+  }
+  }
+
+/* .icon{
+ margin-left: 60px;
+} */
+  /* contactforanyquery-sec end here */

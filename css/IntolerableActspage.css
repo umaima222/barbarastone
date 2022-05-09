@@ -1,0 +1,629 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: Recoleta;
+    src: url(../fonts/Roboto/Roboto-Bold.ttf);
+}
+
+@font-face {
+    font-family: newtimes;
+    src: url(../fonts/times\ new\ roman.ttf);
+}
+
+@font-face {
+    font-family: Poppinssemibold;
+    src: url(../fonts/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: montserrat;
+    src: url(../fonts/Montserrat-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: HarlowSolid;
+    src: url(../fonts/HARLOWSI.TTF);
+}
+
+@font-face {
+    font-family: newtimesbold;
+    src: url(../fonts/times\ new\ roman\ bold.ttf);
+}
+
+@font-face {
+    font-family: timesregular;
+    src: url(../fonts/times\ new\ roman.ttf);
+}
+
+
+header {
+    background-color: #ffff;
+}
+
+.spn {
+    margin: 0 7px;
+}
+
+.Intolerable-Actsec {
+    width: 100%;
+    padding-bottom: 40px;
+}
+
+.Genocide-Racketsec {
+    width: 100%;
+    background-color: #F3FFF3;
+}
+
+.Intolerable-Acts-heading h1 {
+    font-family: HarlowSolid;
+    color: #9F1D3C;
+    font-size: 49px;
+    font-weight: 300;
+
+}
+
+.Intolerable-Acts-heading h2 {
+    font-family: HarlowSolid;
+    color: #9F1D3C;
+    font-size: 29px;
+    margin: 6px 0;
+}
+
+.Intolerable-Acts-heading h1 span {
+    color: #000000;
+}
+
+.img-box5 img {
+    width: 133px;
+    margin-left: 10px;
+}
+
+.img-box105 {
+    margin-left: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+}
+
+.img-box105 img {
+    width: 133px;
+}
+
+.border {
+    border: 2px solid transparent;
+    padding: 28px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 13px;
+    background-image: linear-gradient(to right, #DA9796, #FFEBEB, #DA9796);
+}
+
+.border p {
+    font-family: newtimesbold;
+    font-weight: 500;
+    margin-bottom: 1px;
+    font-size: 24px;
+}
+
+.text {
+    padding-top: 6px;
+}
+
+a {
+    color: #4A80FF;
+    font-size: 15px;
+    font-family: newtimesbold;
+    display: block;
+}
+
+.about .bold {
+    color: #000000;
+    font-family: newtimesbold;
+}
+
+.about-Intolerable-Acts p {
+    font-size: 15px;
+    margin-bottom: 1px;
+    font-family: times;
+    line-height: 29px;
+}
+
+.about-pg a {
+    color: #000000;
+    font-family: newtimesbold;
+    text-decoration: underline;
+    font-size: 17px;
+}
+
+.Intolerable-Acts-title {
+    text-align: center;
+}
+
+.Intolerable-Acts-title h1 span {
+    color: #000000;
+}
+
+.Intolerable-Acts-title h2 span {
+    color: #000000;
+}
+
+.Intolerable-Acts-titles h3 span {
+    color: #000000;
+}
+
+.Intolerable-Acts-title h3 span {
+    font-size: 52px;
+    color: #000000;
+    font-family: HarlowSolid;
+}
+
+.Intolerable-Acts-title h1 {
+    font-family: HarlowSolid;
+    color: #9F1D3C;
+    font-size: 44px;
+    padding-bottom: 17px;
+    padding-top: 14px;
+    font-weight: 100;
+}
+
+.Intolerable-Acts-titles {
+    text-align: center;
+}
+
+.Intolerable-Acts-titles .title-h {
+    font-family: HarlowSolid;
+    color: #9F1D3C;
+    font-size: 39px;
+    padding-bottom: 17px;
+    padding-top: 14px;
+    font-weight: 100;
+}
+
+.Intolerable-Acts-title h2 {
+    font-family: HarlowSolid;
+    color: #9F1D3C;
+    font-size: 32px;
+    margin: 0;
+}
+
+.Intolerable-Acts-titles h2 {
+    font-family: HarlowSolid;
+    color: #9F1D3C;
+    font-size: 29px;
+    margin: 0;
+}
+
+.Intolerable-Acts-title h3 {
+    font-family: HarlowSolid;
+    color: #9F1D3C;
+    font-size: 36px;
+}
+
+.Intolerable-Acts-heading {
+    text-align: center;
+}
+
+.img-box1 {
+    margin-bottom: 10px;
+    margin-left: 8px;
+    margin-top: 10px;
+}
+
+.img-box2 {
+    margin-bottom: 10px;
+    margin-left: 11px;
+    margin-top: 10px;
+}
+
+.img-box2 img {
+    height: 150px;
+    width: 135px;
+}
+
+.about-page p {
+    font-family: times;
+}
+
+.bold {
+    font-family: timesbold;
+    font-weight: 600;
+    font-size: 17px;
+    margin-right: 13px;
+}
+
+.space p {
+    font-family: timesregular;
+    margin: 0;
+}
+
+.information p {
+    font-family: ttimesregular;
+}
+
+.about-webpage p {
+    font-family: timesregular;
+}
+
+.info-page {
+    margin-top: 15px;
+}
+
+.about-web {
+    margin: 20px 0;
+}
+
+.about-web p {
+    font-family: times;
+}
+
+.info-page p {
+    font-family: times;
+}
+
+.about {
+    margin: 80px 0;
+}
+
+.about p {
+    font-family: times;
+    margin-bottom: 6px;
+}
+
+.img-box41 img {
+    height: 200px;
+}
+
+.about-Intolerable-Acts {
+    margin-top: 40px;
+}
+
+p {
+    font-size: 16px;
+}
+
+h2 {
+    font-family: HarlowSolid;
+    color: #9F1D3C;
+}
+
+h2 span {
+    color: #000000;
+    padding: 0 5px;
+}
+
+.img-box38 {
+    margin-top: 150px;
+    margin-bottom: 10px;
+    margin-left: 14px;
+    margin-right: 13px;
+}
+
+.img-box38 img {
+    width: 200px;
+}
+
+.img-box93 {
+    margin-bottom: 100px;
+    margin-left: 14px;
+    margin-right: 13px;
+}
+
+.img-box93 img {
+    width: 200px;
+}
+
+.img-boxspace {
+    margin-top: 400px;
+    margin-bottom: 10px;
+}
+
+.img-box41 {
+    margin: 4px;
+}
+
+.about-webpage {
+    margin-top: 25px;
+}
+
+.img-box {
+    margin-right: 15px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.img-boxlast1 {
+    margin-left: 8px;
+    margin-top: 10px;
+}
+
+.img-box-1 {
+    margin-left: 11px;
+    margin-right: 18px;
+    margin-bottom: 10px;
+}
+
+.texts {
+    margin-top: 10px;
+}
+
+.texts span {
+    color: #000000;
+    font-family: newtimesbold;
+    font-size: 14px;
+}
+.texts p {
+    font-family: times;
+    font-size: 16px;
+}
+@media(max-width: 1024px) {
+    .img-box2 img {
+        height: 150px;
+        width: 110px;
+    }
+    .img-box5 img {
+        width: 107px;
+        margin-left: 10px;
+    }
+    .img-box2 {
+        margin-bottom: 10px;
+        margin-left: 9px;
+        margin-top: 10px;
+    }
+}
+/* @media(max-width: 570px){
+    .img-box41 img {
+        height: 211px;
+    }
+    .img-box41 {
+        margin: 4px;
+        text-align: center;
+    }
+    .img-box-1 {
+        margin: 10px 0;
+        text-align: center;
+    }
+    .img-box-1{
+        width: 220px;
+    }
+    .img-box5 img {
+        width: 217px;
+        margin: 10px 0;
+    }
+    .img-box img {
+        width: 222px;
+    }
+    .img-box2 {
+        text-align: center;
+        margin: 0;
+    }
+    .img-box2 img {
+        height: 211px;
+        width: 222px;
+    }
+    .img-boxlast{
+        text-align: center;
+        margin: 10px 0;
+    }
+    .img-boxlast1{
+        text-align: center;
+        margin: 10px 0;
+    }
+    .img-boxlast1 img{
+        width: 180px;
+    }
+
+} */
+@media(max-width: 768px) {
+    .logo-img {
+        width: 75%;
+        margin-left: 0;
+    }
+
+    .resources {
+        text-align: center;
+    }
+
+    p {
+        font-size: 15px;
+    }
+
+    .about p {
+        font-family: times;
+        font-size: 12px;
+    }
+
+    .about {
+        margin: 10px 0;
+    }
+
+    a {
+        font-size: 11px;
+    }
+
+    .about-webpage p {
+        font-family: times;
+        font-size: 11px;
+    }
+
+    .Intolerable-Acts-title h2 {
+        font-size: 14px;
+    }
+
+    .Intolerable-Acts-title h1 {
+        font-size: 20px;
+        /* padding: 20px; */
+    }
+
+    .img-box {
+        text-align: center;
+    }
+
+    .img-box img {
+        width: 222px;
+    }
+
+    .img-box img {
+        max-width: 100%;
+        height: auto;
+        width: 100%;
+    }
+
+    .img-box1 img {
+        max-width: 100%;
+        height: auto;
+        width: 100%;
+    }
+
+    .img-box1 {
+        text-align: center;
+    }
+
+    .Intolerable-Acts-heading h2 {
+        font-size: 21px;
+    }
+
+    .Intolerable-Acts-heading h1 {
+        font-size: 20px;
+    }
+
+    .Intolerable-Actsec {
+        width: 100%;
+        padding-bottom: 10px;
+    }
+
+    .img-box38 {
+        margin: 10px;
+        text-align: center;
+    }
+
+    .img-box38 img {
+        width: 200px;
+    }
+
+    .img-box93 {
+        margin: 10px;
+        text-align: center;
+    }
+
+    .img-box93 img {
+        width: 200px;
+    }
+
+    .img-boxspace {
+        margin-top: 10px;
+    }
+
+    .img-box5 {
+        text-align: center;
+    }
+
+    .img-box5 img {
+        width: 70px;
+        margin: 0;
+    }
+
+    .img-box105 img {
+        width: 220px;
+    }
+
+    .img-boxspace img {
+        width: 222px;
+    }
+
+    .img-boxspace {
+        text-align: center;
+    }
+
+    .img-box41 {
+        margin: 4px;
+        text-align: center;
+    }
+    .img-box41 img {
+        height: 135px;
+    }
+    .img-box1 {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    .img-box1 img {
+        width: 222px;
+    }
+
+    .img-box img {
+        width: 222px;
+    }
+
+    .img-box105 {
+        text-align: center;
+    }
+    .img-box2 img {
+        height: 116px;
+        width: 69px;
+    }
+    .img-box105 {
+        margin-left: 8px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        margin-right: 10px;
+    }
+}
+
+@media(max-width: 570px){
+    .img-box41 img {
+        height: 211px;
+    }
+    .img-box41 {
+        margin: 4px;
+        text-align: center;
+    }
+    .img-box-1 {
+        margin: 10px 0;
+        text-align: center;
+    }
+    .img-box-1 img{
+        width: 220px;
+    }
+    .img-box5 img {
+        width: 217px;
+        margin: 10px 0;
+    }
+    .img-box img {
+        width: 222px;
+    }
+    .img-box2 {
+        text-align: center;
+        margin: 0;
+    }
+    .img-box2 img {
+        height: 211px;
+        width: 222px;
+    }
+    .img-boxlast{
+        text-align: center;
+        margin: 10px 0;
+    }
+    .img-boxlast1{
+        text-align: center;
+        margin: 10px 0;
+    }
+    .img-boxlast1 img{
+        width: 180px;
+    }
+    .about-pg a {
+
+        font-size: 15px;
+    }
+    .Intolerable-Acts-title h3 {
+        font-size: 30px;
+    }
+    .side-m{
+            margin-left: -22px;
+    }
+
+}

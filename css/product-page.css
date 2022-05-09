@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Recoletabold;
+    src: url(../fonts/Recoleta-Bold.ttf);
+  }
+  #header{
+    background-color: transparent !important;
+  }
+  /* donation-sec start here */
+  .product-sec{
+    padding-bottom: 66px;
+  }
+  .product-heading {
+    text-align: center;
+    background-color: #9E1C36;
+    padding: 34px;
+  }
+  
+  .product-heading h1 {
+    color: #FFFFFF;
+    font-family: Recoletabold;
+    font-size: 34px;
+    font-weight: 500;
+  }
+  

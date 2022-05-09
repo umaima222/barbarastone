@@ -1,0 +1,188 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: harlow;
+    src: url(../fonts//HarlowSolidPlain.otf);
+}
+
+@font-face {
+    font-family: Edwardian;
+    src: url(../fonts/ITCEDSCR.TTF);
+}
+
+@font-face {
+    font-family: Poppinsmedium;
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: Montserratbold;
+    src: url(../fonts/Montserrat-SemiBold.ttf);
+}
+@font-face {
+    font-family: Montserrat;
+    src: url(../fonts/Montserrat-Medium.ttf);
+}
+@font-face {
+    font-family: poppins;
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: Poppinssemi;
+    src: url(../fonts/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: Poppinssemibold;
+    src: url(../fonts/Poppins-SemiBold.ttf);
+}
+header{
+    background-color: #FFFFFF;
+}
+.Constitution-sec {
+    width: 100%;
+    padding-bottom: 71px;
+}
+
+.Constitution-head {
+    text-align: center;
+}
+
+.Constitution-head h1 {
+    color: #9F1D3C;
+    font-family: harlow;
+    padding-bottom: 55px;
+    font-weight: 500;
+    font-size: 45px;
+}
+
+.about-consitution h1 {
+    font-family: Edwardian;
+    color: #9F1D3C;
+    font-weight: 900;
+    font-size: 37px;
+    padding: 10px 0;
+}
+
+.about-consitution h2 {
+    font-family: Montserrat;
+    color: #9F1D3C;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.img-box1 {
+    margin: 0;
+}
+
+.img-box2 {
+    margin-top: 90px;
+}
+
+.img-box2 img {
+    width: 100%;
+}
+
+.img-box {
+    margin-top: 110px;
+}
+
+.about-consitution p {
+    font-family: Montserratbold;
+    font-size: 16px;
+    display: flex;
+}
+.small p{
+    font-family: Montserrat;
+    font-size: 18px;
+}
+.about-consitution span {
+    font-family: poppins;
+    font-weight: 700;
+    color: #9F1D3C;
+    margin-top: -3px;
+    padding-right: 4px;
+    font-size: 20px;
+}
+
+.about-consitution {
+    margin-bottom: 46px;
+}
+
+@media(max-width: 768px) {
+
+    .Constitution-head {
+        margin-top: 25px;
+    }
+    .Constitution-sec {
+        width: 100%;
+        padding-bottom: 10px;
+    }
+    .about-consitution h2 {
+        font-size: 21px;
+    }
+
+    .Constitution-sec {
+        padding-bottom: 50px;
+    }
+
+    .about-footer {
+        display: flex;
+        flex-direction: column;
+        margin-top: 20px;
+    }
+
+    .socail-icon .fa {
+        color: white;
+        font-size: 25px;
+        padding: 8px;
+    }
+
+    .about-consitution p {
+        font-size: 14px;
+    }
+
+    .about-consitution h1 {
+        font-family: Edwardian;
+        color: #9F1D3C;
+        font-weight: 900;
+        font-size: 23px;
+    }
+
+    .about-consitution span {
+        font-family: poppins;
+        font-weight: 600;
+        color: #9F1D3C;
+        padding-right: 4px;
+        font-size: 16px;
+    }
+    .logo-img {
+        width: 72%;
+        margin-left: 0;
+        padding-bottom: 10px;
+    }
+    .Constitution-head h1 {
+        padding-bottom: 16px;
+    }
+    .img-box1{
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:1168px) {
+    .about-consitution p {
+        font-size: 14px;
+    }
+
+   
+}

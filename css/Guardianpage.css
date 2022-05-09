@@ -1,0 +1,78 @@
+@font-face{
+    font-family: Recoleta;
+    src: url(font/Roboto/Roboto-Bold.ttf);
+}
+
+@font-face{
+    font-family: Poppinsmedium;
+    src: url(font/Poppins-Medium.ttf);
+}
+@font-face{
+    font-family: montserrat;
+    src: url(font/Montserrat-SemiBold.ttf);
+}
+  header{
+    background-color: #FFFFFF;
+}
+.guardian-sec{
+    width: 100%;
+    padding-bottom: 71px;
+}
+
+.guardian-heading{
+    text-align: center;
+    padding: 35px 0;
+    background-color: #9E1C36;
+}
+.guardian-heading h1{
+    color: #FFFFFF;
+    font-family: Recoleta;
+    font-size: 25px;
+}
+.about-guardian{
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.about-guardian p{
+    font-family: Poppins;
+    font-weight: 500;
+    margin-bottom: 0;
+    font-size: 15px;
+    color: #191919;
+}
+.space-text{
+    margin-top: 30px;
+}
+span{
+    margin-right: 3px;
+    font-weight: 600;
+}
+
+ .title .heading{
+    font-weight: 500;
+    padding-top: 37px;
+    padding-bottom: 10px;
+    text-align: left;
+    font-family: poppins;
+}
+a{
+    color: #0044FF;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 15px;
+    display: block;
+}
+
+@media(max-width: 768px){
+.about-guardian p {
+    font-family: Poppinsmedium;
+    font-size: 13px;
+    color: #191919;
+}
+a {
+    font-family: Poppinsmedium;
+    font-size: 13px;
+    overflow: hidden !important;
+    font-variant: all-small-caps !important;
+}
+}
