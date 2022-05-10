@@ -11,7 +11,10 @@ body {
   margin: 0;
   padding: 0;
 }
-
+@font-face {
+  font-family: Poppinssemibolditalic;
+  src: url(../fonts/Poppins-SemiBoldItalic.ttf);
+}
 @font-face {
   font-family: HarlowSolid;
   src: url(../fonts/HarlowSolidPlain.otf);

@@ -1,24 +1,217 @@
 @font-face {
-    font-family: Recoletabold;
-    src: url(../fonts/Recoleta-Bold.ttf);
-  }
-  #header{
-    background-color: transparent !important;
-  }
-  /* donation-sec start here */
-  .product-sec{
-    padding-bottom: 66px;
-  }
-  .product-heading {
-    text-align: center;
-    background-color: #9E1C36;
-    padding: 34px;
-  }
-  
-  .product-heading h1 {
-    color: #FFFFFF;
-    font-family: Recoletabold;
-    font-size: 34px;
-    font-weight: 500;
-  }
-  
+  font-family: Recoletabold;
+  src: url(../fonts/Recoleta-Bold.ttf);
+}
+
+#header {
+  background-color: transparent !important;
+}
+
+/* product-sec start here */
+.product-sec {
+  padding-bottom: 66px;
+}
+
+.product-heading {
+  text-align: center;
+  background-color: #9E1C36;
+  padding: 34px;
+}
+
+.product-heading h1 {
+  color: #FFFFFF;
+  font-family: Recoletabold;
+  font-size: 34px;
+  font-weight: 500;
+}
+/* product-sec end here */
+@media screen and (max-width: 768px) {
+  .cards-container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column !important;
+    margin-top: 12px;
+}
+.card-one {
+  background-color: #F5F5F5;
+  padding: 10px 10px;
+  height: 317px;
+  margin-top: 10px;
+}
+.carts a {
+  display: flex;
+  align-items: center;
+  justify-content:center !important;
+  color: #fff;
+  background: #9F1D3C;
+  max-width: 200px;
+  margin: 10px 0 0 auto !important;
+  padding: 10px;
+}
+}
+/* all-products start here */
+
+section.all-products {
+  width: 92%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.form-control {
+  border: transparent !important;
+  border-radius: 0 !important;
+}
+
+select#inputState {
+  border: none;
+  background-color: #F5F5F5;
+  font-family: Poppinsmedium;
+  color: #141414;
+  font-size: 16px;
+}
+
+.Category-heading {
+  background-color: #9E1C36;
+  padding: 10px;
+}
+
+.Category-heading h3 {
+  font-family: poppinregular;
+  margin-left: 20px;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+
+.category {
+  padding-bottom: 40px;
+  padding-top: 0 !important;
+  background-color: #F5F5F5;
+}
+.fa {
+  font-size: 12px !important;
+}
+
+.card-one {
+  background-color: #F5F5F5;
+  padding: 10px 10px;
+  height: 317px;
+}
+
+.carts a {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  color: #fff;
+  background: #9F1D3C;
+  max-width: 200px;
+  margin: 0px 0 0 auto;
+  padding: 10px;
+}
+
+.carts span {
+  padding-right: 70px;
+}
+.card-text p {
+  color: #000000;
+  opacity: 0.4;
+  font-size: 15px;
+}
+
+.checked {
+  color: #9F1D3C;
+}
+
+.stars {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0 10px;
+}
+
+.about-card {
+  padding: 0 10px;
+}
+
+.about-card h4 {
+  color: #000000;
+  font-family: Poppinsmedium;
+  font-size: 15px;
+}
+
+.price {
+  display: flex;
+}
+
+.price-1 h5 {
+  color: #9F1D3C;
+  font-family: Poppinssemibold;
+  font-size: 15px;
+}
+
+.cards-container {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  margin-top: 20px;
+}
+
+.price-1 p {
+  color: #000000;
+  opacity: 0.4;
+  font-size: 12px;
+  text-decoration: line-through;
+}
+
+.reveiws p {
+  color: #000000;
+  opacity: 0.4;
+  font-size: 12px;
+}
+.reveiws{
+  margin-left: 10px;
+}
+.phone-img {
+  width: 80%;
+}
+
+.phone-img img {
+  width: 100%;
+}
+
+.product {
+  margin-top: 40px;
+}
+.cards-imgs{
+  width: 80%;
+}
+.cards-imgs img{
+  width: 100%;
+}
+/* all-products end here */
+/* funds-sec start here */
+.funds-sec{
+  padding-bottom: 50px;
+}
+.funds-heading{
+  text-align: center;
+  padding: 40px 0;
+}
+.funds-heading h3{
+  color: #9F1D3C;
+  font-family: Poppinssemibolditalic;
+}
+.funds-sec p{
+font-size: 18px;
+color: #000000;
+font-family: Poppinsmedium;
+}
+.about-funds p{
+  color: #9F1D3C;
+  font-family: Poppinsmedium;
+  font-size: 15px;
+}
+.about{
+  margin-top: 20px;
+}
+
+/* funds-sec end here */

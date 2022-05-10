@@ -1,0 +1,618 @@
+@font-face {
+    font-family: Recoletabold;
+    src: url(../fonts/Recoleta-Bold.ttf);
+  }
+#header{
+    background-color: transparent !important;
+  }
+  /* legal-sec start here */
+  .legal-sec{
+    padding-bottom: 66px;
+  }
+  .legal-heading {
+    text-align: center;
+    background-color: #9E1C36;
+    padding: 34px;
+  }
+  
+  .legal-heading h1 {
+    color: #FFFFFF;
+    font-family: Recoletabold;
+    font-size: 34px;
+    font-weight: 500;
+  }
+   /* legal-sec end here */
+   /* agent-profile-section start here */
+.agent-profile-section{
+    margin-top: 70px;
+    padding-bottom: 50px;
+}
+.profile-left-side{
+    background-color: #FFFFFF;
+    padding-bottom: 40px;
+    box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);
+}
+.for-my-profile-btn{
+    width: 100%;
+}
+.my-profile-btn {
+    width: 100%;
+    background-color: #9E1C36;
+    height: 48px;
+    color: #FFFFFF;
+    font-family: poppinregular;
+    font-size: 17px;
+    border: 0px;
+    text-align: left;
+    padding-left: 26px;
+}
+.round-img{
+    margin-top: 12px;
+}
+.round-img img{
+    width: 65%;
+    border-radius: 50%;
+}
+.name-and-user-email span{
+    display: block;
+    text-align: center;
+}
+.name-of-user{
+    color: #000000;
+    font-family: poppinregular;
+}
+.email-of-user{
+    color: #9E1C36;
+    font-family: poppinregular;
+}
+/* Tabs Start */
+.nav{
+    display: unset !important;
+}
+.bootstrap-all-tabs{
+    margin-top: 42px;
+}
+.inside-profile-tab{
+    display: flex;
+    justify-content: space-between;
+}
+.for-all-tabs, .for-all-tabs:hover{
+    display: block !important;
+    width: 100%;
+    color: #5E5E5E;
+    font-family: Poppinsmedium;
+    font-size: 14px;
+    border-top: 1px  solid #F1F1F1!important;
+    border-bottom: 1px  solid #F1F1F1!important;
+    border-right: 0px !important;
+    border-left: 0px !important;
+    border-radius: 0px;
+    height:  60px;
+    padding: 0px 75px;
+    text-align: left;
+}
+
+.for-all-tabs, .for-all-tabs:not(:last-child){
+    border-bottom: unset !important;
+}
+
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+    color: #9E1C36;
+    font-family: Poppinssemibold;
+    font-size: 15px;
+    border-top: 1px  solid #CECECE;
+    border-bottom: 1px  solid #CECECE;
+    border-right: 0px;
+    border-left: 0px;
+    border-radius: 0px;
+    background-color: unset !important;
+}
+/* left side end here */
+
+
+/* Property Tab CSS start Here  */
+.properties-start-here{
+    padding: 30px 30px;
+}
+.my-properties-list{
+    display: flex;
+    padding-bottom: 32px;
+    padding-top: 32px;
+}
+.my-properties-list:not(:last-child){
+    border-bottom: 1px solid #CECECE;
+}
+.my-property-details{
+    width: 82%;
+    margin-left: 30px;
+}
+.property-name-plus-update-delete{
+    display: flex;
+    justify-content: space-between;
+}
+.property-name-heading{
+    color: #002349;
+    font-family: poppinregular;
+    font-size: 18px;
+    font-weight: 600;
+}
+.for-delete-img{
+    padding-left: 19px;
+}
+.address-of-property{
+    margin-top: 7px;
+    margin-bottom: 9px;
+}
+.for-bar-icon i{
+    color: #002349;
+    font-size: 12px;
+}
+.for-city-state{
+    color: #151515;
+    font-size: 12px;
+    font-family: poppinregular;
+    padding-left: 6px;
+}
+.some-detail-about-property{
+    color: #8A8A8A;
+    font-family: poppinregular;
+    font-size: 12px;
+    margin-bottom: 5px !important;
+}
+.property-date{
+    color: #151515;
+    font-family: poppinregular;
+    font-size: 12px;
+}
+/* Property tab End Here */
+
+/* Basic Information Start */
+.for-basic-information-heading {
+    padding: 17px 3px;
+}
+.basic-information-heading{
+    color: #9E1C36;
+    font-size: 27px;
+    font-family: poppinregular;
+    font-weight: 500;
+    margin-left: 20px;
+}
+.basic-information-card{
+    /* margin-top: 50px; */
+    margin-left: 20px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.basiic-infoomation-box{
+    padding: 29px 25px 80px 25px;
+}
+.profile-photo-plus-edit{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.profile-photo-plsu-upload{
+    display: flex;
+}
+.user-profile-img{
+    border-radius: 50%;
+}
+.photo-upload-new-photo{
+    margin-top: 16px;
+    margin-left: 25px;
+}
+.your-photo-txt{
+    color: #282828;
+    font-family: poppinregular;
+    font-size: 20px;
+}
+.upload-change-photo{
+    font-family: poppinregular;
+    color: #282828;
+    font-size: 16px;
+    opacity: 0.51;
+}
+.edit-profile{
+    color: #9E1C36;
+    font-family: poppinregular;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: 600;
+    text-decoration: underline;
+}
+.personal-information{
+    padding-left: 12px;
+    padding-bottom: 37px;
+    border-bottom:  2px solid #7070702e;
+    
+}
+.user-details-line{
+    margin-top: 25px;
+}
+.information-to-give{
+    display: block;
+    font-family: poppinregular;
+    color: #282828;
+    font-size: 16px;
+    opacity: 0.51;
+}
+.information-by-user{
+    font-family: poppinregular;
+    color: #282828;
+    font-size: 16px;
+    display: block;
+    margin-top: 10px;
+}
+.password-change{
+    display: flex;
+    align-items: center;
+}
+.change-your-password{
+    padding-left: 25px;
+    display: block;
+    margin-top: -5px;
+    font-weight: 400;
+    color: #9E1C36;
+    font-family: poppinregular;
+    font-size: 14px;
+    text-decoration: underline;
+}
+.address {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+    align-items: center;
+    margin: 20px 0;
+}
+.home-address p{
+ color: #282828;
+ opacity: 0.5;
+ font-family: poppinregular;
+ display: inline;
+ margin-bottom: 0;
+}
+.change-address a{
+    font-size: 16px;
+    color: #9E1C36 !important;
+    text-decoration: underline;
+    font-family: poppinregular;
+}
+.location{
+    font-family: "poppins";
+    font-weight: 500;
+    color: #282828;
+    font-size: 16px;
+}
+.loc-info{
+    color: #989898;
+    font-family: poppinregular;
+    font-size: 15px;
+}
+.about-address{
+    display: flex;
+    justify-content: space-between;
+}
+.about-personal-information p{
+    color: #282828;
+    font-family: poppinregular;
+    font-size: 18px;
+}
+/* Basic Information end */
+
+/* Add property start */
+
+/*  */
+.table h3{
+    color: #303030;
+    font-family: "poppins";
+    font-weight: 500;
+}
+.table thead th {
+    color: #303030;
+    font-family: "poppins";
+    font-weight: 500;
+}
+.table td, .table th {
+    color: #303030;
+    font-family: "poppins";
+    font-weight: 400;
+}
+.table{
+    margin-top: 67px
+}
+.page-item.disabled .page-link {
+    padding: 12px;
+}
+.page-change{
+    padding: 20px 0;
+}
+.page-item:last-child .page-link {
+    padding: 12px;
+    color: #303030 !important;
+    pointer-events: none;
+    cursor: auto;
+    background-color: #88B379 !important;
+    border-color: transparent !important;
+}
+.page-item.disabled .page-link {
+    color: #303030 !important;
+    pointer-events: none;
+    cursor: auto;
+    background-color: #88B379 !important;
+    border-color: transparent !important;
+}
+.page-item.active .page-link {
+    position: relative;
+    display: block;
+    padding: .5rem .75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #88B379 !important;
+    background-color: #fff !important;
+    border: 4px solid #88B379 !important;
+}
+.page-link {
+    position: relative;
+    display: block;
+    padding: .5rem .75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #303030 !important;
+    background-color: #fff;
+    border: 4px solid #B6B6B6 !important;
+}
+.page-item{
+margin: 0 5px;
+}
+/* custom checkbox End here */
+
+
+
+
+/* My Membership Start */
+.my-member-start-here{
+    padding: 47px 47px;
+}
+.membership-slip-heading{
+    color: #002349;
+    font-family: popins-bold;
+    font-size: 18px;
+    font-weight: 600;
+}
+.expiry-status{
+    margin-top: 35px;
+}
+.membership-box{
+    background-color: #F3F4FB;
+    width: 100%;
+    padding-left: 10%;
+    padding-bottom: 17px;
+}
+.for-the-membership-date{
+    padding: 20px 0px 14px 0px ;
+}
+.for-all-dates{
+    font-size: 16px;
+    font-family: popins-medium;
+    color: #272727;
+    font-weight: 600;
+}
+.for-start-end-status{
+    color: #8A8A8A;
+    font-family: popins-medium;
+    font-size: 13px;
+    width: 90%;
+    border: none;
+    outline: none;
+    border-radius: 0px;
+    height: 47px;
+    padding-left: 15px;
+}
+.membership-expiry-box{
+    background-color: #E3E5F5;
+    width: 100%;
+    padding-left: 10%;
+    padding-bottom: 17px;
+}
+.membership-status-box{
+    background-color: #002349;
+    width: 100%;
+    padding-left: 10%;
+    padding-bottom: 17px;
+}
+.membership-status-heading{
+    font-size: 16px;
+    font-family: popins-medium;
+    color: #FFFFFF;
+    font-weight: 600;
+}
+.for-mebership-status{
+    color: #FFFFFF;
+    font-family: popins-medium;
+    font-size: 13px;
+    width: 90%;
+    border: none;
+    outline: none;
+    border-radius: 0px;
+    height: 47px;
+    padding-left: 15px;
+    background-color: #4D6782;
+}
+.membership-status-heading{
+    margin: 55px 0px 35px 0px;
+}
+.that-feature{
+    margin-left: 22px;
+}
+.single-feature{
+    margin-top: 8px;
+}
+.that-feature span{
+     font-size: 15px;
+    font-family: popins-light;
+    color: #002349;
+}
+#per-month-box{
+    padding: 0px !important;
+}
+.member-ship-per-month-box{
+    width: 100%;
+    background-color: #F3F4FB;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    position: relative;
+}
+.per-month-price{
+    font-size: 27px;
+    color: #002349;
+    font-family: popins-medium;
+    font-weight: 600;
+}
+.membership-width-top{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.for-member-ship-in-top{
+    padding: 8px 8%;
+    background-color: #E3E5F5;
+    position: absolute;
+    top: -22px;
+}
+.member-ship-in-top{
+    color: #272727;
+    font-size: 16px;
+    font-family: popins-medium;
+}
+.upgrade-cancel-membership-btn{
+    display: flex;
+    margin-top: 45px;
+}
+.upgrade-membership-btn{
+    width: 277px;
+    height: 57px;
+    background-color: #001731;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: popins-medium;
+    border: 0px;
+    border-radius: 3px;
+}
+.for-cancel-membership-btn{
+    margin-left: 20px;
+}
+.cancel-membership-btn{
+    width: 277px;
+    height: 57px;
+    background-color: #E3E5F5;
+    color: #001731;
+    font-size: 16px;
+    font-family: popins-medium;
+    border: 0px;
+    border-radius: 3px;
+}
+
+
+
+/* Enquiry test */
+.enquiry-headings{
+    font-size: 16px;
+    font-family: popins-medium;
+    font-weight: 600;
+    color: #272727;
+}
+.enquiry-normal-text{
+    color: #747474;
+    font-size: 14px;
+    font-family: popins-light;
+    font-weight: 600;
+}
+table tr td {
+    vertical-align: middle;
+    padding-top: 33px !important;
+    padding-bottom: 33px !important;
+}
+table tr th{
+    padding-top: 57px !important;
+    padding-bottom: 32px !important;
+}
+.for-full-name{
+    width: 13%;
+}
+.for-contact-info{
+    width: 18%;
+}
+.for-reason-to-buy{
+    width: 15%;
+}
+.for-enquiry-description{
+    width: 45%;
+}
+.last-tabel-row{
+    border-style: unset !important;
+}
+
+/* Enquriy test here */
+
+@media screen and (max-width: 1030px) {
+    .for-all-tabs, .for-all-tabs:hover{
+        padding: 0px 12px !important;
+    }
+    .log-out-btn{
+        margin-left: 10px;
+    }
+    .name-and-user-email {
+        padding-left: 6%;
+    }
+}
+@media screen and (max-width: 765px) {
+    .basic-information-card{
+        margin-left: 0px !important;
+    }
+    .my-properties-list{
+        display: unset;
+    }
+    .my-property-details{
+        width: 100%;
+        margin-left: unset !important;
+    }
+    .property-img img{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .for-small-para-in-top{
+        padding: 0px 32px;
+    }
+    .membership-expiry-box, .membership-status-box{
+        margin-top: 35px;
+    }
+    .member-ship-per-month-box{
+        margin-top: 30px;
+        margin-bottom: 45px;
+    }
+    .upgrade-cancel-membership-btn{
+        display: unset;
+    }
+    .for-cancel-membership-btn{
+        margin-left: unset;
+        margin-top: 12px;
+    }
+    .profile-photo-plus-edit{
+        display: unset;
+    }
+    
+    .for-all-tabs, .for-all-tabs:hover{
+        padding: 0px 75px !important;
+    }
+    .enquiry-request-test-lines{
+        width: 100%;
+        overflow-y: scroll;
+    }
+    .log-out-btn{
+        margin-left: 75px;
+    }
+    .name-and-user-email {
+        padding-left: 19%;
+    }
+}
+  /* agent-profile-section start here */
