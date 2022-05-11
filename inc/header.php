@@ -43,7 +43,7 @@
                         <div class="dropdown-menu     ">
                             <a class="dropdown-item" href="sign-in.php">Sign in</a>
                             <a class="dropdown-item" href="createanaccount.php">Sign Up</a>
-                            <a class="dropdown-item" href="agent-profile.php">My Profile</a>
+                            <a class="dropdown-item" href="user-profile.php">My Profile</a>
                             <a class="dropdown-item" href="agent-profile.php">Account</a>
                             <a class="dropdown-item" href="productcart.php">View Cart</a>
                         </div>

@@ -30,7 +30,7 @@
                             </div>
 
                             <div class="form-group ">
-                                <button class="form-control btn">Send Code</button>
+                              <a href="enter-otp-code.php"> <button class="form-control btn">Send Code</button></a>
                             </div>
                             <span>An email has been sent to reset the password
                                 Haven't Received the email yet? </span> <a href="#">Try again</a>

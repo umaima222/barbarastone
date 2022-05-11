@@ -24,7 +24,7 @@
                         <h6>Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br> sed do eiusmod tempor</h6>
                     </div>
                     <div class="sign-up-form-wrapper">
-                    <form action="">
+                    <form action="login.php">
                             <div class="form-group">
                                 <input type="text" class="form-control" placeholder="New Password" required>
                             </div>
@@ -33,7 +33,7 @@
                             </div>
                             
                             <div class="form-group ">
-                                <button class="form-control btn">Save Password</button>
+                                <button class="form-control btn" type="submit">Save Password</button>
                             </div>
                         </form>
                     </div>

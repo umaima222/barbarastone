@@ -1,6 +1,6 @@
 <?php include 'inc/app.php'; ?>
 <!-- css file starts here -->
-<link rel="stylesheet" href="css/sign-in.css">
+<link rel="stylesheet" href="css/login.css">
 <!-- css file ends here -->
 <!-- sign up as a user section starts here -->
 <section class="signup">
@@ -15,9 +15,9 @@
                         <h6>Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br> sed do eiusmod tempor</h6>
                     </div>
                     <div class="sign-up-form-wrapper">
-                        <form action="">
+                        <form action="index.php">
                             <div class="form-group">
-                                <input type="email" class="form-control" placeholder="Email/Username" required>
+                                <input type="email" class="form-control" placeholder="Email" required>
                             </div>
                             <div class="form-group">
                                 <input type="password" class="form-control" placeholder="Password" required>
@@ -31,7 +31,7 @@
                             </div>
                             
                             <div class="form-group ">
-                                <button class="form-control btn">Submit</button>
+                                <button class="form-control btn" type="submit">login</button>
                             </div>
                             <span>Don't have account?</span> <a href="createanaccount.php"> Sign Up</a>
                         </form>

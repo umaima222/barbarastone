@@ -13,7 +13,7 @@
                         <input type="" class="banner-control" id="inputPassword4" placeholder="We the People Reclaim and Secure our Rights">
 
                         <div class="donate-banner">
-                            <a href="/donation.php"><button>Donate Now</button></a>
+                            <a href="donation.php"><button>Donate Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -77,7 +77,7 @@
                                 <a href="contactforanyquery.php">Contact us</a>
                                 <a href="testimonal.php">Reviews</a>
                                 <a href="product-page.php">Products</a>
-                                <a href="#">Forum</a>
+                                <a href="forum-1.php">Forum</a>
                             </div>
                         </div>
                     </div>

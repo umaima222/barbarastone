@@ -24,16 +24,16 @@
                         <h6>Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br> sed do eiusmod tempor</h6>
                     </div>
                     <div class="sign-up-form-wrapper">
-                        <form action="">
+                        <form action="newpassword.php">
                         <div class="input-group">
                                         <input type="text" name="" class="enter-first-name for-all-form-input" >
                                         <input type="text" name="" class="enter-first-name for-all-form-input" id="">
                                         <input type="text" name="" class="enter-first-name for-all-form-input" id="">
                                         <input type="text" name="" class="enter-first-name for-all-form-input" id="">
                                     </div>
-
+                              
                             <div class="form-group ">
-                                <button class="form-control btn">Send Code</button>
+                                <button type="submit" class="form-control btn">submit</button>
                             </div>
                             <span>An email has been sent to reset the password
                                 Haven't Received the email yet? </span> <a href="#">  Resend Code</a>
