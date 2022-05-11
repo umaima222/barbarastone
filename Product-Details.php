@@ -65,22 +65,65 @@
                         <div class="heading-form">
                             <form action="">
                                 <h4 class="heading-content-form">Select Size:</h4>
-                                <div class="form-group">
+                                <!-- <div class="form-group">
                                     <select class="form-control" id="exampleFormControlSelect1">
                                         <option>M</option>
                                         <option>m</option>
                                     </select>
-                                </div>
+                                </div> -->
+                                <ul class="for-size">
+                                    <form action="">
+                                        <label class="container1">
+                                            <input type="radio" checked="checked" name="radio">
+                                            <span class="checkmark">
+                                                S
+                                            </span>
+                                        </label>
+                                        <label class="container1">
+                                            <input type="radio" checked="checked" name="radio">
+                                            <span class="checkmark">
+                                                S
+                                            </span>
+                                        </label>
+                                        <label class="container1">
+                                            <input type="radio" checked="checked" name="radio">
+                                            <span class="checkmark">
+                                                S
+                                            </span>
+                                        </label>
+                                        <label class="container1">
+                                            <input type="radio" checked="checked" name="radio">
+                                            <span class="checkmark">
+                                                S
+                                            </span>
+                                        </label>
+                                        <!-- <li><a href="#">34</a></li>
+                                        <li><a href="#">36</a></li>
+                                        <li><a href="#">38</a></li> -->
+                                    </form>
+                                </ul>
                             </form>
                         </div>
                         <div class="heading-form1">
                             <form action="">
                                 <h4 class="heading-content-form">Colour</h4>
                                 <div class="form-group1">
-                                    <select class="form-control" id="exampleFormControlSelect1">
+                                    <!-- <select class="form-control" id="exampleFormControlSelect1">
                                         <option>select</option>
                                         <option>m</option>
-                                    </select>
+                                    </select> -->
+                                    <label for="gray" class="select-color" style="background-color: #161616;">
+                                        <input type="radio" name="" hidden id="gray">
+                                    </label>
+                                    <label for="gray" class="select-color" style="background-color: #876911">
+                                        <input type="radio" name="" hidden id="gray">
+                                    </label>
+                                    <label for="gray" class="select-color" style="background-color: #9F1D3C">
+                                        <input type="radio" name="" hidden id="gray">
+                                    </label>
+                                    <label for="gray" class="select-color" style="background-color: #436EFF">
+                                        <input type="radio" name="" hidden id="gray">
+                                    </label>
                                 </div>
                             </form>
                         </div>
@@ -135,39 +178,6 @@
                         labore et dolore.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                         incididunt ut labore et dolore.Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet</p>
 
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- paragraph-img-sec -->
-<section class="funds-sec">
-    <div class="container">
-        <div class="funds-heading">
-            <h3>The Funds Will be Spent</h3>
-        </div>
-        <div class="row">
-            <div class="col-md-6">
-                <div class="about">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown
-                        printer took a galley of type
-                        and scrambled it to make a type specimen book.
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                        the industry's standard.</p>
-                </div>
-                <div class="about-funds">
-                    <p>1. Richard McClintock, a Latin professor at Hampden-Sydney College</p>
-                    <p>2. There are many variations of passages of Lorem Ipsum</p>
-                    <p>
-                        3. The standard chunk of Lorem Ipsum used since the 1500s
-                    </p>
-                    <p>4. here are many variations of passages of Lorem Ipsum.</p>
-                </div>
-            </div>
-            <div class="col-md-5 col-sm-12">
-                <div class="funds-imgbox">
-                    <img src="img/pic-africa.png" alt="" class="img-fluid">
                 </div>
             </div>
         </div>

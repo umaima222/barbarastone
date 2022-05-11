@@ -11,10 +11,44 @@
 
 <script>
     $(document).ready(function() {
+        // $('.for-the-img-slider').slick();
+        $('.for-the-img-slider').slick({
+            dots: true,
+            infinite: true,
+            speed: 300,
+            slidesToShow: 1,
+            centerMode: true,
+            variableWidth: true
+        });
+
+
         $(window).on('load', function() {
             $("#preloader").fadeOut(1000);
         });
     })
+
+    $(document).ready(function() {
+        $(window).on('load', function() {
+            $("#preloader").fadeOut(1000);
+        });
+    })
+    $('.slider-for').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: false,
+        fade: true,
+        asNavFor: '.slider-nav'
+    });
+    $('.slider-nav').slick({
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        asNavFor: '.slider-for',
+        dots: false,
+        centerMode: true,
+        focusOnSelect: true
+    });
+
+    // product sub and add
     $(document).ready(function() {
         //  profile tabs hide and show
         $(".pro-edit-wrapper").hide();
