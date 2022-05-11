@@ -14,7 +14,7 @@
                     <div class="col-md-3 p-0">
                         <div class="side-nav">
                             <div id="nav">
-                                <ul>
+                                <ul class="left-nav">
                                     <li class="hover-class"><a href="#">menu</a>
                                         <ul>
                                             <li class="drop-down-li"><a href="index.php">home</a></li>
@@ -41,11 +41,11 @@
                             <i class="fa fa-chevron-down" style="margin-left:0 ;margin-right:38px ; margin-top:35px !important; font-size:12px;"></i>
                         </a>
                         <div class="dropdown-menu     ">
-                            <a class="dropdown-item" href="#">Sign in</a>
-                            <a class="dropdown-item" href="#">Sign Up</a>
-                            <a class="dropdown-item" href="#">My Profile</a>
-                            <a class="dropdown-item" href="#">Account</a>
-                            <a class="dropdown-item" href="#">View Cart</a>
+                            <a class="dropdown-item" href="sign-in.php">Sign in</a>
+                            <a class="dropdown-item" href="createanaccount.php">Sign Up</a>
+                            <a class="dropdown-item" href="agent-profile.php">My Profile</a>
+                            <a class="dropdown-item" href="agent-profile.php">Account</a>
+                            <a class="dropdown-item" href="productcart.php">View Cart</a>
                         </div>
                     </div>
 

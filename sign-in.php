@@ -33,7 +33,7 @@
                             <div class="form-group ">
                                 <button class="form-control btn">Submit</button>
                             </div>
-                            <span>Don't have account?</span> <a href="#"> Sign Up</a>
+                            <span>Don't have account?</span> <a href="createanaccount.php"> Sign Up</a>
                         </form>
                     </div>
                 </div>

@@ -13,7 +13,7 @@
                         <input type="" class="banner-control" id="inputPassword4" placeholder="We the People Reclaim and Secure our Rights">
 
                         <div class="donate-banner">
-                            <a href="#"><button>Donate Now</button></a>
+                            <a href="/donation.php"><button>Donate Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -35,7 +35,7 @@
                         <input type="" class="bannerz-control" id="inputPassword4" placeholder="We the People Reclaim and Secure our Rights">
 
                         <div class="donate-btn">
-                            <a href="#"><button>Donate Now</button></a>
+                            <a href="donation.php"><button>Donate Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -65,18 +65,18 @@
                                 <div class="footer-heading">
                                     <h3>QUICK LINK</h3>
                                 </div>
-                                <a href="#">HOME</a>
-                                <a href="#">About Our Platform</a>
+                                <a href="index.php">HOME</a>
+                                <a href="aboutus.php">About Our Platform</a>
                                 <a href="#">Meet Barbara</a>
-                                <a href="#">Intolerable Acts; Tyranny</a>
-                                <a href="#">Videos</a>
+                                <a href="IntolerableActspage.php">Intolerable Acts; Tyranny</a>
+                                <a href="video.php">Videos</a>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="contact-us">
-                                <a href="#">Contact us</a>
-                                <a href="#">Reviews</a>
-                                <a href="#">Products</a>
+                                <a href="contactforanyquery.php">Contact us</a>
+                                <a href="testimonal.php">Reviews</a>
+                                <a href="product-page.php">Products</a>
                                 <a href="#">Forum</a>
                             </div>
                         </div>

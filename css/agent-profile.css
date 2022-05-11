@@ -5,168 +5,17 @@
 #header{
     background-color: transparent !important;
   }
-  /* legal-sec start here */
-  .legal-sec{
-    padding-bottom: 66px;
-  }
   .legal-heading {
     text-align: center;
     background-color: #9E1C36;
     padding: 34px;
   }
-  
   .legal-heading h1 {
     color: #FFFFFF;
     font-family: Recoletabold;
     font-size: 34px;
     font-weight: 500;
   }
-   /* legal-sec end here */
-   /* agent-profile-section start here */
-.agent-profile-section{
-    margin-top: 70px;
-    padding-bottom: 50px;
-}
-.profile-left-side{
-    background-color: #FFFFFF;
-    padding-bottom: 40px;
-    box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);
-}
-.for-my-profile-btn{
-    width: 100%;
-}
-.my-profile-btn {
-    width: 100%;
-    background-color: #9E1C36;
-    height: 48px;
-    color: #FFFFFF;
-    font-family: poppinregular;
-    font-size: 17px;
-    border: 0px;
-    text-align: left;
-    padding-left: 26px;
-}
-.round-img{
-    margin-top: 12px;
-}
-.round-img img{
-    width: 65%;
-    border-radius: 50%;
-}
-.name-and-user-email span{
-    display: block;
-    text-align: center;
-}
-.name-of-user{
-    color: #000000;
-    font-family: poppinregular;
-}
-.email-of-user{
-    color: #9E1C36;
-    font-family: poppinregular;
-}
-/* Tabs Start */
-.nav{
-    display: unset !important;
-}
-.bootstrap-all-tabs{
-    margin-top: 42px;
-}
-.inside-profile-tab{
-    display: flex;
-    justify-content: space-between;
-}
-.for-all-tabs, .for-all-tabs:hover{
-    display: block !important;
-    width: 100%;
-    color: #5E5E5E;
-    font-family: Poppinsmedium;
-    font-size: 14px;
-    border-top: 1px  solid #F1F1F1!important;
-    border-bottom: 1px  solid #F1F1F1!important;
-    border-right: 0px !important;
-    border-left: 0px !important;
-    border-radius: 0px;
-    height:  60px;
-    padding: 0px 75px;
-    text-align: left;
-}
-
-.for-all-tabs, .for-all-tabs:not(:last-child){
-    border-bottom: unset !important;
-}
-
-
-.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
-    color: #9E1C36;
-    font-family: Poppinssemibold;
-    font-size: 15px;
-    border-top: 1px  solid #CECECE;
-    border-bottom: 1px  solid #CECECE;
-    border-right: 0px;
-    border-left: 0px;
-    border-radius: 0px;
-    background-color: unset !important;
-}
-/* left side end here */
-
-
-/* Property Tab CSS start Here  */
-.properties-start-here{
-    padding: 30px 30px;
-}
-.my-properties-list{
-    display: flex;
-    padding-bottom: 32px;
-    padding-top: 32px;
-}
-.my-properties-list:not(:last-child){
-    border-bottom: 1px solid #CECECE;
-}
-.my-property-details{
-    width: 82%;
-    margin-left: 30px;
-}
-.property-name-plus-update-delete{
-    display: flex;
-    justify-content: space-between;
-}
-.property-name-heading{
-    color: #002349;
-    font-family: poppinregular;
-    font-size: 18px;
-    font-weight: 600;
-}
-.for-delete-img{
-    padding-left: 19px;
-}
-.address-of-property{
-    margin-top: 7px;
-    margin-bottom: 9px;
-}
-.for-bar-icon i{
-    color: #002349;
-    font-size: 12px;
-}
-.for-city-state{
-    color: #151515;
-    font-size: 12px;
-    font-family: poppinregular;
-    padding-left: 6px;
-}
-.some-detail-about-property{
-    color: #8A8A8A;
-    font-family: poppinregular;
-    font-size: 12px;
-    margin-bottom: 5px !important;
-}
-.property-date{
-    color: #151515;
-    font-family: poppinregular;
-    font-size: 12px;
-}
-/* Property tab End Here */
-
 /* Basic Information Start */
 .for-basic-information-heading {
     padding: 17px 3px;
@@ -257,6 +106,10 @@
     font-size: 14px;
     text-decoration: underline;
 }
+.about-personal-information{
+    display: flex;
+    justify-content: space-between;
+}
 .address {
     display: flex;
     justify-content: space-between;
@@ -279,14 +132,16 @@
 }
 .location{
     font-family: "poppins";
-    font-weight: 500;
+    font-weight: 600;
     color: #282828;
     font-size: 16px;
+    margin: 0 10px;
 }
 .loc-info{
     color: #989898;
     font-family: poppinregular;
     font-size: 15px;
+    margin: 0 10px;
 }
 .about-address{
     display: flex;
@@ -297,322 +152,570 @@
     font-family: poppinregular;
     font-size: 18px;
 }
+.address-loc{
+    display: flex;
+    align-items: center;
+}
 /* Basic Information end */
 
 /* Add property start */
 
-/*  */
-.table h3{
-    color: #303030;
-    font-family: "poppins";
-    font-weight: 500;
+/* profile tab css starts here */
+.paid .fa{
+    color: #00bc26;
 }
-.table thead th {
-    color: #303030;
-    font-family: "poppins";
-    font-weight: 500;
+.profile-content-headingss h4{
+  color: #9E1C36;
+  font-family: Poppinsmedium;
+  font-size: 33px;
+  font-weight: 600;
 }
-.table td, .table th {
-    color: #303030;
-    font-family: "poppins";
-    font-weight: 400;
-}
-.table{
-    margin-top: 67px
-}
-.page-item.disabled .page-link {
-    padding: 12px;
-}
-.page-change{
-    padding: 20px 0;
-}
-.page-item:last-child .page-link {
-    padding: 12px;
-    color: #303030 !important;
-    pointer-events: none;
-    cursor: auto;
-    background-color: #88B379 !important;
-    border-color: transparent !important;
-}
-.page-item.disabled .page-link {
-    color: #303030 !important;
-    pointer-events: none;
-    cursor: auto;
-    background-color: #88B379 !important;
-    border-color: transparent !important;
-}
-.page-item.active .page-link {
-    position: relative;
-    display: block;
-    padding: .5rem .75rem;
-    margin-left: -1px;
-    line-height: 1.25;
-    color: #88B379 !important;
-    background-color: #fff !important;
-    border: 4px solid #88B379 !important;
-}
-.page-link {
-    position: relative;
-    display: block;
-    padding: .5rem .75rem;
-    margin-left: -1px;
-    line-height: 1.25;
-    color: #303030 !important;
-    background-color: #fff;
-    border: 4px solid #B6B6B6 !important;
-}
-.page-item{
-margin: 0 5px;
-}
-/* custom checkbox End here */
-
-
-
-
-/* My Membership Start */
-.my-member-start-here{
-    padding: 47px 47px;
-}
-.membership-slip-heading{
-    color: #002349;
-    font-family: popins-bold;
-    font-size: 18px;
-    font-weight: 600;
-}
-.expiry-status{
-    margin-top: 35px;
-}
-.membership-box{
-    background-color: #F3F4FB;
-    width: 100%;
-    padding-left: 10%;
-    padding-bottom: 17px;
-}
-.for-the-membership-date{
-    padding: 20px 0px 14px 0px ;
-}
-.for-all-dates{
-    font-size: 16px;
-    font-family: popins-medium;
-    color: #272727;
-    font-weight: 600;
-}
-.for-start-end-status{
-    color: #8A8A8A;
-    font-family: popins-medium;
-    font-size: 13px;
-    width: 90%;
-    border: none;
-    outline: none;
-    border-radius: 0px;
-    height: 47px;
-    padding-left: 15px;
-}
-.membership-expiry-box{
-    background-color: #E3E5F5;
-    width: 100%;
-    padding-left: 10%;
-    padding-bottom: 17px;
-}
-.membership-status-box{
-    background-color: #002349;
-    width: 100%;
-    padding-left: 10%;
-    padding-bottom: 17px;
-}
-.membership-status-heading{
-    font-size: 16px;
-    font-family: popins-medium;
-    color: #FFFFFF;
-    font-weight: 600;
-}
-.for-mebership-status{
-    color: #FFFFFF;
-    font-family: popins-medium;
-    font-size: 13px;
-    width: 90%;
-    border: none;
-    outline: none;
-    border-radius: 0px;
-    height: 47px;
-    padding-left: 15px;
-    background-color: #4D6782;
-}
-.membership-status-heading{
-    margin: 55px 0px 35px 0px;
-}
-.that-feature{
-    margin-left: 22px;
-}
-.single-feature{
-    margin-top: 8px;
-}
-.that-feature span{
-     font-size: 15px;
-    font-family: popins-light;
-    color: #002349;
-}
-#per-month-box{
-    padding: 0px !important;
-}
-.member-ship-per-month-box{
-    width: 100%;
-    background-color: #F3F4FB;
-    padding-top: 35px;
-    padding-bottom: 35px;
-    position: relative;
-}
-.per-month-price{
-    font-size: 27px;
-    color: #002349;
-    font-family: popins-medium;
-    font-weight: 600;
-}
-.membership-width-top{
-    width: 100%;
-    display: flex;
-    justify-content: center;
-}
-.for-member-ship-in-top{
-    padding: 8px 8%;
-    background-color: #E3E5F5;
-    position: absolute;
-    top: -22px;
-}
-.member-ship-in-top{
-    color: #272727;
-    font-size: 16px;
-    font-family: popins-medium;
-}
-.upgrade-cancel-membership-btn{
-    display: flex;
-    margin-top: 45px;
-}
-.upgrade-membership-btn{
-    width: 277px;
-    height: 57px;
-    background-color: #001731;
-    color: #FFFFFF;
-    font-size: 16px;
-    font-family: popins-medium;
-    border: 0px;
-    border-radius: 3px;
-}
-.for-cancel-membership-btn{
-    margin-left: 20px;
-}
-.cancel-membership-btn{
-    width: 277px;
-    height: 57px;
-    background-color: #E3E5F5;
-    color: #001731;
-    font-size: 16px;
-    font-family: popins-medium;
-    border: 0px;
-    border-radius: 3px;
-}
-
-
-
-/* Enquiry test */
-.enquiry-headings{
-    font-size: 16px;
-    font-family: popins-medium;
-    font-weight: 600;
-    color: #272727;
-}
-.enquiry-normal-text{
-    color: #747474;
+.profile {
+    padding: 100px 0px;
+  }
+  .profile-sidebar-wrapper {
+    background: #fff;
+    border: 2px solid #f1f1f1;
+  }
+  .profile-sidebar-wrapper .profile-headin-wrapper {
+    background: #9f1d3c;
+    padding: 14px 20px;
+  }
+  .profile-sidebar-wrapper .profile-headin-wrapper h3 {
+    font-family: poppinregular;
     font-size: 14px;
-    font-family: popins-light;
+    text-align: left;
+    margin-bottom: 0px;
+    color: #fff;
+  }
+  .profile-sidebar-wrapper .profile-img-wrapper img {
+    border: 1px solid #ffffff;
+    border-radius: 50%;
+    height: 178px;
+    width: 178px;
+    object-fit: cover;
+    object-position: top;
+  }
+  .profile-sidebar-wrapper .profile-img-wrapper {
+    margin-top: 34px;
+  }
+  .profile-content-wrapper h6 {
+    color: #274d5e;
+    font-size: 16px;
+    font-family: "GT Walsheim Pro black";
+    font-weight: 400;
+  }
+  .profile-content-wrapper {
+    margin-bottom: 30px;
+  }
+  .profile-sidebar-wrapper .nav-pills .nav-link.active {
+    background: transparent;
+    color: #9f1d3c;
+    font-family: poppinregular;
+    font-size: 16px;
+  }
+  .profile-sidebar-wrapper .nav-pills .nav-link {
+    font-family: "GT Walsheim Pro black";
+    font-size: 16px;
+    font-weight: bold;
+    color: #5e5e5e;
+    line-height: 2;
+    border-bottom: 1px solid #cecece;
+    border-radius: 0px;
+  }
+  .profile-sidebar-wrapper .nav-pills .nav-link:last-child {
+    border-bottom: none;
+  }
+  .profile-sidebar-wrapper .nav {
+    padding: 0px 30px;
+    padding-bottom: 35px;
+  }
+  .profile-sidebar-wrapper li.nav-item {
+    border-bottom: 1px solid #cecece;
+  }
+  
+  .profile-sidebar-wrapper li.nav-item:last-child {
+    border-bottom: none;
+  }
+  .profile-info-box-wrapper .dp-box-wrapper {
+    display: flex;
+    align-items: center;
+  }
+  .profile-box-img-wrapper img {
+    width: 84px;
+    height: 84px;
+    object-fit: cover;
+    object-position: top;
+  }
+  .profile-box-content-wrapper label {
+    font-family: poppinregular !important;
+    color: #989898;
+    font-size: 20px;
+    margin-bottom: 0px;
+  }
+  .profile-box-content-wrapper h6 {
+    font-size: 16px;
+    color: #686868;
+    font-weight: 400;
+  }
+  .profile-info-box-wrapper button.edit-profile-btn {
+    color: #9E1C36;
+    text-decoration: underline;
+    font-family: poppinregular;
+    font-size: 20px;
+    background: transparent;
+    border: 0px;
+  }
+  .change-password-btn {
+    color: #9E1C36;
+    text-decoration: underline;
+    font-family: poppinregular;
+    font-size: 20px;
+    background: transparent;
+    border: 0px;
+    margin-top: 34px;
+}
+  .box-fields-wrapper input {
+    background: transparent !important;
+    border: 0px;
+    font-family: poppinregular;
+    padding: 0px;
+    font-size: 12px;
+    color: #989898;
+  }
+  
+  .box-fields-wrapper label {
+    color: #282828;
+    font-family: Poppinsmedium;
+    margin-right: 10px;
+    font-size: 15px;
+}
+  
+  .box-fields-wrapper .form-group {
+    margin: 34px 0px;
+  }
+  
+  .profile-info-box-wrapper {
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0px 2px 3px 1px #cacacaa8;
+    border-radius: 10px;
+    border: 1px solid #e6e6e6;
+  }
+  .change-address-btn {
+    color: #9E1C36;
+    text-decoration: underline;
+    font-family: poppinregular;
+    font-size: 20px;
+    background: transparent;
+    border: 0px;
+  }
+  .box-fields-wrapper.address-wrapper textarea {
+    background: transparent;
+    border: 0px;
+    text-align: left;
+    padding: 0px;
+    margin-top: 20px;
+    font-family: poppinregular;
+    color: #282828;
+  }
+  .profile-tabe-wrapper .address-wrapper {
+    border-top: 1px solid #b5c9ba;
+  }
+  .profile-content-heading h4 {
+    color: #9E1C36;
+    font-family: Poppinsmedium;
+    font-size: 33px;
     font-weight: 600;
+  }
+  .profile-tabe-wrapper .profile-content-heading {
+    padding:20px 10px ;
+  }
+  .edit-fields input.form-control {
+    background: #ffffff !important;
+    padding: 14px;
+    border: 1px solid #e1e1e1;
+    color: #274d5e !important;
+    font-family: poppinregular;
+    font-size: 14px;
+  }
+  
+  .edit-fields select.form-control {
+    background: #ffffff !important;
+  
+    border: 1px solid #e1e1e1;
+    color: #274d5e !important;
+    font-family: poppinregular;
+    font-size: 14px;
+    height: 47px !important;
+  }
+  .processing-wrapper h6 {
+    color: #a4a4a4;
+    font-family: "Poppins";
+    font-size: 13px;
+  }
+  #yourBtn {
+    font-family: poppinregular;
+    width: 150px;
+    padding: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    background: #9E1C36;
+    border-radius: 4px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 10px 30px;
+  }
+  .btn-cancel {
+    color: #FFFFFF;
+    font-family: Poppinsmedium;
+    background-color: #4E4E4E;
+    padding: 11px 51px;
+    border: transparent;
+    font-size: 15px;
+    font-family: "poppins";
+    font-weight: 500;
 }
-table tr td {
-    vertical-align: middle;
-    padding-top: 33px !important;
-    padding-bottom: 33px !important;
+.btn-save {
+    color: #FFFFFF;
+    font-family: Poppinsmedium;
+    background-color: #9F1D3C;
+    padding: 11px 51px;
+    border: transparent;
+    font-size: 15px;
+    font-family: "poppins";
+    font-weight: 500;
 }
-table tr th{
-    padding-top: 57px !important;
-    padding-bottom: 32px !important;
+.buttons-container{
+    display: flex;
 }
-.for-full-name{
-    width: 13%;
-}
-.for-contact-info{
-    width: 18%;
-}
-.for-reason-to-buy{
-    width: 15%;
-}
-.for-enquiry-description{
-    width: 45%;
-}
-.last-tabel-row{
-    border-style: unset !important;
-}
-
-/* Enquriy test here */
-
-@media screen and (max-width: 1030px) {
-    .for-all-tabs, .for-all-tabs:hover{
-        padding: 0px 12px !important;
+  /* order table starts here */
+  .order-table-wrapper table {
+    margin-left: 10px;
+  }
+  .order-table-wrapper tr.row1 th {
+    padding: 23px 20px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 18px;
+    color: #274d5e;
+  }
+  .order-table-wrapper tr.row2 td {
+    padding: 18px 20px;
+    text-align: center;
+  }
+  .profile .order-table-wrapper tr.row2 td {
+    border-bottom: 1px solid #c7c7c7;
+    border-top: 1px solid #c7c7c7;
+  }
+  .profile .order-table-wrapper tr.row2 td:first-child {
+    border-left: 1px solid #c7c7c7;
+  }
+  .profile .order-table-wrapper tr.row2 td:last-child {
+    border-right: 1px solid #c7c7c7;
+  }
+  .order-table-wrapper .row2 td {
+    color: #274d5e;
+    font-family: poppinregular;
+    font-size: 16px;
+  }
+  .profile .order-table-wrapper td.paid {
+    color: #00bc26;
+  }
+  .order-table-wrapper .order-details a {
+    color: #9E1C36;
+    text-transform: uppercase;
+    font-family: Poppinsbold;
+    text-decoration: underline;
+  }
+  .pagination-wrapper a.page-link {
+    display: flex;
+    line-height: 0px;
+    height: unset;
+    margin: 5px;
+    padding: 14px;
+    justify-content: center;
+    font-family: "Proxima Nova";
+    font-size: 18px;
+    color: #6e6e6e;
+    font-weight: 400 !important;
+    font-style: normal !important;
+    border: 1px solid #6e6e6e;
+  }
+  .pagination li a i {
+    line-height: 0px;
+  }
+  ul.pagination li.page-item:first-child a.page-link,
+  ul.pagination li.page-item:last-child a.page-link {
+    border-radius: 0px !important;
+    background: #1aac7a;
+    border: 0px;
+    color: #fff;
+    font-size: 25px;
+  }
+  .pagination-wrapper .active a.page-link {
+    color: #1aac7a;
+    background: transparent;
+    border-color: #1aac7a;
+  }
+  /* profile tab css starts here */
+  /* order responsive start here */
+  @media (max-width: 1100px) {
+    .order-table-wrapper tr.row1 th {
+      padding: 23px 9px;
+      font-size: 14px;
     }
-    .log-out-btn{
-        margin-left: 10px;
+    .order-table-wrapper .row2 td {
+      font-size: 14px;
     }
-    .name-and-user-email {
-        padding-left: 6%;
+  }
+  @media (max-width: 1018px) {
+    .order-table-wrapper .row2 td {
+      font-size: 13px;
     }
-}
-@media screen and (max-width: 765px) {
-    .basic-information-card{
-        margin-left: 0px !important;
+  }
+  @media (max-width: 700px) {
+    .order-table-wrapper tr.row2 td {
+      padding: 9px 7px;
     }
-    .my-properties-list{
-        display: unset;
+  }
+  /* order responsive ends here */
+  /* modal css starts here */
+  .profile-row button.close span {
+    color: #1aac7a;
+  }
+  .profile .modal-dialog {
+    max-width: 41%;
+  }
+  .close {
+    opacity: 1;
+  }
+  .modal-header .close {
+    margin: 0;
+  }
+  .model-header {
+    text-align: center;
+    padding: 20px 11px;
+    border-bottom: 1px solid #e9efea;
+  }
+  .profile-row h5#exampleModalLongTitle {
+    font-size: 43px;
+    font-family: "GT Walsheim Pro Regular";
+    color: #1aac7a;
+  }
+  .profile-row .model-header h6 {
+    color: #274d5e;
+    font-family: "GT Walsheim Pro Regular";
+    font-size: 37px;
+    font-weight: 400;
+  }
+  .model-header button.close {
+    margin-top: -92px;
+    margin-right: 24px;
+  }
+  .model-header h6 {
+    font-size: 13px;
+    font-family: "GT Walsheim Pro Regular";
+    color: #274d5e;
+    margin-top: 28px;
+    font-weight: 400;
+  }
+  .modal-title {
+    color: #274d5e;
+    font-family: "GT Walsheim Pro black";
+    font-size: 27px;
+    font-weight: 500;
+  }
+  .product-deatail-wrapper {
+    padding: 0px 30px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+  }
+  .modal-open .modal {
+    overflow: scroll !important;
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none;
+  }
+  .modal-open .modal::-webkit-scrollbar {
+    display: none;
+  }
+  .product-img {
+    flex: 2;
+  }
+  .product-content {
+    flex: 5;
+  }
+  .product-price {
+    flex: 1;
+  }
+  .profile .modal-body h6 {
+    color: #1aac7a;
+    font-family: "GT Walsheim Pro Regular";
+    font-size: 20px;
+  }
+  h6.product-price {
+    font-size: 21px;
+    font-weight: 600;
+  }
+  h6.product-size {
+    color: #1f2c35 !important;
+    font-weight: 400;
+    font-size: 17px !important;
+  }
+  h5.product-name {
+    font-size: 16px;
+    color: #274d5e;
+    font-family: "GT Walsheim Pro black";
+    font-weight: 500;
+  }
+  .product-deatail-wrapper h4.stocks {
+    font-size: 16px;
+    font-family: "GT Walsheim Pro black";
+    font-size: 14px;
+    color: #274d5e;
+    font-weight: 400;
+  }
+  .product-deatail-wrapper small {
+    color: #8a9397;
+    font-family: "GT Walsheim Pro black";
+    font-size: 10px;
+  }
+  .product-deatail-wrapper {
+    border: 1px solid #d7e6db;
+    border-radius: 10px;
+    padding: 7px;
+  }
+  .product-img {
+    text-align: center;
+  }
+  .product-img figure {
+    margin: 0px;
+  }
+  .product-img figure img {
+    background: #1aac7a;
+    padding: 7px;
+    border-radius: 10px;
+  }
+  .product-deatail-wrapper {
+    margin: 20px auto !important;
+    width: 90%;
+    box-shadow: 3px 3px 10px 1px #00000024;
+  }
+  .order-details-wrapper {
+    padding: 0px 32px;
+  }
+  .order-details-wrapper h6 {
+    display: flex;
+    justify-content: space-between;
+    color: #274d5e !important;
+    font-size: 17px !important;
+    font-weight: 500;
+    line-height: 2.5;
+  }
+  .order-details-wrapper {
+    padding: 0px 40px;
+  }
+  /* responsive starts here */
+  @media (max-width: 1345px) {
+    .profile .modal-dialog {
+      max-width: 51% !important;
     }
-    .my-property-details{
-        width: 100%;
-        margin-left: unset !important;
+  }
+  @media (max-width: 1130px) {
+    .profile .modal-dialog {
+      max-width: 61% !important;
     }
-    .property-img img{
-        width: 100%;
-        margin-bottom: 20px;
+  }
+  @media (max-width: 936px) {
+    .profile .modal-dialog {
+      max-width: 71% !important;
     }
-    .for-small-para-in-top{
-        padding: 0px 32px;
+  }
+  @media (max-width: 822px) {
+    .profile .modal-dialog {
+      max-width: 81% !important;
     }
-    .membership-expiry-box, .membership-status-box{
-        margin-top: 35px;
+  }
+  @media (max-width: 758px) {
+    .product-deatail-wrapper {
+      flex-direction: column;
+      align-items: center;
     }
-    .member-ship-per-month-box{
-        margin-top: 30px;
-        margin-bottom: 45px;
+    .product-deatail-wrapper.active {
+      border-right: none;
+      border-bottom: 3px solid #1aac7a;
+      margin: 10px 0px;
     }
-    .upgrade-cancel-membership-btn{
-        display: unset;
+    .about-personal-information {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
     }
-    .for-cancel-membership-btn{
-        margin-left: unset;
-        margin-top: 12px;
+  }
+  @media (max-width: 563px) {
+    .profile .modal-dialog {
+      max-width: 81% !important;
+      margin: 30px auto;
     }
-    .profile-photo-plus-edit{
-        display: unset;
+    .order-details-wrapper h6 {
+      display: inline-block;
     }
-    
-    .for-all-tabs, .for-all-tabs:hover{
-        padding: 0px 75px !important;
+    .order-details-wrapper {
+      padding: 0px 52px;
+      text-align: center;
     }
-    .enquiry-request-test-lines{
-        width: 100%;
-        overflow-y: scroll;
+    .about-personal-information {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
     }
-    .log-out-btn{
-        margin-left: 75px;
-    }
-    .name-and-user-email {
-        padding-left: 19%;
-    }
-}
-  /* agent-profile-section start here */
+  }
+  /* responsive ends here */
+  /* modal css ends here */
+  /* wishlist css starts here */
+  .card-wrapper {
+    display: flex;
+    align-items: center;
+    width: 76%;
+    padding: 35px 20px;
+    border: 1px solid #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0px 2px 3px 1px #cacacaa8;
+    margin: 20px 0px;
+  }
+  .pro-content-wrapper {
+    display: flex;
+    flex: 6;
+    margin-left: 26px;
+    align-items: center;
+  }
+  .card-wrapper button {
+    flex: 1;
+  }
+  .card-wrapper button.btn {
+    flex: 1;
+  }
+  .pro-content-wrapper img {
+    background: #1aac7a;
+    padding: 5px;
+    border-radius: 10px;
+    margin-right: 21px;
+  }
+  .pro-content h5 {
+    color: #274d5e;
+    font-size: 16px;
+    font-family: "GT Walsheim Pro black";
+    font-weight: 500;
+    margin: 0px;
+  }
+  .pro-content h6.stocks {
+    font-size: 14px;
+    color: #274d5e;
+    font-family: "GT Walsheim Pro black";
+    font-weight: 500;
+  }
+  /* wishlist css ends here */
