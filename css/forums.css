@@ -61,7 +61,7 @@ p {
 
 /* donation-sec start here */
 .product-sec {
-    padding-bottom: 66px;
+    padding-bottom: 0px;
 }
 
 
@@ -382,6 +382,10 @@ h5.name {
     top: 78px;
 }
 
+.custom-class-for-top{
+    top: 24px !important;
+}
+
 .three-dots {
     position: absolute;
     right: 11px;
@@ -396,8 +400,26 @@ h5.name {
 .inside-dropdown {
     text-align: left;
     display: flex;
+    align-items: center;
     gap: 10px;
     margin-left: 5px;
+    color: #9f1d3c;
+    font-size: 12px;
+}
+
+.inside-dropdown:not(:last-child){
+    border-bottom: 1px solid #9f1d3c;
+    padding: 5px 0px;
+}
+
+.inside-dropdown i{
+    font-size: 12px !important;
+}
+
+.dropdown-menu{
+    width: 150px !important;
+    min-width: unset !important;
+    padding: 6px 0px;
 }
 
 /* .inside-dropdown{
@@ -478,11 +500,11 @@ section.screenplay-buy ul.dropdown-menu.show {
 }
 
 .div-for-border-in-center {
-    border-top-width: 20px;
-    border-top: 1px solid #707070;
-    border-bottom: 1px solid #707070;
+    /* border-top-width: 20px; */
+    border-top: 1px solid #C3C3C3;
+    border-bottom: 1px solid #C3C3C3;
     margin-top: 10px;
-    padding-bottom: 18px;
+    padding-bottom: 12px;
 }
 
 .in-post-last {
@@ -512,7 +534,7 @@ section.screenplay-buy ul.dropdown-menu.show {
 
 .common-reaction-icon-1 i {
     color: #000000;
-    font-size: 22px;
+    /* font-size: 22px; */
 }
 
 .for-like-txt-1 span {
@@ -549,9 +571,10 @@ section.screenplay-buy ul.dropdown-menu.show {
 
 .comment-box::placeholder {
     color: #707070;
-    font-family: "aileron-light";
+    font-family: "Aileron-SemiBold";
     font-size: 15px;
-    padding-left: 15px;
+    padding-left: 22px;
+    color: #0000005c;
 
 }
 
@@ -563,7 +586,7 @@ section.screenplay-buy ul.dropdown-menu.show {
     width: 100%;
     height: 40px;
     border: none;
-    background-color: #228DD3;
+    background-color: #9F1D3C;
 }
 
 .custom-comment {
@@ -728,7 +751,7 @@ section.screenplay-buy .for-like-txt-1 a {
         font-size: 14px;
     }
 
-    
+
     .total-ikes span {
         font-size: 11px;
         margin-left: 3px;
@@ -750,7 +773,7 @@ section.screenplay-buy .for-like-txt-1 a {
 
 /* Sidebar Css Start Here */
 .screenplay-buy {
-    padding: 40px 0 0px 0;
+    padding: 61px 0 0px 0;
 }
 
 .sidebar .select_genre {
@@ -945,13 +968,44 @@ section.screenplay-buy .for-like-txt-1 a {
 /* recent post sidebar css start here */
 
 
+.slick-prev,
+.slick-next {
+    display: none !important;
+}
+
+.slick-dots li button:before {
+    font-family: 'slick';
+    font-size: 14px;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    content: '•';
+    text-align: center;
+    opacity: 1;
+    color: #9F9F9F;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.slick-dots li.slick-active button:before {
+    opacity: 1;
+    font-size: 18px;
+    color: #9F1D3C;
+}
+
+
+
 @media screen and (max-width: 991px) {
     .comments-start-here {
         width: 96%;
         margin-left: auto;
         margin-right: auto;
     }
-    .col-md-12{
+
+    .col-md-12 {
         padding: 0px !important;
     }
 }

@@ -81,38 +81,42 @@
                         </div>
 
                         <div class="this-post-inner">
-
-                            <div class="user-name-in-top d-flex">
-                                <div class="user-image-in-post">
-                                    <figure><a href="Profile-for-user.php"><img src="img/in-post.png" class="img-fluid" alt=""></a>
-                                    </figure>
+                            <div class="forr-the-single-line d-flex">
+                                <div class="user-name-in-top d-flex">
+                                    <div class="user-image-in-post">
+                                        <figure><a href="Profile-for-user.php"><img src="img/in-post.png" class="img-fluid" alt=""></a>
+                                        </figure>
+                                    </div>
+                                    <div class="name-of-user">
+                                        <a href="Profile-for-user.php">
+                                            <h4 class="d-block inner-name-of-user">Brian
+                                                Walker</h4>
+                                        </a>
+                                    </div>
                                 </div>
-                                <div class="name-of-user">
-                                    <a href="Profile-for-user.php">
-                                        <h4 class="d-block inner-name-of-user">Brian
-                                            Walker</h4>
-                                    </a>
+                                <div class="three-in-dots-top custom-class-for-top">
+                                    <!-- Default dropstart button -->
+                                    <div class="btn-group dropstart">
+                                        <button type="button" class="three-dots-btn" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <img src="img/three-dots.png" alt="">
+                                        </button>
+                                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                            <div class="dropstart inside-dropdown"><i class="fa fa-pen"></i> Edit Post
+                                            </div>
+                                            <div class="dropstart inside-dropdown"><i class="fa fa-eye-slash"></i> Hide
+                                                From Other</div>
+                                            <div class="dropstart inside-dropdown"><i class="fa fa-trash"></i> Delete
+                                                Post</div>
+                                        </ul>
+                                    </div>
                                 </div>
                             </div>
-                            </a>
                             <div class="below-post-name">
                                 <div class="d-flex">
                                     <div class="below-post-name-heading">
                                         <h2>Lorem ipsum dolor sit amet</h2>
                                     </div>
-                                    <div class="three-in-dots-top">
-                                        <!-- Default dropstart button -->
-                                        <div class="btn-group dropstart">
-                                            <button type="button" class="three-dots-btn" data-bs-toggle="dropdown" aria-expanded="false">
-                                                <img src="img/three-dots.png" alt="">
-                                            </button>
-                                            <ul class="dropdown-menu">
-                                                <div class="dropstart inside-dropdown">First</div>
-                                                <div class="dropstart inside-dropdown">First</div>
-                                                <div class="dropstart inside-dropdown">First</div>
-                                            </ul>
-                                        </div>
-                                    </div>
+
                                 </div>
                                 <div class="posting-information">
                                     <span class="date-of-user">Posted On: 29 july 2021 | </span>
