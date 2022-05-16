@@ -63,7 +63,7 @@
                         <div class="form-group ">
                                 <button class="form-control btn">Sign Up</button>
                             </div>
-                            <span>Don't have account?</span> <a href="sign-in.php"> Sign Up</a>
+                            <span>Already have an account?</span> <a href="sign-in.php"> Sign Up</a>
                     </form>
                 </div>
             </div>

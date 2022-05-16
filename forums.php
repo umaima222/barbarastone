@@ -65,6 +65,8 @@
                 </div>
                 <div class="col-lg-6 col-md-12 px-0">
                     <div class="ty-show-tabs">
+
+                        </div>
                         <div class="for-add-new-post">
                             <div class="for-img">
                                 <img src="img/in-post.png" alt="">

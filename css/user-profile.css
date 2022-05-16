@@ -11,14 +11,14 @@
     font-weight: 500;
 }
 
-
+.dropstart .img-fluid{
+    width: auto;
+}
 /* Profile CSs Start Here */
 .img-fluid{
     width: 100%;
 }
-.profile-section-strat{
-    padding-top: 150px;
-}
+
 .other-details {
     padding: 35px  15px  45px;
     background-color: #F9F9F9;

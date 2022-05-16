@@ -4,7 +4,7 @@
 <!-- Blog Pages Start Here -->
 <section>
 <div class="legal-heading">
-        <h1>My Profile</h1>
+        <h1>Account</h1>
     </div>
 </section>
 <section class="profile">

@@ -41,6 +41,8 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="container footer-aboutit">
         <div class="footer">
             <div class="phone">
                 <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 p-0 m-0">

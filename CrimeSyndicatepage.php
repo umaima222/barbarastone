@@ -417,7 +417,7 @@
                             <p></p>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 m-0 p-0">
                         <div class="img-box2">
                             <img src="img/Image97.png" alt="" class="img-fluid">
                         </div>

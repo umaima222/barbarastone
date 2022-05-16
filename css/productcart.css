@@ -66,7 +66,7 @@ figure {
     border-top: 1px solid #C5C5C5;
 }
 .productCart .tableDv th.productDetail {
-    width: 40%;
+    width: 36%;
 }
 .productCart .tableDv .Proprice {
     width: 20%;
@@ -77,9 +77,13 @@ figure {
 .productCart .tableDv .qty input {
     border-radius: 0;
     padding: 0 10px;
+    border: transparent;
+    color: #343436;
+    font-family: poppinregular;
     width: 80px;
     text-align: center;
     height: 35px;
+    background-color: #F2F2F2;
     outline: none;
 }
 .productCart .tableDv .addcart {
@@ -199,16 +203,19 @@ figure {
     margin-bottom: 20px;
 }
 .productCart .proceed h6 {
+    margin-top: 10px;
     font-size: 12px;
 }
 .deleteBtn{
     margin-right: 30px;
 }
-.deleteBtn a{
+.deleteBtn a {
     font-size: 18px;
     color: #9F1D3C;
+    text-decoration: none;
     font-family: 'poppins';
     font-weight: 500;
+    text-transform: capitalize;
 }
 p{
     font-size: 20px;

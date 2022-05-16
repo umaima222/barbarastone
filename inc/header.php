@@ -1,4 +1,3 @@
-
 <header id="header">
     <div class="container-fluid">
         <div class="row">
@@ -13,7 +12,7 @@
                     </div>
                     <div class="col-md-3 p-0">
                         <div class="side-nav">
-                            <div id="nav">
+                            <!-- <div id="nav">
                                 <ul class="left-nav">
                                     <li class="hover-class"><a href="#">menu</a>
                                         <ul>
@@ -26,6 +25,31 @@
                                     </li>
                                 </ul>
                             </div>
+                        </div> -->
+
+
+                            <div class="dropdown show" id="navbarNavDropdown">
+                                <ul class="navbar-nav">
+
+                                    <li class="nav-item dropdown" id="nav">
+                                        <a class="nav-link dropdown" href="#" id="navbarDropdownMenuLink"
+                                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            menu
+                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                            <a class="dropdown-item" href="index.php">Home</a>
+                                            <a class="dropdown-item" href="aboutus.php">About our platform</a>
+                                            <a class="dropdown-item" href="#">Meet barbara</a>
+                                            <a class="dropdown-item" href="CrimeSyndicatepage.php">Interoable acts tyranny</a>
+                                            <a class="dropdown-item" href="becomeamember.php">Become a member</a>
+                                            <a class="dropdown-item" href="become-a-volunteer.php">Become a volunteer</a>
+                                            <a class="dropdown-item" href="forums.php">Forum</a>
+                                            <a class="dropdown-item" href="product-page.php">Product </a>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            </nav>
                         </div>
                     </div>
                 </div>
@@ -37,8 +61,10 @@
                     </div>
 
                     <div class="dropdown">
-                        <a type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            <i class="fa fa-chevron-down" style="margin-left:0 ;margin-right:38px ; margin-top:35px !important; font-size:12px;"></i>
+                        <a type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true"
+                            aria-expanded="false">
+                            <i class="fa fa-chevron-down"
+                                style="margin-left:0 ;margin-right:38px ; margin-top:35px !important; font-size:12px;"></i>
                         </a>
                         <div class="dropdown-menu     ">
                             <a class="dropdown-item" href="sign-in.php">Sign in</a>

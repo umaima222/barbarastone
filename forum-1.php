@@ -65,6 +65,12 @@
                 </div>
                 <div class="col-lg-6 col-md-12 px-0">
                     <div class="ty-show-tabs">
+                    <div class="for-search-bar">
+                        <form class="form-inline search-bar">
+      <input class="form-control " type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success  my-sm-0" type="submit">Search</button>
+    </form>
+                        </div>
                         <div class="for-add-new-post">
                             <div class="for-img">
                                 <img src="img/in-post.png" alt="">

@@ -84,6 +84,38 @@ p {
 
 
 /* Buy Screen Play Css Start Here */
+.for-search-bar  {
+    display: flex;
+    padding: 16px 25px 20px 33px;
+    background: #EBEBEB;
+    width: 100%;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+.search-bar{
+    width: 100%;
+}
+.for-search-bar .form-inline .form-control {
+    display: inline-block;
+    width: 74%;
+    vertical-align: middle;
+}
+.for-search-bar .btn-outline-success:hover {
+    color: #fff;
+    background-color: #9F1D3C !important;
+    border-color: #9F1D3C !important;
+}
+.for-search-bar .btn-outline-success {
+    background-color: #9F1D3C;
+    padding: 11px 43px;
+    border: 0px;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin-left: 10px;
+    font-family: "Aileron-SemiBold";
+    margin-top: 15px;
+    border-radius:  0 !important;
+}
 .for-add-new-post {
     display: flex;
     padding: 16px 25px 20px 33px;

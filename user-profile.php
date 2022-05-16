@@ -69,9 +69,10 @@
                                                 <img src="img/three-dots.png" alt="">
                                             </button>
                                             <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                                <div class="dropstart inside-dropdown"><i class="fa fa-pen"></i> Edit Post</div>
-                                                <div class="dropstart inside-dropdown"><i class="fa fa-eye-slash"></i> Hide From Other</div>
-                                                <div class="dropstart inside-dropdown"><i class="fa fa-trash"></i> Delete Post</div>
+                                            <div class="dropstart inside-dropdown"><i class="fa fa-eye-slash"></i> Hide Post</div>
+                                            <div class="dropstart inside-dropdown"><i class="fa fa-trash"></i> Delete Post</div>
+                                                <div class="dropstart inside-dropdown" style="display: flex;"><img src="img/chat.png" alt="" class="img-fluid"> Message Jason</div>
+                                                
                                             </ul>
                                         </div>
                                     </div>

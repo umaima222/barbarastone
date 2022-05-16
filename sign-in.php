@@ -31,7 +31,7 @@
                             </div>
                             
                             <div class="form-group ">
-                                <button class="form-control btn">Submit</button>
+                                <button class="form-control btn">Login</button>
                             </div>
                             <span>Don't have account?</span> <a href="createanaccount.php"> Sign Up</a>
                         </form>

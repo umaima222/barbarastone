@@ -27,7 +27,7 @@ body {
   src: url(../fonts/Poppins-BoldItalic.ttf);
 }
 @font-face {
-  font-family: Poppinsitalic;
+  font-family: "Poppinsitalic";
   src: url(../fonts/Poppins-Italic.ttf);
 }
 
@@ -89,7 +89,9 @@ body {
   flex-direction: row;
   margin-left: 15px;
 }
-
+ol, ul {
+  padding-left: 0 !important;
+}
 header {
   width: 100%;
   background-color: #f7f2df;
@@ -106,7 +108,26 @@ header {
 #nav ul {
   list-style: none;
 }
-
+.side-nav #nav .dropdown-menu {
+  top: 15px !important;
+  background-color: #F9F9F9 !important;
+  color: #202020 !important;
+  left: 0 !important;
+  width: 253px !important;
+  position: absolute;
+  transform: translate3d(0px, 48px, 0px);
+  will-change: transform;
+  /* height: 270px; */
+  /* display: inline-block !important; */
+}
+.side-nav .nav-item a{
+  text-decoration: none;
+  text-transform: capitalize;
+  color: black;
+  font-family: Poppinssemibold;
+  padding: 5px 14px;
+  font-size: 14px;
+}
 #nav ul li {
   color: black;
   font-size: 18px;
@@ -1626,8 +1647,8 @@ section.government-rights-sec h3 {
   color: #9f1d3c;
   padding-top: 16px;
   font-size: 27px;
-  font-family: Poppinsitalic;
-  font-weight: 500;
+  font-family: "Poppinsitalic";
+  /* font-weight: 500; */
 }
 
 .about-banner {
@@ -1717,7 +1738,8 @@ footer {
 .footer-border {
   margin-top: 73px;
   border: 2px solid #FFFFFF;
-  padding: 35px 20px;
+  padding: 30px 20px;
+  width: 100%;
 }
 
 .footer-border h3 {
@@ -1824,7 +1846,9 @@ footer {
     padding-left: 82px;
     padding-right: 95px;
 }
-
+.container.footer-aboutit {
+  padding: 0 120px;
+}
 @media screen and (max-width: 991px) {
   .phone {
     display: unset;
@@ -2070,6 +2094,9 @@ footer {
 }
 
 @media screen and (max-width: 765px) {
+  .container.footer-aboutit {
+    padding: 0 ;
+  }
   .dropdown-menu {
     top: 57px !important;
     background-color: #F9F9F9 !important;

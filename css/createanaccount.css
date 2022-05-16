@@ -70,6 +70,7 @@
     color: #9F1D3C;
     font-weight: 600;
     font-size: 15px;
+    text-decoration: none;
 }
 .account-form-wrapper label.form-check-label {
     color: #000000;

@@ -39,12 +39,12 @@ $page = "";
                         <h5 class="font-15">$158.07</h5>
                     </td>
                     <td class="qty">
-                        <input type="number" value="01">
+                        <input type="number" value="02">
                     </td>
                     <td class="addcart">
                         <div class="ActionBtn">
                             <div class="cartBtn">
-                                <p>$158.07</p>
+                            <h5 class="font-15">$316.14</h5>
                             </div>
                             <div class="deleteBtn">
                                <a href="#">remove</a>
@@ -72,7 +72,7 @@ $page = "";
                     <td class="addcart">
                         <div class="ActionBtn">
                             <div class="cartBtn">
-                                <p>$158.07</p>
+                            <h5 class="font-15">$158.07</h5>
                             </div>
                             <div class="deleteBtn">
                             <a href="#">remove</a>
@@ -100,7 +100,35 @@ $page = "";
                     <td class="addcart">
                         <div class="ActionBtn">
                             <div class="cartBtn">
-                                <p>$158.07</p>
+                            <h5 class="font-15">$158.07</h5>
+                            </div>
+                            <div class="deleteBtn">
+                            <a href="#">remove</a>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+                <tr class="products">
+                    <td class="productDetail">
+                        <div class="product-detail">
+                            <div class="img-box">
+                            <figure><img class="img-fluid" src="img/cart.png" alt=""></figure>
+                            </div>
+                            <div class="name">
+                                <p class="font-13">Barbara T.shirt</p>
+                            </div>
+                        </div>
+                    </td>
+                    <td class="Proprice">
+                        <h5 class="font-15">$158.07</h5>
+                    </td>
+                    <td class="qty">
+                        <input type="number" value="03">
+                    </td>
+                    <td class="addcart">
+                        <div class="ActionBtn">
+                            <div class="cartBtn">
+                            <h5 class="font-15">$474.21</h5>
                             </div>
                             <div class="deleteBtn">
                             <a href="#">remove</a>
@@ -128,35 +156,7 @@ $page = "";
                     <td class="addcart">
                         <div class="ActionBtn">
                             <div class="cartBtn">
-                                <p>$158.07</p>
-                            </div>
-                            <div class="deleteBtn">
-                            <a href="#">remove</a>
-                            </div>
-                        </div>
-                    </td>
-                </tr>
-                <tr class="products">
-                    <td class="productDetail">
-                        <div class="product-detail">
-                            <div class="img-box">
-                            <figure><img class="img-fluid" src="img/cart.png" alt=""></figure>
-                            </div>
-                            <div class="name">
-                                <p class="font-13">Barbara T.shirt</p>
-                            </div>
-                        </div>
-                    </td>
-                    <td class="Proprice">
-                        <h5 class="font-15">$158.07</h5>
-                    </td>
-                    <td class="qty">
-                        <input type="number" value="01">
-                    </td>
-                    <td class="addcart">
-                        <div class="ActionBtn">
-                            <div class="cartBtn">
-                                <p>$158.07</p>
+                            <h5 class="font-15">$158.07</h5>
                             </div>
                             <div class="deleteBtn">
                             <a href="#">remove</a>
@@ -177,20 +177,20 @@ $page = "";
                 <div class="col-lg-4 text-right">
                     <div class="productSummary">
                         <div class="subTotal">
-                            <h6 class="rightt" style="color:#989898;">Subtotal</h6>
-                            <h6 style="color:#989898;">Estimated Shipping Cost</h6>
+                            <h6 class="rightt" style="color:#001C1A;">Subtotal</h6>
+                            <h6 style="color:#001C1A;">Estimated Shipping Cost</h6>
                         </div>
                         <div class="shipping">
-                            <h6 class="price" style="color:#989898;">$ 700.00</h6>
-                            <h6 style="color:#989898;">Free Shipping</h6>
+                            <h6 class="price" style="color:#001C1A;">$ 700.00</h6>
+                            <h6 style="color:#001C1A;">$ 40.15</h6>
                         </div>
                     </div>
                     <div class="Total">
                         <div class="property">
-                            <p>TOTAL COST</p>
+                            <p style="color: #000000;">TOTAL COST</p>
                         </div>
                         <div class="value">
-                            <p>$ 700.15</p>
+                            <p style="color: #000000;">$ 740.15</p>
                         </div>
                     </div>
                 </div>

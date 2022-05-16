@@ -33,10 +33,11 @@ header{
     text-align: right;
 }
 .img-box1{
+    width: 100%;
     text-align: right;
 }
 .img-box1 img{
-    width: 58%;
+    width: 140px;
 
 }
 .CrimeSyndicate-sec{
@@ -61,11 +62,11 @@ header{
 .CrimeSyndicate-heading h2 {
     color: #9F1D3C;
     font-family: harlow;
-    font-size: 30px;
+    font-size: 35px;
 }
 .about-CrimeSyndicate p{
     font-family: timesregular;
-    font-size: 14px;
+    font-size: 17px;
     font-weight: 500;
     margin-bottom: 0
 }
@@ -74,6 +75,7 @@ header{
     margin: 10px;
 }
 .img-box2{
+    width: 100%;
     text-align: right;
     margin-right: 17px;
 }
@@ -114,6 +116,7 @@ span{
 }
 .CrimeSyndicate-title p{
     font-size: 13px;
+    word-break: break-all;
 }
 .about-CrimeSyndicate a{
     font-size: 11px;
