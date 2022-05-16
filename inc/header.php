@@ -57,7 +57,8 @@
             <div class="col-md-5 p-0">
                 <div class="nav-container">
                     <div class="contact">
-                        <i class='fas fa-user-alt' style='font-size:20px ;margin-top:30px;'></i>
+                    <i class="fa fa-user" aria-hidden="true" style='font-size:24px ;margin-top:27px !important; margin-right:10px;'></i>
+            
                     </div>
 
                     <div class="dropdown">
