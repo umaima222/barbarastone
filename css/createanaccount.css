@@ -102,3 +102,21 @@ span{
 .account{
     margin-top: 50px;
 }
+@media (max-width: 768px) {
+    .form-control {
+        width: 100%;
+        background-color: transparent;
+        border: transparent;
+        border-bottom: 1px solid white;
+        padding: 10px;
+        margin-left: 0;
+    }
+
+    .account-imgbox {
+        margin-top: 10px;
+    }
+    .account-imgbox img {
+        width: 100%;
+    }
+
+}

@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="header-container">
-                    <div class="col-md-2 p-0 logo">
+                    <div class=" col-lg-2 col-md-4 p-0 logo">
                         <div class="logo-img">
                             <a href="index.php">
                                 <img src="img/group30.png" alt="" class="img-fluid">
@@ -43,7 +43,7 @@
                                             <a class="dropdown-item" href="CrimeSyndicatepage.php">Interoable acts tyranny</a>
                                             <a class="dropdown-item" href="becomeamember.php">Become a member</a>
                                             <a class="dropdown-item" href="become-a-volunteer.php">Become a volunteer</a>
-                                            <a class="dropdown-item" href="forums.php">Forum</a>
+                                            <a class="dropdown-item" href="forum-1.php">Forum</a>
                                             <a class="dropdown-item" href="product-page.php">Product </a>
                                         </div>
                                     </li>

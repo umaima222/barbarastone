@@ -825,14 +825,18 @@ section.screenplay-buy .for-like-txt-1 a {
 
 .sidebar .select_genre ul.categories {
     padding: 30px 40px;
-    margin: 0;
+    margin: 0 28px;
     list-style: none;
+    /* padding-left: 28px; */
+    /* text-align: center; */
+    /* display: flex; */
 }
 
 .sidebar .select_genre ul.categories li a {
     color: #000000;
     font-size: 15px;
     font-family: "Poppins-SemiBold";
+    text-decoration: none;
 }
 
 .sidebar .select_genre ul.categories span {
@@ -842,7 +846,7 @@ section.screenplay-buy .for-like-txt-1 a {
 }
 
 .sidebar .select_genre ul.categories li {
-    padding: 3px 0;
+    padding: 6px 0;
 }
 
 

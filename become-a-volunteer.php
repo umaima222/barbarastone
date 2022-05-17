@@ -6,8 +6,8 @@
 <section class="signup">
     <div class="container">
         <div class="row">
-            <div class="col-lg-3"></div>
-            <div class="col-lg-6 col-sm-12">
+            <div class="col-lg-4"></div>
+            <div class="col-lg-4 col-sm-12">
                 <div class="sign-up-box-wrapper">
                     
                     <div class="sign-up-heading-wrapper">
@@ -27,7 +27,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3"></div>
+            <div class="col-lg-4"></div>
         </div>
     </div>
 </section>

@@ -3,10 +3,11 @@
 <link rel="stylesheet" href="css/becomeamember.css">
 <!-- css file ends here -->
 <!-- sign up as a user section starts here -->
-<section class="account">
+<section class="accounts-sec">
     <div class="container">
-        <div class="row account">
-            <div class="col-lg-6">
+        <div class="row account ">
+            <div class="col-md-1 col-sm-12"></div>
+            <div class="col-lg-5 col-md-6 col-sm-12" >
                 <div class="account-box-wrapper">
 
                     <div class="account-heading-wrapper">
@@ -15,7 +16,7 @@
                     </div>
                     <form>
                         <div class="form-row">
-                            <div class="form-group col-md-6">
+                            <div class="form-group col-md-6 name p-0 m-0">
                                 <input type="email" class="form-control" placeholder="First Name">
                             </div>
                             <div class="form-group col-md-6">
@@ -67,7 +68,7 @@
                     </form>
                 </div>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-5 col-md-5 col-sm-12">
                 <div class="account-imgbox">
                     <img src="img/account-signin.png" alt="" class="img-fluid">
                 </div>

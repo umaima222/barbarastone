@@ -1,76 +1,93 @@
 @font-face {
     font-family: Poppinssemibold;
     src: url(../fonts/Poppins-SemiBold.ttf);
-  }
-  #header{
-      background-color: transparent !important;
-  }
-  .account{
-      padding-bottom: 70px;
-  }
-  .account .account-box-wrapper {
+}
+
+#header {
+    background-color: transparent !important;
+}
+
+.account {
+    padding-bottom: 70px;
+    justify-content: center;
+}
+
+.account .account-box-wrapper {
     background: #F9F9F9;
     padding: 27px;
     text-align: center;
-    box-shadow: 0px 0px 10px 4px #a4a9a4;
+    box-shadow: 0px 0px 7px 4px #a4a9a4;
     margin: 0;
-    padding: 40px 20px;
+    padding: 24px 28px;
     position: relative;
+}
+
+.account-heading-wrapper {
+    padding-top: 19px;
 }
 
 .account.account-heading-wrapper {
     margin-bottom: 28px;
 }
+
 .account .account-heading-wrapper h4 {
-    color:#000000 ;
-    font-family:  Poppinssemibold;
+    color: #000000;
+    font-family: Poppinssemibold;
     font-size: 29px;
 }
 
 .account-heading-wrapper h6 {
-    color:#959595;
+    color: #959595;
     font-weight: 500;
     font-family: "poppins";
     font-size: 12px;
 
 }
+
 .account-box-wrapper input.form-control {
     border-radius: 0px;
     border: 1px solid #707070;
     font-family: 'Work sans';
     font-size: 17px;
 }
+
 .account-box-wrapper input.form-control {
     border-radius: 0px;
     border: 1px solid #D6D6D6;
     font-family: 'Work sans';
+    padding: 10px !important;
     font-size: 17px;
-    margin: 10px 0px
+    margin: 5px 0px
 }
-.account-box-wrapper input.form-control::placeholder{
-    font-family: 'Work sans';
+
+.account-box-wrapper input.form-control::placeholder {
+    font-family: "Poppins-Medium";
     font-size: 17px;
     font-weight: 300;
     color: #635F5F;
 }
+
 .account-box-wrapper .btn {
-    font-family: 'Work Sans';
-    color: #fff;
-    background:#9F1D3C;
+    font-family: "Poppins-Medium";
+    background: #B72F24;
     border-radius: 0px;
-    border: 1px solid #fff;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
     transition: all 0.3s ease-in-out;
 }
+
 .account button.form-control.btn:hover {
     outline: 2px solid #31007b;
 }
 
-.account  a {
+.account a {
     font-family: 'poppins';
-    color: #9F1D3C;
+    color: #9E1C36;
     font-weight: 600;
     font-size: 15px;
+    text-decoration: none;
 }
+
 .account-form-wrapper label.form-check-label {
     color: #000000;
     font-family: "poppins";
@@ -79,25 +96,99 @@
     font-size: 15px;
     margin: 0;
 }
+
 .form-check {
     width: 30%;
     position: relative;
     display: block;
     padding-left: 1.25rem;
 }
+
 input[type=checkbox] {
     position: relative;
-      cursor: pointer;
+    cursor: pointer;
 }
+
 .account .img-uplo-wrapper input[type="file"] {
     margin-right: -99px;
-}   
-span{
+}
+
+span {
     color: #959595;
     font-family: "poppins";
     font-weight: 400;
     font-size: 16px;
 }
-.account{
+
+.account {
     margin-top: 50px;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.name .form-control {
+    width: 92%;
+
+}
+
+.account-imgbox img {
+    height: 700px;
+}
+
+@media (max-width: 1150px) {
+    .account .account-box-wrapper {
+        background: #F9F9F9;
+        padding: 18px 18px;
+        text-align: center;
+        box-shadow: 0px 0px 7px 4px #a4a9a4;
+        margin: 0;
+        /* padding: 107px 28px; */
+        position: relative;
+    }
+
+}
+
+@media (max-width: 580px) {
+    .account {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .accounts-sec .container {
+        margin: 0;
+        justify-content: center;
+    }
+
+    .account-imgbox {
+        margin-top: 10px;
+    }
+    .form-control {
+        width: 94%;
+        background-color: transparent;
+        border: transparent;
+        border-bottom: 1px solid white;
+        padding: 10px;
+        margin-left: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .accounts-sec .container {
+        margin: 0;
+        justify-content: center;
+    }
+
+    .account-imgbox {
+        margin-top: 10px;
+    }
+    .form-control {
+        width: 94%;
+        background-color: transparent;
+        border: transparent;
+        border-bottom: 1px solid white;
+        padding: 10px;
+        margin-left: 20px;
+    }
 }

@@ -45,7 +45,7 @@
     margin: 10px 0px
 }
 .sign-up-box-wrapper input.form-control::placeholder{
-    font-family: 'Work sans';
+    font-family: "Poppins-Medium";
     font-size: 17px;
     font-weight: 300;
     color: #635F5F;
@@ -99,7 +99,7 @@ span{
     justify-content: center;
     align-items: center;
 }
-@media screen and (max-width: 760px){
+@media  (max-width: 580px){
     .form-check {
         width: 43%;
         position: relative;
@@ -112,7 +112,7 @@ span{
         text-align: center;
         box-shadow: 0px 0px 10px 4px #a4a9a4;
         margin: 0;
-        padding: 50px 10px;
+        padding: 50px 10px !important;
         position: relative;
     }
     .signup{
@@ -122,5 +122,26 @@ span{
         margin-bottom: 1rem;
         display: flex;
         justify-content: center;
+    }
+    .signup .sign-up-box-wrapper {
+        background: #F9F9F9;
+        padding: 27px;
+        text-align: center;
+        box-shadow: 0px 0px 10px 4px #a4a9a4;
+        margin: 30px 10px !important;
+        padding: 50px 49px;
+        position: relative;
+    }
+
+}
+@media  (max-width: 768px){
+    .signup .sign-up-box-wrapper {
+        background: #F9F9F9;
+        padding: 27px;
+        text-align: center;
+        box-shadow: 0px 0px 10px 4px #a4a9a4;
+        margin: 100px 51px;
+        padding: 50px 89px;
+        position: relative;
     }
 }
