@@ -2,6 +2,10 @@
     font-family: Poppinssemibold;
     src: url(../fonts/Poppins-SemiBold.ttf);
   }
+@font-face {
+    font-family: "Work Sans";
+    src: url(../fonts/work-sans/work-sans.ttf);
+}
   #header{
     background-color: transparent !important;
   }
