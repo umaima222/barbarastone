@@ -87,7 +87,7 @@ p {
 .for-search-bar  {
     display: flex;
     padding: 16px 25px 20px 33px;
-    background: #EBEBEB;
+    background: #F9F9F9;
     width: 100%;
     margin-bottom: 20px;
     justify-content: center;
@@ -119,7 +119,7 @@ p {
 .for-add-new-post {
     display: flex;
     padding: 16px 25px 20px 33px;
-    background: #EBEBEB;
+    background: #F9F9F9;
     margin-bottom: 20px;
     justify-content: space-between;
 }
@@ -183,7 +183,7 @@ h5.name {
 }
 
 .screenplay-buy .search_box {
-    background: #ebebeb;
+    background: #F9F9F9;
     padding: 25px 30px;
 }
 
@@ -217,7 +217,7 @@ h5.name {
 
 .screenplay-buy .nav .nav-link {
     flex: 1;
-    background: #ebebeb;
+    background: #F9F9F9;
     color: #000000;
     padding: 10px 0;
     border-radius: 0;
@@ -343,7 +343,7 @@ h5.name {
 /* tv show css start here */
 
 .add-new-post {
-    background-color: #EBEBEB;
+    background-color: #F9F9F9;
     padding: 30px 50px 30px 30px;
     margin-bottom: 35px;
 }
@@ -391,7 +391,7 @@ h5.name {
 .this-post-inner {
     position: relative;
     padding: 16px 25px 20px 33px;
-    background: #EBEBEB;
+    background: #F9F9F9;
     margin-bottom: 20px;
 }
 
@@ -426,7 +426,7 @@ h5.name {
 
 .three-dots-btn {
     border: none !important;
-    background-color: #ebebeb !important;
+    background-color: #F9F9F9 !important;
 }
 
 .inside-dropdown {
@@ -809,11 +809,11 @@ section.screenplay-buy .for-like-txt-1 a {
 }
 
 .sidebar .select_genre {
-    background: #ebebeb;
+    background: #F9F9F9;
 }
 
 .sidebar .heading {
-    border-bottom: 1px solid #565656;
+    border-bottom: 1px solid #56565638;
 }
 
 .sidebar .heading h4 {
@@ -824,8 +824,8 @@ section.screenplay-buy .for-like-txt-1 a {
 }
 
 .sidebar .select_genre ul.categories {
-    padding: 30px 40px;
-    margin: 0 28px;
+    padding: 30px 51px;
+    margin: 0 33px;
     list-style: none;
     /* padding-left: 28px; */
     /* text-align: center; */
@@ -837,6 +837,7 @@ section.screenplay-buy .for-like-txt-1 a {
     font-size: 15px;
     font-family: "Poppins-SemiBold";
     text-decoration: none;
+    font-weight: bold;
 }
 
 .sidebar .select_genre ul.categories span {
@@ -846,19 +847,21 @@ section.screenplay-buy .for-like-txt-1 a {
 }
 
 .sidebar .select_genre ul.categories li {
-    padding: 6px 0;
+    padding: 9px 0;
 }
 
 
 .trending_tags {
-    background: #ebebeb;
+    background: #F9F9F9;
     margin-top: 20px;
 }
 
 .trending_tags ul.tags {
-    padding: 20px 20px 40px;
+    /* padding: 20px 20px 40px; */
     margin: 0px 0;
     list-style: none;
+    text-align: center;
+    padding: 28px 13px;
 }
 
 .trending_tags ul.tags li {
@@ -866,7 +869,7 @@ section.screenplay-buy .for-like-txt-1 a {
     color: #0000007d;
     display: inline-block;
     padding: 6px 14px;
-    margin: 3px 2px;
+    margin: 6px 4px;
     font-size: 14px;
     font-family: "Poppins-Regular";
 }
@@ -880,7 +883,7 @@ section.screenplay-buy .for-like-txt-1 a {
 
 /* recent post sidebar css start here */
 .recent_post {
-    background: #ebebeb;
+    background: #F9F9F9;
 }
 
 .recent_post .heading {
@@ -945,7 +948,7 @@ section.screenplay-buy .for-like-txt-1 a {
 }
 
 .online_members {
-    background: #ebebeb;
+    background: #F9F9F9;
 }
 
 .online_members .heading {

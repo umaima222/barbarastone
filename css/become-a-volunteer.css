@@ -5,13 +5,13 @@
   #header{
     background-color: transparent !important;
   }
-.signup .sign-up-box-wrapper {
+  .signup .sign-up-box-wrapper {
     background: #F9F9F9;
     padding: 27px;
     text-align: center;
     box-shadow: 0px 0px 10px 4px #a4a9a4;
     margin: 100px -53px;
-    padding: 50px 90px;
+    padding: 50px 39px;
     position: relative;
 }
 
@@ -53,7 +53,7 @@
 .sign-up-box-wrapper .btn {
     font-family: 'Work Sans';
     color: #fff;
-    background:#9F1D3C;
+    background:#9E1C36;
     border-radius: 0px;
     border: 1px solid #fff;
     transition: all 0.3s ease-in-out;
@@ -64,7 +64,7 @@
 
 .signup .sign-up-form-wrapper a {
     font-family: 'poppins';
-    color: #9F1D3C;
+    color: #9E1C36;
     font-weight: 600;
     font-size: 15px;
 }
