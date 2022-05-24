@@ -738,11 +738,12 @@
     font-weight: 400;
     font-family: "Montserrat";
   }
-  .checkout .confirm-orderDv .button-group button {
+  .checkout .confirm-orderDv .button-checkout a {
     width: 100%;
     padding: 12px 80px;
     cursor: pointer;
     background: #9f1d3c;
+    text-decoration: none;
     color: #fff;
     font-size: 18px;
     text-transform: uppercase;

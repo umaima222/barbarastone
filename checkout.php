@@ -354,6 +354,7 @@
                     </div>
                 </div>
                 <div class="border-last"></div>
+                </form>
                 <div class="confirm-orderDv">
                     <div class="form-check ">
                         <input type="checkbox" class="form-check-input" id="for-checkbox">
@@ -361,11 +362,10 @@
                             laborum</label>
                     </div>
 
-                    <div class="button-group">
-                        <button type="submit">Confirm Order <img src="img/right-arrow.svg" alt=""></button>
+                    <div class="button-checkout">
+                        <a href="thankyou.php">Confirm Order <img src="img/right-arrow.svg" alt=""></a>
                     </div>
                 </div>
-        </form>
     </div>
 </section>
 <!-- checkout-section ends here -->

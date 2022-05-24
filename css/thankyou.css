@@ -2,6 +2,21 @@
 section.inner-banner-sec {
     position: relative;
   }
+  #header{
+      background-color: transparent !important;
+  }
+  .product-heading h1 {
+    color: #FFFFFF;
+    font-family: "Recoleta";
+    font-size: 40px;
+    font-weight: 700;
+  }
+  
+  .product-heading {
+    text-align: center;
+    background-color: #9E1C36;
+    padding: 34px;
+  }
   .inner-stuff-all {
     position: absolute;
     z-index: 999;

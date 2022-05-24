@@ -44,7 +44,11 @@
                                             <a class="dropdown-item" href="becomeamember.php">Become a member</a>
                                             <a class="dropdown-item" href="become-a-volunteer.php">Become a volunteer</a>
                                             <a class="dropdown-item" href="forum-1.php">Forum</a>
-                                            <a class="dropdown-item" href="product-page.php">Product </a>
+                                            <a class="dropdown-item" href="product-page.php">Product </a> 
+                                            <a class="dropdown-item" href="Genocide-Rackethpage.php">Genocide Racket </a>
+                                            <a class="dropdown-item" href="IntolerableActspage.php">Intolerable Acts and Madness - </a>
+                                            <a class="dropdown-item" href="product-page.php">Product </a> 
+                                            <a class="dropdown-item" href="product-page.php">Genocide Racket </a>
                                         </div>
                                     </li>
                                 </ul>

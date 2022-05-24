@@ -6,16 +6,12 @@
 <!-- css file ends here -->
 <!-- breadcrumbs sec starts here -->
 <section class="breadcrumbs">
+<div class="product-heading">
+        <h1>Product Details</h1>
+    </div>
     <div class="container">
         <div class="row">
-            <div class="col-lg-12">
-                <nav aria-label="breadcrumb">
-                    <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Add to Cart</li>
-                    </ol>
-                </nav>
-            </div>
+
         </div>
     </div>
 </section>
@@ -107,7 +103,7 @@
                         <h3 class="value">$45</h3>
                     </div>
                 </div>
-                <a class="btn" href="product-page.php" type="button">Continue Shopping</a>
+                <a class="btn" href="product-page.php" >Continue Shopping</a>
             </div>
             <div class="col-lg-3 col-md-2">
 

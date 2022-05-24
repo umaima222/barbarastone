@@ -41,7 +41,7 @@
             </div>
             <div class="col-lg-9">
                 <div class="carts">
-                    <a href=""><span>view cart</span> <img src="img/cart-icon.png" alt="" class="img-fluid"></a>
+                    <a href="productcart.php"><span>view cart</span> <img src="img/cart-icon.png" alt="" class="img-fluid"></a>
                 </div>
                 <div class="cards-container">
                     <div class="col-md-3  m-0">
