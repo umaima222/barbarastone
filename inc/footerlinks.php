@@ -112,3 +112,19 @@
 
     }
 </script>
+<script>
+    $(function() {
+  $('.accordion-content').hide();
+
+  $('.accordion').on('click', '.accordion-trigger', function(e) {
+    e.preventDefault();
+
+    $('.accordion-content:visible').slideUp(300);
+
+    $(this)
+      .next('.accordion-content')
+      .not(':animated')
+      .slideToggle(300);
+  });
+});
+</script>
