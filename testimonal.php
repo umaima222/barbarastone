@@ -1,6 +1,6 @@
 <!-- header starts here -->
 <?php include 'inc/app.php' ?>
-<link rel="stylesheet" href="css/testimonial .css">
+<link rel="stylesheet" href="css/testimonial.css">
 
 <section>
 <div class="donation-heading">
