@@ -13,7 +13,7 @@
                         <input type="" class="banner-control" id="inputPassword4" placeholder="We the People Reclaim and Secure our Rights">
 
                         <div class="donate-banner">
-                            <a href="donation.php"><button>Donate Now</button></a>
+                            <a href="#"><button>Donate Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -35,14 +35,12 @@
                         <input type="" class="bannerz-control" id="inputPassword4" placeholder="We the People Reclaim and Secure our Rights">
 
                         <div class="donate-btn">
-                            <a href="donation.php"><button>Donate Now</button></a>
+                            <a href="#"><button>Donate Now</button></a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="container footer-aboutit">
         <div class="footer">
             <div class="phone">
                 <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 p-0 m-0">
@@ -67,19 +65,19 @@
                                 <div class="footer-heading">
                                     <h3>QUICK LINK</h3>
                                 </div>
-                                <a href="index.php">HOME</a>
-                                <a href="aboutus.php">About Our Platform</a>
+                                <a href="#">HOME</a>
+                                <a href="#">About Our Platform</a>
                                 <a href="#">Meet Barbara</a>
-                                <a href="IntolerableActspage.php">Intolerable Acts; Tyranny</a>
-                                <a href="video.php">Videos</a>
+                                <a href="#">Intolerable Acts; Tyranny</a>
+                                <a href="#">Videos</a>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="contact-us">
-                                <a href="contactforanyquery.php">Contact us</a>
-                                <a href="testimonal.php">Reviews</a>
-                                <a href="product-page.php">Products</a>
-                                <a href="forum-1.php">Forum</a>
+                                <a href="#">Contact us</a>
+                                <a href="#">Reviews</a>
+                                <a href="#">Products</a>
+                                <a href="#">Forum</a>
                             </div>
                         </div>
                     </div>
@@ -106,19 +104,21 @@
             <p>COPYRIGHTS © 2022 barbarastone. ALL RIGHTS RESERVED</p>
             <div class="socail-icon">
                 <div class="facebook-img">
-                    <img src="img/facebook.png" alt="" class="img-fluid">
+                    <a target="_blank" href="https://www.facebook.com/The-Peoples-Rights-Forum-106166922154011/"><img src="img/facebook.png" alt="" class="img-fluid"></a>
                 </div>
-                <div class="printerest-img">
-                    <img src="img/print.png" alt="" class="img-fluid">
+                <div class="printerest-img mr-2">
+                    <a target="_blank" href="https://www.linkedin.com/company/peoplesrightsforum">
+                        <i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
                 </div>
                 <div class="google-img">
-                    <img src="img/google.png" alt="" class="img-fluid">
+                    <a target="_blank" href="https://www.instagram.com/peoplesrightsforum/">
+                        <i class="fa fa-instagram" aria-hidden="true"></i></a>
                 </div>
                 <div class="twitter-img">
-                    <img src="img/twitter.png" alt="" class="img-fluid">
+                    <a target="_blank" href="https://twitter.com/tprf_official">
+                        <img src="img/twitter.png" alt="" class="img-fluid"></a>
                 </div>
             </div>
         </div>
     </div>
 </footer>
-<?php include 'inc/footerlinks.php'; ?>

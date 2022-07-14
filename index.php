@@ -1,20 +1,20 @@
 <?php include 'inc/app.php';?>
-<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'> </script>
+    <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'> </script>
 
- <link rel="stylesheet" href="css/style.css">
-<!--  Start Here -->
-<section class="header-banner">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-6">
-            <div class="sub-container">
+    <link rel="stylesheet" href="css/style.css">
+    <!--  Start Here -->
+    <section class="header-banner">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="sub-container">
                         <h1 class="web-title">Barbara Stone</h1>
                         <h1 class="HarlowSolid">The People's Rights Forum </h1>
                         <h1 class="day">Our Day Has Come</h1>
                         <h1 class="Script">#We Know #We Grow</h1>
                     </div>
-            </div>
-            <div class="col-md-6">
+                </div>
+                <div class="col-md-6">
                     <div class="img-div">
                         <div class="header-img">
 
@@ -23,11 +23,11 @@
                             </div>
                         </div>
                     </div>
+                </div>
             </div>
         </div>
-    </div>
-</section>
-<section class="building-sec">
+    </section>
+    <section class="building-sec">
         <div class="container">
             <div class="building-heading">
                 <h2 class="Poppinsbolditalic">What Insurrection? </h2>
@@ -57,11 +57,11 @@
 
                     <div class="detail-text">
                         <span class="right">Our Rights are </span> <span class="Fundamental">Fundamental,</span> <span
-                            class="Inherent">Inherent,</span>
+                                class="Inherent">Inherent,</span>
                         <span class="Unalienable">Unalienable,</span>
                         <span class="Indivisible">,</span> <span class="Innate">Innate,</span>
                         <span class="Natural">Natural,</span> <span class="Equal">Equal</span> <span
-                            class="right">and</span> <span class="Universal">Universal. </span>
+                                class="right">and</span> <span class="Universal">Universal. </span>
                         <p> They are OWNED by us by virtue of our Birth and Humanity and because WE EXIST as human
                             beings.
                         <p> Our Rights are Unalienable and are endowed by the Creator under the Declaration of
@@ -153,21 +153,21 @@
             </div>
         </div>
         <div class="container">
-        <div class="wrong">
-        <div class="Operation-border">
-            <div class="text-border">
-                <p class="sec-end"> Find out just what the people will submit to and you have found out the
-                    exact
-                    amount of injustice and wrong which will be
-                    imposed upon them, and these will continue until they are resisted with either words or
-                    blows or with both.</p>
-                <p class="text-end"> The limits of tyrants are prescribed by the endurance of those whom
-                    they oppress.—</p>
-                <p class="date"> Frederick Douglass, civil rights activist, Aug. 4, 1857</p>
+            <div class="wrong">
+                <div class="Operation-border">
+                    <div class="text-border">
+                        <p class="sec-end"> Find out just what the people will submit to and you have found out the
+                            exact
+                            amount of injustice and wrong which will be
+                            imposed upon them, and these will continue until they are resisted with either words or
+                            blows or with both.</p>
+                        <p class="text-end"> The limits of tyrants are prescribed by the endurance of those whom
+                            they oppress.—</p>
+                        <p class="date"> Frederick Douglass, civil rights activist, Aug. 4, 1857</p>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
-    </div>
         <div class="script-text">
             <h5 class="Script">#We Know #We Grow</h5>
         </div>
@@ -217,17 +217,17 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="place-img">
-                            <img src="img/image2.png" alt="" class="img-fluid">
+                            <img src="img/crime.jpg" alt="" class="img-fluid">
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="place-img">
-                            <img src="img/image3.png" alt="" class="img-fluid">
+                            <img src="img/corruption1.jpg" alt="" class="img-fluid">
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="place-img4">
-                            <img src="img/image4.png" alt="" class="img-fluid">
+                            <img src="img/no-matter1.png" alt="" class="img-fluid">
                         </div>
                     </div>
                     <!-- <div class="col-md-1"></div> -->
@@ -254,7 +254,7 @@
                     <p>Barbara has experienced personally and first-hand the criminality and corruption infested
                         in the government. Barbara's indoctrination into the staggering government tyranny began
                         when she and her mother became prey to the U. S. Guardian Genocide Regime (<span
-                            class="bold-word">
+                                class="bold-word">
                             Insert link to U.S. Guardian and ChildTrafficking Racket
                         </span>
                         <span>).</span>
@@ -376,7 +376,7 @@
                         as shall seem most likely to effort our Safety and Happiness.</p>
                     <p> 5. We the People must adopt and ratify the international, universal laws of the United Nations
                     </p>
-                   <p> to become a true international leader, to lead the world by actions, not by hypocrisy.</p>
+                    <p> to become a true international leader, to lead the world by actions, not by hypocrisy.</p>
                     <p> 6. We the People must demand that international agencies including the U.N. Human Rights
                         Council, the U.N. Security Council, and the NATO comply with their own Charters and Conventions
                         and enact effective enforcement provisions to ensure compliance by their member states.
@@ -511,16 +511,16 @@
                     <div class="government-title">
                         <h1>C. REVERSE BLACKMAIL SCHEMES</h1>
                         <div class="about-government">
-                        <p>The U.S Guardian and Child Trafficking Rackets run a “reverse blackmail scheme” symbiotic
-                            to
-                            that of Jeffrey Epstein. Contrary to blackmailing and extorting payments from
-                            pedophiles,
-                            predators and perverts as done by Epstein to buy their silence, these Rackets extort
-                            payments from and issue illegal “Gag Orders” against Family Member Crime Victims to
-                            prevent
-                            them from reporting Atrocity Crimes by the U.S. Government.</p>
+                            <p>The U.S Guardian and Child Trafficking Rackets run a “reverse blackmail scheme” symbiotic
+                                to
+                                that of Jeffrey Epstein. Contrary to blackmailing and extorting payments from
+                                pedophiles,
+                                predators and perverts as done by Epstein to buy their silence, these Rackets extort
+                                payments from and issue illegal “Gag Orders” against Family Member Crime Victims to
+                                prevent
+                                them from reporting Atrocity Crimes by the U.S. Government.</p>
+                        </div>
                     </div>
-                </div>
                 </div>
                 <div class="col-md-3 scheme">
                     <div class="scheme-imgbox">
@@ -809,7 +809,8 @@
             </div>
         </div>
         <div class="read-btn">
-            <a href="#"><button>read Our ICC Complaint</button></a>
+            <a target="_blank" href="https://drive.google.com/file/d/1ShZ_X3HLM0snCu-zw7Xvjnx40zUx0G57/view"><button>read Our ICC Complaint</button></a>
+            <a target="_blank" href="https://drive.google.com/file/d/1rR7g5cBrq5qUVTOfZhUGS5Imue2uvI0m/view"><button>Read Our Press Release</button></a>
         </div>
         <div class="script-text">
             <h5 class="Script">#We Know #We Grow</h5>
@@ -1449,6 +1450,6 @@
         </div>
         </div>
     </section>
-<!-- End Here -->
+    <!-- End Here -->
 
 <?php include 'inc/footer.php';?>
