@@ -48,7 +48,6 @@
                             <a class="dropdown-item" href="#">View Cart</a>
                         </div>
                     </div>
-
                     </a>
                     <div class="buttons">
                         <a href="#"><button class="nav-btn">TAKE ACTION</button></a>

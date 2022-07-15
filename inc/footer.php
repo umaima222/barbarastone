@@ -12,9 +12,16 @@
                     <div class="about-banner">
                         <input type="" class="banner-control" id="inputPassword4" placeholder="We the People Reclaim and Secure our Rights">
 
-                        <div class="donate-banner">
-                            <a href="#"><button>Donate Now</button></a>
-                        </div>
+<!--                        <div class="donate-banner">-->
+<!--                            <a href="#"><button>Donate Now</button></a>-->
+<!--                        </div>-->
+                        <form action="https://www.paypal.com/donate" method="post" target="_top"><input type="hidden" name="hosted_button_id" value="RKSSV82HJHX5Y" />
+<!--                            <input type="image" src="img/donation1.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" style="height: 65px" />-->
+                            <!--                            <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />-->
+                            <div class="donate-banner mt-4">
+                                <a href="#"><button>Donate Now</button></a>
+                            </div>
+                        </form>
                     </div>
                 </div>
             </div>
