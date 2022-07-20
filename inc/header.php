@@ -51,7 +51,7 @@
                     </div>
                     </a>
                     <div class="buttons">
-                        <a href="registration-form.php"><button class="nav-btn">TAKE ACTION</button></a>
+                        <a href="registration-form.php"><button class="nav-btn">REGISTRATION</button></a>
                         <!--                        <a href="donation.php"><button class="nav-btn2">DONATE</button></a>-->
                         <form action="https://www.paypal.com/donate" method="post" target="_top"><input type="hidden" name="hosted_button_id" value="RKSSV82HJHX5Y" />
                             <input type="image" src="img/donation1.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" style="height: 65px" />
