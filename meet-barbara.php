@@ -19,11 +19,8 @@
                     </p>
                     <p>Barbara has experienced personally and first-hand the criminality and corruption infested
                         in the government. Barbara's indoctrination into the staggering government tyranny began
-                        when she and her mother became prey to the U. S. Guardian Genocide Regime (<span
-                            class="bold-word">
-                            Insert link to U.S. Guardian and ChildTrafficking Racket
-                        </span>
-                        <span>).</span>
+                        when she and her mother became prey to the U. S. Guardian Genocide Regime
+                        <span>.</span>
                         In the process, Barbara personally experienced the staggering criminality, tyranny and
                         corruption infested in all government branches both on the state and federal levels and
                         throughout all echelons of government including the President, Presidential Cabinet, U.S.
