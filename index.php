@@ -110,18 +110,14 @@
         <div class="container">
             <div class="about-news">
                 <h1 class="Poppinsbolditalic"> Our Unalienable Rights have been </h1>
-                <h1 class="Poppinsbolditalic"> Murdered and Raped</h1>
+                <h1 class="Poppinsbolditalic"> Stripped and Raped</h1>
             </div>
             <div class="row">
                 <div class="col-lg-7 col-md-5 col-sm-12">
                     <div class="news">
-                        <span class="span-text">We Are Blowing the Lid Off the Murderers,
-                            Traffickers, Thieves, and Tyrants Known as
-                            the “U.S. Government” That has</span> <span class="Poppins">MURDERE,</span>
-                        <span class="Poppins">stolen,</span> <span class="Poppins">stripped</span>
-                        <span> and</span> <span class="Poppins">raped</span> <span class=".span"> of our Rights,
-                            Family, Property, Homes, Possessions,
-                            Freedom and Lives.</span>
+                        <span class="span-text">We Are Blowing the Lid Off of the Human Trafficking Rackets perpetrated by U.S. government servants who have </span> <span class="Poppins">Murdered,</span>
+                        <span class="Poppins">Stolen,</span> <span class="Poppins">Stripped </span>
+                        <span> and</span> <span class="Poppins">Raped </span> <span class=".span"> our Rights, Family, Property, Homes, Possessions, Freedom and Lives.</span>
                         <div  class="mt-3">
                             <span>These crimes constitute “Atrocity Crimes” under international law, the most severe of crimes</span>
                         </div>
