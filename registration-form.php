@@ -29,12 +29,12 @@ if(isset($_POST["submit"])) {
         $mail = new PHPMailer(true);
 //        $mail->SMTPDebug = SMTP::DEBUG_SERVER;
         $mail->isSMTP();
-        $mail->Host       = 'smtp.mailtrap.io';
+        $mail->Host       = 'mail.peoplesrightsforum.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = '55b7452773998a';
-        $mail->Password   = '6e6999eeaac74f';
+        $mail->Username   = 'admin@peoplesrightsforum.com';
+        $mail->Password   = 'Justice2024';
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
-        $mail->Port       = 2525;
+        $mail->Port       = 26;
         $mail->SMTPSecure = false;
 
         $mail->setFrom($email, $name);
