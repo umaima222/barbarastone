@@ -190,10 +190,17 @@
                                     </li>
                                 </ul>
                             </div>
+
                         </div>
+
                     </div>
                 </div>
+                <div class="read-btn text-left">
+                    <a target="_blank" href="https://drive.google.com/file/d/1ShZ_X3HLM0snCu-zw7Xvjnx40zUx0G57/view"><button>read Our ICC Complaint</button></a>
+                    <a target="_blank" href="https://drive.google.com/file/d/1rR7g5cBrq5qUVTOfZhUGS5Imue2uvI0m/view"><button>Read Our Press Release</button></a>
+                </div>
             </div>
+
         </div>
     </section>
     <section class="place-sec">

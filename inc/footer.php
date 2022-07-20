@@ -11,7 +11,6 @@
                 <div class="col-md-9" id="banner">
                     <div class="about-banner">
                         <input type="" class="banner-control" id="inputPassword4" placeholder="We the People Reclaim and Secure our Rights">
-
 <!--                        <div class="donate-banner">-->
 <!--                            <a href="#"><button>Donate Now</button></a>-->
 <!--                        </div>-->
