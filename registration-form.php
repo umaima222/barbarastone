@@ -36,13 +36,15 @@ if(isset($_POST["submit"])) {
                 'allow_self_signed' => true
             )
         );
-        $mail->Host       = 'mail.peoplesrightsforum.com';
+        $mail->Host       = 'peoplesrightsforum.com';
         $mail->SMTPAuth   = true;
         $mail->Username   = 'barbara@peoplesrightsforum.com';
         $mail->Password   = 'Justice2024';
-        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
-        $mail->Port       = 26;
-        $mail->SMTPSecure = false;
+//        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
+        $mail->SMTPSecure = "ssl";
+        $mail->Port       = 465;
+        $mail->SMTPSecure = true;
+        $mail->
 
         $mail->setFrom($email, $name);
         $mail->addAddress($toEmail, 'Peoples Rights Forum');
