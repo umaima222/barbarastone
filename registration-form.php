@@ -31,7 +31,7 @@ if(isset($_POST["submit"])) {
         $mail->isSMTP();
         $mail->Host       = 'mail.peoplesrightsforum.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'admin@peoplesrightsforum.com';
+        $mail->Username   = 'barbara@peoplesrightsforum.com';
         $mail->Password   = 'Justice2024';
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
         $mail->Port       = 26;
