@@ -44,7 +44,6 @@ if(isset($_POST["submit"])) {
         $mail->SMTPSecure = "ssl";
         $mail->Port       = 465;
 //        $mail->SMTPSecure = true;
-        $mail->
 
         $mail->setFrom($email, $name);
         $mail->addAddress($toEmail, 'Peoples Rights Forum');
