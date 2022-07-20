@@ -795,7 +795,7 @@
                         </p>
                         <p>Solomy Balungi Bossa (Uganda)</p>
                         <div class="criminal-imgbox">
-                            <img src="img/rectangle180.png" alt="" class="img-fluid">
+                            <img src="img/rectangle180flag.png" alt="" class="img-fluid">
                         </div>
                     </div>
                 </div>
