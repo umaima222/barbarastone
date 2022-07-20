@@ -240,6 +240,12 @@ header {
   margin-top: 85px;
   margin-left: 70px;
 }
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
 
 .text {
   padding-top: 320px;
@@ -594,7 +600,7 @@ p {
 }
 
 .text-border .sec-end {
-  font-size: 23px;
+  font-size: 21px;
   font-family: Script;
 }
 

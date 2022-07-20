@@ -63,11 +63,11 @@
 
                     <div class="detail-text">
                         <span class="right">Our Rights are </span> <span class="Fundamental">Fundamental,</span> <span
-                                class="Inherent">Inherent,</span>
+                            class="Inherent">Inherent,</span>
                         <span class="Unalienable">Unalienable,</span>
                         <span class="Indivisible">,</span> <span class="Innate">Innate,</span>
                         <span class="Natural">Natural,</span> <span class="Equal">Equal</span> <span
-                                class="right">and</span> <span class="Universal">Universal. </span>
+                            class="right">and</span> <span class="Universal">Universal. </span>
                         <p> They are OWNED by us by virtue of our Birth and Humanity and because WE EXIST as human
                             beings.
                         <p> Our Rights are Unalienable and are endowed by the Creator under the Declaration of
@@ -122,6 +122,9 @@
                         <span> and</span> <span class="Poppins">raped</span> <span class=".span"> of our Rights,
                             Family, Property, Homes, Possessions,
                             Freedom and Lives.</span>
+                        <div  class="mt-3">
+                            <span>These crimes constitute “Atrocity Crimes” under international law, the most severe of crimes</span>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-12">
@@ -167,8 +170,7 @@
                             amount of injustice and wrong which will be
                             imposed upon them, and these will continue until they are resisted with either words or
                             blows or with both.</p>
-                        <p class="text-end"> The limits of tyrants are prescribed by the endurance of those whom
-                            they oppress.—</p>
+                        <p class="text-center"> The limits of tyrants are prescribed by the endurance of those whom they oppress.— to be in larger font and centered</p>
                         <p class="date"> Frederick Douglass, civil rights activist, Aug. 4, 1857</p>
                     </div>
                 </div>
@@ -260,7 +262,7 @@
                     <p>Barbara has experienced personally and first-hand the criminality and corruption infested
                         in the government. Barbara's indoctrination into the staggering government tyranny began
                         when she and her mother became prey to the U. S. Guardian Genocide Regime (<span
-                                class="bold-word">
+                            class="bold-word">
                             Insert link to U.S. Guardian and ChildTrafficking Racket
                         </span>
                         <span>).</span>

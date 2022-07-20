@@ -18,9 +18,9 @@
                                     <li class="hover-class"><a href="#">menu</a>
                                         <ul>
                                             <li class="drop-down-li"><a href="index.php">home</a></li>
-                                            <li class="app"><a href="aboutus.php">about our platform</a>
-                                            <li class="app"><a href="#">meet barbara</a>
-                                            <li class="app"><a href="IntolerableActspage.php">interoable acts tyranny</a>
+                                            <li class="app"><a href="javascript:void(0);">about our platform</a>
+                                            <li class="app"><a href="meet-barbara.php">meet barbara</a>
+                                            <li class="app"><a href="javascript:void(0);">interoable acts tyranny</a>
                                             </li>
                                         </ul>
                                     </li>
@@ -46,11 +46,12 @@
                             <a class="dropdown-item" href="#">My Profile</a>
                             <a class="dropdown-item" href="#">Account</a>
                             <a class="dropdown-item" href="#">View Cart</a>
+<!--                            <a class="dropdown-item" href="registration-form.php">Registration</a>-->
                         </div>
                     </div>
                     </a>
                     <div class="buttons">
-                        <a href="#"><button class="nav-btn">TAKE ACTION</button></a>
+                        <a href="registration-form.php"><button class="nav-btn">TAKE ACTION</button></a>
                         <!--                        <a href="donation.php"><button class="nav-btn2">DONATE</button></a>-->
                         <form action="https://www.paypal.com/donate" method="post" target="_top"><input type="hidden" name="hosted_button_id" value="RKSSV82HJHX5Y" />
                             <input type="image" src="img/donation1.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" style="height: 65px" />
