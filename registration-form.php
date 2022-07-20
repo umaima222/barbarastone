@@ -42,7 +42,7 @@ if(isset($_POST["submit"])) {
         $mail->Password   = 'Justice2024';
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
         $mail->Port       = 26;
-        $mail->SMTPSecure = true;
+        $mail->SMTPSecure = false;
 
         $mail->setFrom($email, $name);
         $mail->addAddress($toEmail, 'Peoples Rights Forum');
