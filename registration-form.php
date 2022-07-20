@@ -29,13 +29,13 @@ if(isset($_POST["submit"])) {
         $mail = new PHPMailer(true);
 //        $mail->SMTPDebug = SMTP::DEBUG_SERVER;
         $mail->isSMTP();
-        $mail->SMTPOptions = array(
-            'ssl' => array(
-                'verify_peer' => false,
-                'verify_peer_name' => false,
-                'allow_self_signed' => true
-            )
-        );
+//        $mail->SMTPOptions = array(
+//            'ssl' => array(
+//                'verify_peer' => false,
+//                'verify_peer_name' => false,
+//                'allow_self_signed' => true
+//            )
+//        );
         $mail->Host       = 'peoplesrightsforum.com';
         $mail->SMTPAuth   = true;
         $mail->Username   = 'barbara@peoplesrightsforum.com';
@@ -43,7 +43,7 @@ if(isset($_POST["submit"])) {
 //        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
         $mail->SMTPSecure = "ssl";
         $mail->Port       = 465;
-        $mail->SMTPSecure = true;
+//        $mail->SMTPSecure = true;
         $mail->
 
         $mail->setFrom($email, $name);
