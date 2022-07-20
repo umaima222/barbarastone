@@ -29,13 +29,13 @@ if(isset($_POST["submit"])) {
         $mail = new PHPMailer(true);
 //        $mail->SMTPDebug = SMTP::DEBUG_SERVER;
         $mail->isSMTP();
-        $mail->Host       = 'mail.peoplesrightsforum.com';
+        $mail->Host       = 'peoplesrightsforum.com';
         $mail->SMTPAuth   = true;
         $mail->Username   = 'barbara@peoplesrightsforum.com';
         $mail->Password   = 'Justice2024';
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
-        $mail->Port       = 26;
-        $mail->SMTPSecure = false;
+        $mail->Port       = 465;
+        $mail->SMTPSecure = true;
 
         $mail->setFrom($email, $name);
         $mail->addAddress($toEmail, 'Peoples Rights Forum');
