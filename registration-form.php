@@ -29,23 +29,23 @@ if(isset($_POST["submit"])) {
         $mail = new PHPMailer(true);
 //        $mail->SMTPDebug = SMTP::DEBUG_SERVER;
         $mail->isSMTP();
-//        $mail->SMTPOptions = array(
-//            'ssl' => array(
-//                'verify_peer' => false,
-//                'verify_peer_name' => false,
-//                'allow_self_signed' => true
-//            )
-//        );
-        $mail->Host       = 'peoplesrightsforum.com';
+        $mail->SMTPOptions = array(
+            'ssl' => array(
+                'verify_peer' => false,
+                'verify_peer_name' => false,
+                'allow_self_signed' => true
+            )
+        );
+        $mail->Host       = 'mail.peoplesrightsforum.com';
         $mail->SMTPAuth   = true;
         $mail->Username   = 'barbara@peoplesrightsforum.com';
         $mail->Password   = 'Justice2024';
-//        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
-        $mail->SMTPSecure = "ssl";
-        $mail->Port       = 465;
-//        $mail->SMTPSecure = true;
+        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
+//        $mail->SMTPSecure = "ssl";
+        $mail->Port       = 26;
+        $mail->SMTPSecure = false;
 
-        $mail->setFrom($email, $name);
+        $mail->setFrom("admin@peoplesrightsforum.com");
         $mail->addAddress($toEmail, 'Peoples Rights Forum');
         $mail->isHTML(true);
         $mail->Subject = $subject;
