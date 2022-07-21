@@ -166,7 +166,7 @@
                             amount of injustice and wrong which will be
                             imposed upon them, and these will continue until they are resisted with either words or
                             blows or with both.</p>
-                        <p class="text-center"> The limits of tyrants are prescribed by the endurance of those whom they oppress.— to be in larger font and centered</p>
+                        <p class="text-center"> The limits of tyrants are prescribed by the endurance of those whom they oppress.</p>
                         <p class="date"> Frederick Douglass, civil rights activist, Aug. 4, 1857</p>
                     </div>
                 </div>
@@ -182,7 +182,6 @@
                 <h1 class="Poppinsbolditalic">Our New Legitimate People's Government</h1>
             </div>
             <div class="row">
-                <div class="col-md-1"></div>
                 <div class="col-md-5">
                     <div class="place-heading">
                         <h3>The People's Building</h3>
@@ -191,7 +190,7 @@
                         <img src="img/0a9830_348b7731bc3d4aa1afea1b47153d54.png" alt="" class="img-fluid">
                     </div>
                 </div>
-                <div class="col-md-1">
+                <div class="col-md-2">
                     <div class="minus-icon">
                         <div class="icon">
                             <div class="icon-imgbox">
@@ -348,7 +347,7 @@
                         illegal, null, and void.</p>
                     <p> 3. The Government does not secure our Rights or derive its just Powers from our Consent and has
                         been destructive to this end</p>
-                    <p> 4. As mandated by the Declaration of Independence, it is, therefore, our duty to throw off such
+                    <p> 4. As mandated by the Declaration of Independence, it is, our duty to throw off such
                         Government and provide new
                         Guards for our future Security</p>
                     <p> 5. We are Reclaiming and Securing Our Innate Unalienable Bountiful Birth Rights</p>
@@ -360,7 +359,7 @@
             </div>
             <div class="col-md-12">
                 <div class="platform-title">
-                    <h1>The People Right Platform</h1>
+                    <h1>The Peoples Rights Platform</h1>
                 </div>
                 <div class="about-platfrm">
                     <p>It is impossible for Crime Victims of U.S. Government Crimes to seek remedy alone. The only
@@ -395,13 +394,13 @@
     <section class="government-sec">
         <div class="container">
             <div class="government-head">
-                <h1>The Vast Human, Sex Traffic and Genocide Regime by the U.S.
+                <h1>The Human, Sex Traffic and Genocide Regime by the U.S.
                     Government Against the U.S. and World Population
                 </h1>
             </div>
             <div class="row">
                 <div class="col-md-9">
-                    <div class="about-government">
+                    <div class="about-government mt-2">
                         <p>The U.S. government runs a massive, diabolical Human, Sex Trafficking and Genocide Regime
                             against its own People and the World Population: mothers, fathers, children and spouses by
                             using illegal, void “Nuremberg Laws” to murder/strip/rape their UNALIENABLE RIGHTS.
@@ -434,14 +433,6 @@
                         </p>
                         <p>Federal and state “law enforcement agencies” act as the “Protection Arm” for these Crime
                             Syndicates.</p>
-                        <p>These Crimes constitute “Atrocity Crimes” the most heinous atrocities under International
-                            Laws
-                            including “Crimes against Humanity” and “Pillaging” a war crime under the Geneva Convention.
-                        </p>
-                        <p>These Crimes constitute “Deprivation of Rights Under Color of Law” in criminal violation of
-                            Federal law 18 U.S.C. § 242. The criminal penalties include life imprisonment and the death
-                            sentence.
-                        </p>
                     </div>
                 </div>
                 <div class="col-md-3">
@@ -471,7 +462,14 @@
             </div>
             <div class="col-md-12 p-0">
                 <div class="about-government">
-
+                    <p>These Crimes constitute “Atrocity Crimes” the most heinous atrocities under International
+                        Laws
+                        including “Crimes against Humanity” and “Pillaging” a war crime under the Geneva Convention.
+                    </p>
+                    <p>These Crimes constitute “Deprivation of Rights Under Color of Law” in criminal violation of
+                        Federal law 18 U.S.C. § 242. The criminal penalties include life imprisonment and the death
+                        sentence.
+                    </p>
                     <p>This deadly racket is no different than the Nazi Holocaust. People are rounded up under auspices
                         of the state, their assets stolen and they are murdered by chemical restraints. In fact, it is
                         far more diabolical as it is perpetrated by the U.S. Government that falsely positions itself as
@@ -500,11 +498,11 @@
                     </p>
                 </div>
             </div>
+            <div class="government-title">
+                <h1> B. THE U.S. CHILD SEX/HUMAN TRAFFICKING REGIME</h1>
+            </div>
             <div class="row">
                 <div class="col-md-9">
-                    <div class="government-title">
-                        <h1> B. THE U.S. CHILD SEX/HUMAN TRAFFICKING REGIME</h1>
-                    </div>
                     <div class="about-government">
                         <p>As done in the U.S. Guardian Genocide Regime, the U.S. Child Sex/Human Trafficking Regime
                             Kidnaps, Enslaves, Traffics, Tortures and Murders vulnerable children in this terrorist
@@ -512,7 +510,7 @@
                             homes, life savings and possessions of the parents.
                         </p>
                     </div>
-                    <div class="government-title">
+                    <div class="government-title blackmail">
                         <h1>C. REVERSE BLACKMAIL SCHEMES</h1>
                         <div class="about-government">
                             <p>The U.S Guardian and Child Trafficking Rackets run a “reverse blackmail scheme” symbiotic
@@ -546,7 +544,7 @@
         </div>
 
     </section>
-    <section class="informative-sec">
+    <section class="informative-sec pt-5">
         <div class="container">
             <div class="a-talking-head">
                 <h1>The U.S. Government is a Conglomerate of Inextricably
@@ -555,7 +553,7 @@
                 <h3>A. Inextricably Intertwined Rackets Derived from the </h3>
                 <h3> U.S. Guardian and Child Trafficking Rackets</h3>
             </div>.
-            <div class="col-md-12">
+            <div class="newsss">
                 <div class="News-you-can-use">
                     <p>The U.S. Guardian and Child Sex/Human Trafficking Rackets have spawn a vast, industry of rackets
                         against family members (“Inextricably Intertwined Rackets”).</p>
@@ -615,7 +613,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-8">
+                <div class="col-md-12">
                     <div class="News-you-can-use">
                         <p>Examples of other U.S. Conglomerate Rackets include: </p>
 
@@ -645,19 +643,25 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-lg-3">
                     <div class="Photos-of-news">
                         <img src="img/informative-img1.png" alt="" class="img-fluid">
                     </div>
+                </div>
+                <div class="col-lg-3">
                     <div class="Photos-of-news">
                         <img src="img/informativeimg2.png" alt="" class="img-fluid">
                     </div>
-                    <div class="Photos-of-news">
-                        <img src="img/informativeimg3.png.png" alt="" class="img-fluid">
-                    </div>
+                </div>
+                <!--                    <div class="Photos-of-news">-->
+                <!--                        <img src="img/informativeimg3.png.png" alt="" class="img-fluid">-->
+                <!--                    </div>-->
+                <div class="col-lg-3">
                     <div class="Photos-of-news">
                         <img src="img/informativeimg4.png" alt="" class="img-fluid">
                     </div>
+                </div>
+                <div class="col-lg-3">
                     <div class="Photos-of-news">
                         <img src="img/informativeimg5.png" alt="" class="img-fluid">
                     </div>
@@ -835,13 +839,6 @@
                         <p>The Constitution held sacred was fatally flawed at its inception. Even its founders were
                             concerned that government would evolve into tyranny.
                         </p>
-                        <p>Their ominous premonitions have become true. To continue its outdated, Supremist concept to
-                            govern our digital 21st century world is preposterous and gross dereliction of duty- no
-                            different than stubbornly persisting in using a horse and buggy, antiquated 1787
-                            medicalcures or ignoring technology. </p>
-                        <p>As the Constitution is premised on the continuing consent of the governed, when the state no
-                            longer protects the rights it was intended to preserve, the consent is vitiated. When
-                            governments violate those rights, its citizens have the right to take up arms.</p>
                     </div>
                 </div>
                 <div class="col-md-2">
@@ -849,13 +846,21 @@
                         <img src="img/2.png" alt="" class="img-fluid">
                     </div>
                 </div>
+                <div class="col-md-12">
+                    <p>Their ominous premonitions have become true. To continue its outdated, Supremist concept to
+                        govern our digital 21st century world is preposterous and gross dereliction of duty- no
+                        different than stubbornly persisting in using a horse and buggy, antiquated 1787
+                        medicalcures or ignoring technology. </p>
+                    <p>As the Constitution is premised on the continuing consent of the governed, when the state no
+                        longer protects the rights it was intended to preserve, the consent is vitiated. When
+                        governments violate those rights, its citizens have the right to take up arms.</p>
+                </div>
             </div>
             <div class="col-md-12">
                 <div class="Constitutional-head">
                     <h1>Examples of Fatal Flaws in the Constitution</h1>
                 </div>
                 <div class="consititutional">
-                    <a href="#">“More complete analysis of the Unconstitutional Constitution.</a>
                     <p>1. Pro-Slavery.</p>
                     <p>2. Empowers the Government and Disempowers the People.
                     </p>
@@ -869,7 +874,7 @@
                         Amend.</p>
                 </div>
                 <div class="consititutional-btn">
-                    <a href="#"><button>read more</button></a>
+                    <a href="#"><button>More complete analysis of the Unconstitutional Constitution.</button></a>
                 </div>
                 <div class="script-text">
                     <h5 class="Script">#We Know #We Grow</h5>
@@ -883,7 +888,7 @@
                 <h1>Intolerable Acts of the Tyrannical U.S. Government </h1>
             </div>
             <div class="row">
-                <div class="col-md-10">
+                <div class="col-md-12">
                     <div class="about-Government-Employees">
                         <p>We are in a COLD WAR. Not with a foreign government but with the U.S. government, a crime
                             syndicate of Kakistocrats and Kleptocrats running our country. The monumental debauchery,
@@ -891,59 +896,31 @@
                             is
                             more terrifying than that of the worst 3rd world countries.</p>
                     </div>
-
-                </div>
-                <div class="col-md-2">
-                    <div class="Employees-img1">
-                        <img src="img/image33.png" alt="" class="img-fluid">
+                    <div class="about-Employees">
+                        <p>1 Kakistocracy: (/kæki'stɒkrəsi/, /kækis'tɒkrəsi/) a government run by the worst, least
+                            qualified, or most
+                            unscrupulous citizens. As far back as 1877, American poet James Russell Lowell used the term in
+                            a letter to Joel Benton, writing, "What fills me with doubt and dismay is the degradation of the
+                            moral tone. Is it or is it not a result of Democracy? Is ours a 'government of the people by the
+                            people for the people,' or a Kakistocracy rather, for the benefit of knaves at the cost of
+                            fools?"</p>
+                        <a href="#">https://en.wikipedia.org/wiki/Kakistocracy </a>
                     </div>
-                </div>
-            </div>
-            <div class="about-Employees">
-                <p>1 Kakistocracy: (/kæki'stɒkrəsi/, /kækis'tɒkrəsi/) a government run by the worst, least
-                    qualified, or most
-                    unscrupulous citizens. As far back as 1877, American poet James Russell Lowell used the term in
-                    a letter to Joel Benton, writing, "What fills me with doubt and dismay is the degradation of the
-                    moral tone. Is it or is it not a result of Democracy? Is ours a 'government of the people by the
-                    people for the people,' or a Kakistocracy rather, for the benefit of knaves at the cost of
-                    fools?"</p>
-                <a href="#">https://en.wikipedia.org/wiki/Kakistocracy </a>
-            </div>
-            <div class="about-Employees">
-                <p>2 Kleptocracy: Kleptocracy (from Greek κλέπτης kléptēs, "thief", κλέπτω kléptō, "I steal", and
-                    -κρατία -kratía from κράτος krátos, "power, rule") is a government whose corrupt leaders
-                    (kleptocrats) use political power to appropriate the wealth of their nation, typically by
-                    embezzling or misappropriating government funds at the expense of the wider population.
-                    Theocracy means literally the rule by thievery and is a term used synonymously to kleptocracy.
-                </p>
-                <a href="#">https://en.wikipedia.org/wiki/Kleptocracy</a>
-            </div>
-            <div class="row">
-                <div class="col-md-8">
+                    <div class="about-Employees">
+                        <p>2 Kleptocracy: Kleptocracy (from Greek κλέπτης kléptēs, "thief", κλέπτω kléptō, "I steal", and
+                            -κρατία -kratía from κράτος krátos, "power, rule") is a government whose corrupt leaders
+                            (kleptocrats) use political power to appropriate the wealth of their nation, typically by
+                            embezzling or misappropriating government funds at the expense of the wider population.
+                            Theocracy means literally the rule by thievery and is a term used synonymously to kleptocracy.
+                        </p>
+                        <a href="#">https://en.wikipedia.org/wiki/Kleptocracy</a>
+                    </div>
                     <div class="Employees">
                         <p>U.S. Government Employees self benefit, abuse their power, act above the law, use taxpayer
                             appointments to strip/rape citizens of their rights, assets, liberty and lives and destroy
                             anyone who interferes with their well oiled thievery, trafficking and money laundering. </p>
                         <p class="conspiracy">All government branches act in conspiracy</p>
                     </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="employees-imgbox">
-                        <div class="Employees-img2">
-                            <img src="img/image43.png" alt="" class="img-fluid">
-                        </div>
-
-                        <div class="Employees-img2">
-                            <img src="img/image34.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="Employees-img2">
-                            <img src="img/image35.png" alt="" class="img-fluid">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-8">
                     <div class="Court-Criminals">
                         <p>The U.S. government has one of the worst records of so called western liberal democracies
                             for its failure to ratify most major multilateral human rights treaties and conventions.
@@ -957,17 +934,6 @@
                             even sometimes reported by the corrupt media and explosively exposed by those in its
                             inner sanctum and prominent public influencers</p>
                     </div>
-                </div>
-                <div class="col-md-1"></div>
-                <div class="col-md-3">
-                    <div class="Employees-img2">
-                        <img src="img/a3.png" alt="" class="img-fluid">
-                    </div>
-                </div>
-                <!-- <div class="col-md-1"></div> -->
-            </div>
-            <div class="row">
-                <div class="col-md-9">
                     <div class="about-Employees">
                         <p>1. Constitutional attorney John W. Whitehead, president of The Rutherford Institute: “We
                             have
@@ -985,20 +951,6 @@
                             time to act is now, using all methods of nonviolent resistance available to us.”
                         </p>
                     </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="employees-imgbox">
-                        <div class="Employees-img3">
-                            <img src="img/group93.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="Employees-img4">
-                            <img src="img/image99.png" alt="" class="img-fluid">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-10">
                     <div class="about-parties">
                         <p>
                             2. “Don't sit around waiting for the two corrupted established parties to restore the
@@ -1012,16 +964,7 @@
                             they want you watching the show while they manipulate things behind the scenes.
                         </p>
                     </div>
-                </div>
-                <div class="col-md-2">
-                    <div class="Employees-img5">
-                        <img src="img/content.png" alt="" class="img-fluid">
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-10">
-                    <div class="about-parties">
+                    <div class="about-parties last-parties">
                         <p>3. Moises Naim, a scholar at the Carnegie Endowment for International Peace, best-selling
                             author, and internationally syndicated columnist writes:</p>
                         <p>“… these days the criminality of some political leaders has reached levels worthy of the
@@ -1053,23 +996,61 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-2">
-                    <div class="Employees-img6">
-                        <img src="img/content2.png" alt="" class="img-fluid">
+                <div class="col-md-3">
+                    <div class="Employees-img1">
+                        <img src="img/image33.png" alt="" class="img-fluid">
                     </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="image-wrapper">
+                        <div class="Employees-img2">
+                            <img src="img/image43.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="Employees-img2">
+                            <img src="img/image34.png" alt="" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
                     <div class="Employees-img6">
                         <img src="img/content3.png" alt="" class="img-fluid">
                     </div>
                 </div>
+                <div class="col-md-3">
+                    <div class="Employees-img2">
+                        <img src="img/a3.png" alt="" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="Employees-img5">
+                        <img src="img/content.png" alt="" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="Employees-img6">
+                        <img src="img/content2.png" alt="" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="employees-imgbox">
+                        <div class="Employees-img3">
+                            <img src="img/group93.png" alt="" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="Employees-img4">
+                        <img src="img/image99.png" alt="" class="img-fluid">
+                    </div>
+                </div>
             </div>
-            <div class="row">
+            <div class="row mt-4">
                 <div class="col-md-3">
                     <div class="Employees-img7">
                         <img src="img/image105.png" alt="" class="img-fluid">
                     </div>
                 </div>
-                <div class="col-md-1"></div>
-                <div class="col-lg-5 col-md-3 col-sm-12">
+                <div class="col-lg-6">
                     <div class="secure">
                         <h1>WAKE UP AMERICA
                             UNITE, RECLAIM AND SECURE
@@ -1083,8 +1064,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-1"></div>
-                <div class="col-lg-2 col-md-3 col-sm-12">
+                <div class="col-lg-3">
                     <div class="Employees-img7">
                         <img src="img/image97.png" alt="" class="img-fluid">
                     </div>
@@ -1151,7 +1131,7 @@
                 <h1>No Consent by the Governed</h1>
             </div>
             <div class="row">
-                <div class="col-md-8">
+                <div class="col-md-12">
                     <div class="about-consent">
                         <h2>The Declaration of Independence provides</h2>
                         <p>That to secure our rights, Governments are instituted among Men, deriving their just powers
@@ -1178,14 +1158,18 @@
                             force and not of right”</p>
                     </div>
                 </div>
+                <div class="col-md-3"></div>
                 <div class="col-md-3">
                     <div class="Employees-img8">
                         <img src="img/image22.png" alt="" class="img-fluid">
                     </div>
+                </div>
+                <div class="col-md-3">
                     <div class="Employees-img9">
                         <img src="img/image23.png" alt="" class="img-fluid">
                     </div>
                 </div>
+                <div class="col-md-3"></div>
             </div>
             <div class="script-text">
                 <h5 class="Script">#We Know #We Grow</h5>
@@ -1433,19 +1417,8 @@
             <div class="row product">
                 <div class="about-product" style="z-index: 0000;">
                     <div class="product-img3">
-                        <img src="img/lastsec1.png" alt="" class="img-fluid">
-                        <img src="img/back-logo.png" alt="" class="bck-logo">
-                    </div>
-                    <div class="product-img">
-                        <img src="img/lastsec2.png" alt="" class="img-fluid">
-                    </div>
-                    <div class="product-img2">
-                        <img src="img/image90.png" alt="" class="img-fluid">
-                        <img src="img/back-logo.png" alt="" class="back-logo">
-                    </div>
-                    <!-- <div class="background-logo-img"  >
-                        
-                    </div> -->
+                        <img src="img/products.jpg" alt="" class="img-fluid">
+                        </div>
                 </div>
             </div>
             <div class="law-btn">

@@ -59,7 +59,7 @@
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <p>Lorem Ipsum is simply dummy text of <br> the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
                             <p>12/34 North Street, United, 18 States</p>
-                            <p>Contact@barbarastone.com</p>
+                            <p>barbara@peoplesrightsforum.com</p>
                             <p>http://barbarastone.com</p>
                         </div>
                     </div>
@@ -90,9 +90,8 @@
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12 ">
                     <div class="footer-border">
-                        <h3>Become a volunteer</h3>
-                        <p>Get our Daily email newsletter with
-                            Special Services, Updates, Offers and more!</p>
+<!--                        <h3>Become a volunteer</h3>-->
+                        <p>Please enter your email and get the updates.</p>
                         <form>
                             <div class="form-group">
 
@@ -114,7 +113,8 @@
                 </div>
                 <div class="printerest-img mr-2">
                     <a target="_blank" href="https://www.linkedin.com/company/peoplesrightsforum">
-                        <i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+                        <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+                    </a>
                 </div>
                 <div class="google-img">
                     <a target="_blank" href="https://www.instagram.com/peoplesrightsforum/">
