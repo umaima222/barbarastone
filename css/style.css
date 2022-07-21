@@ -2779,3 +2779,6 @@ footer {
 i.fa:before {
   font-family: FontAwesome;
 }
+.info-sec {
+  padding-bottom: 50px;
+}
