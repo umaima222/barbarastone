@@ -712,18 +712,32 @@ h2 {
   font-weight: 510 !important;
   margin-bottom: 33px;
 }
-
+.barbara-info h4 {
+  font-family: 'Poppins';
+  font-size: 20px;
+  text-align: left;
+  color: #9f1d3c;
+}
+.barbara-info .section {
+  margin-top: 20px;
+}
+.barbara-info .section h5 {
+  text-align: left;
+  color: #9f1d3c;
+  font-family: 'Poppins';
+  font-size: 14px;
+  font-weight: 600;
+}
 .barbara-info .underline {
   text-decoration: underline;
 }
 
 .story-title {
   text-align: center;
-  padding: 35px;
+  padding: 10px;
 }
-
 .story-title h2 {
-  font-family: Poppinsbolditalic;
+  font-family: Poppinsbold;
 }
 
 .border-box button {
@@ -2702,3 +2716,6 @@ footer {
     margin-top: 0;
   }
 }
+.info-btn h5.Script {
+   padding: 0px;
+ }

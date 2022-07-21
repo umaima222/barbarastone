@@ -11,40 +11,45 @@
             <div class="col-md-12">
                 <div class="barbara-info">
                     <p>Barbara is an attorney previously in practice for over 25 years with
-                        prominent national firms in NewYork and Florida. Barbara resigned from the practice of law
+                        prominent national firms in New York and Florida. Barbara resigned from the practice of law
                         and became a highly successful real estate
                         broker and Vice President of Corcoran, a prestigious national real
                         estate brokerage company. See testimonials attached
                         <span class="bold-word"> Insert link to testimonials. </span>
                     </p>
+                    <p>After Barbara resigned from practicing law, the bar association and the judicial branch of government had no further jurisdiction.   Yet, in violation of law and without jurisdiction, to retaliate against, threaten and silence Barbara, a retired attorney, for exposing the U.S. Guardian and Child Trafficking Racket, they stripped her of her no longer active “law license.” Barbara’s license was stolen as this is a systemic tactic to extort vengeance against attorney who exposes the vast corruption, criminality and lawlessness of the so-called “U.S. legal system.” </p>
                     <p>Barbara has experienced personally and first-hand the criminality and corruption infested
                         in the government. Barbara's indoctrination into the staggering government tyranny began
-                        when she and her mother became prey to the U. S. Guardian Genocide Regime
-                        <span>.</span>
-                        In the process, Barbara personally experienced the staggering criminality, tyranny and
+                        when she and her mother became prey to the U. S. Guardian Genocide Regime All branches of government are either perpetrators, their protection arm or both of the U.S. Guardian and Child Trafficking Racket.<br/><br>
+
+                        In the process of exposing the human trafficking racket run by the government using such “protection sounding names” as “guardianship” and child protection, Barbara personally experienced the staggering criminality, tyranny and
                         corruption infested in all government branches both on the state and federal levels and
                         throughout all echelons of government including the President, Presidential Cabinet, U.S.
-                        SupremeCourt, Senate, House of Representatives, Judiciary, F.B.I., D.O.J. and their state
+                        Supreme Court, Senate, House of Representatives, Judiciary, F.B.I., D.O.J. and their state
                         judicial, legislative, executive and law enforcement counterparts. The more depraved the
-                        crimes of a government employee, the higher up he is promoted in the hierarchy of the
+                        crimes of a government employee, the higher up they are promoted in the hierarchy of the
                         government crime chain.
                     </p>
 
                     <p> Barbara is an outspoken Whistleblower of the unbridled atrocities, abuse of power and
                         self-serving schemes of “political criminals” who use their government office to transfer
                         the wealth of the taxpayer public to themselves and their “special interest” “special pac”
-                        donors. The Supreme Court is nothing more than a political operative and the protection arm
+                        donors. </p>
+                    <p>
+                        The Supreme Court is nothing more than a political operative and the protection arm
                         of government tyrants and criminals. In furtherance of and in conspiracy with the lawless,
-                        government tyrants, theU.S. Supreme Court has issued a series of illegal, void, null so
-                        called “opinions” that purport to“legitimize” bribery by government officials.Prolific
-                        government career criminals who express the greatest “outrage” and decry the “injustice
+                        government tyrants, the U.S. Supreme Court has issued a series of illegal, void, null so
+                        called “opinions” that purport to “legitimize” bribery by government officials.
+                    </p>
+                    <p>
+                        Prolific government career criminals who express the greatest “outrage” and decry the “injustice
                         system” are generally those responsible for the atrocities and the most dangerous. Thus,
-                        they duallyingratiate themselves with the unsuspecting public by emulating their rage and
-                        mask their criminal conspiracy with false words.</p>
-
+                        they dually ingratiate themselves with the unsuspecting public by emulating their rage and
+                        mask their criminal conspiracy with false words.
+                    </p>
                     <p>The staggering judiciary corruption whereby lives are destroyed and possessions seized by
                         the criminal violation of fundamental human and civil rights by lawless judges is well known
-                        to the public. Yet theless reported legislative and executive corruption is just as
+                        to the public. Yet the less reported legislative and executive corruption is just as
                         pervasive and deadly. Their conspiracy, corrupt and criminal tactics are insidious,
                         bottomless and defy the sanctity of human life and humanity. These crimes, destroying
                         American families and the world public by stripping them of their rights, property, freedom,
@@ -70,26 +75,53 @@
                     <div class="truth-info">
                         <p>By far the number one issue in America and the greatest national and international
                             security
-                            threat is the THEFT/RAPE of our Inalienable Rights by the U.S. government.
+                            threat is the THEFT/RAPE/STRIPPING of our Unalienable Rights by the U.S. government.
                         </p>
                         <p>These violations of our Human Rights by claiming ownership, labor and/or the humanity of
                             another Human Being are Crimes of Slavery, forced labor and human trafficking by the
-                            U.S.
-                            government. These are Crimes against Humanity under International Laws.
+                            U.S. government are Crimes against Humanity in violation of the Declaration of Independence, the Constitution and International Laws.
                         </p>
-                        <p class="underline">
-                            The Universal Declaration of Human Rights explicitly references and prohibits slavery:
-                            Article 4: No one shall be held in slavery or servitude; slavery and the slave trade
-                            shall
-                            be prohibited in all their forms.
+                        <h4>Declaration of Independence:</h4>
+                        <p>
+                            We hold these Truths to be self-evident, that all Men are created equal, that they are endowed by their
+                            Creator with certain unalienable Rights, that among these are Life, Liberty, and the Pursuit of Happiness—-That
+                            to secure these Rights, Governments are instituted among Men, deriving their just Powers from the Consent of the Governed…
                         </p>
+<!--                        <p class="underline">-->
+<!--                            The Universal Declaration of Human Rights explicitly references and prohibits slavery:-->
+<!--                            Article 4: No one shall be held in slavery or servitude; slavery and the slave trade-->
+<!--                            shall-->
+<!--                            be prohibited in all their forms.-->
+<!--                        </p>-->
+                        <div class="col-md-12">
+                            <div class="info-btn">
+                                <!--                    <a href="#" class="Poppins"><button class="detail-btn">Meet Barbara</button></a>-->
+                                <h5 class="Script">#We Know #We Grow</h5>
+                            </div>
+                        </div>
+                        <div class="story-title">
+                            <h2>U.S. Constitution - Amendment XIII</h2>
+                        </div>
+                        <div class="section">
+                            <h5>Section 1.</h5>
+                            <p>
+                                Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall
+                                have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.
+                            </p>
+                        </div>
+                        <div class="section">
+                            <h5>Section 2.</h5>
+                            <p>
+                                Congress shall have power to enforce this article by appropriate legislation.
+                            </p>
+                        </div>
+                        <p>
+                            The U.N. Universal Declaration of Human Rights
+                            Article 4:  No one shall be held in slavery or servitude; slavery and the slave trade shall be prohibited in all their forms.
+                        </p>
+                        <div class="story-title">
+                        </div>
                     </div>
-                </div>
-            </div>
-            <div class="col-md-12">
-                <div class="info-btn">
-                    <a href="#" class="Poppins"><button class="detail-btn">Meet Barbara</button></a>
-                    <h5 class="Script">#We Know #We Grow</h5>
                 </div>
             </div>
         </div>
