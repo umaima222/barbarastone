@@ -10,12 +10,14 @@
                 </div>
                 <div class="col-md-9" id="banner">
                     <div class="about-banner">
-                        <input type="" class="banner-control" id="inputPassword4" placeholder="We the People Reclaim and Secure our Rights">
-<!--                        <div class="donate-banner">-->
-<!--                            <a href="#"><button>Donate Now</button></a>-->
-<!--                        </div>-->
-                        <form action="https://www.paypal.com/donate" method="post" target="_top"><input type="hidden" name="hosted_button_id" value="RKSSV82HJHX5Y" />
-<!--                            <input type="image" src="img/donation1.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" style="height: 65px" />-->
+                        <input type="" class="banner-control" id="inputPassword4"
+                            placeholder="We the People Reclaim and Secure our Rights">
+                        <!--                        <div class="donate-banner">-->
+                        <!--                            <a href="#"><button>Donate Now</button></a>-->
+                        <!--                        </div>-->
+                        <form action="https://www.paypal.com/donate" method="post" target="_top"><input type="hidden"
+                                name="hosted_button_id" value="RKSSV82HJHX5Y" />
+                            <!--                            <input type="image" src="img/donation1.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" style="height: 65px" />-->
                             <!--                            <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />-->
                             <div class="donate-banner mt-4">
                                 <a href="#"><button>Donate Now</button></a>
@@ -38,7 +40,8 @@
                 </div>
                 <div class=" col-md-12 ">
                     <div class="about-bottom">
-                        <input type="" class="bannerz-control" id="inputPassword4" placeholder="We the People Reclaim and Secure our Rights">
+                        <input type="" class="bannerz-control" id="inputPassword4"
+                            placeholder="We the People Reclaim and Secure our Rights">
 
                         <div class="donate-btn">
                             <a href="#"><button>Donate Now</button></a>
@@ -57,8 +60,9 @@
                             </div>
                         </div>
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                            <p>Lorem Ipsum is simply dummy text of <br> the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
-                            <p>12/34 North Street, United, 18 States</p>
+                            <p>Peoples Rights Forum
+                                675 3rd Avenue Suite #1011 FrntC
+                                New York, NY 10017</p>
                             <p>barbara@peoplesrightsforum.com</p>
                             <p>http://barbarastone.com</p>
                         </div>
@@ -90,12 +94,13 @@
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12 ">
                     <div class="footer-border">
-<!--                        <h3>Become a volunteer</h3>-->
+                        <!--                        <h3>Become a volunteer</h3>-->
                         <p>Please enter your email and get the updates.</p>
                         <form>
                             <div class="form-group">
 
-                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="EMAIL ADDRESS">
+                                <input type="email" class="form-control" id="exampleInputEmail1"
+                                    aria-describedby="emailHelp" placeholder="EMAIL ADDRESS">
                                 <button>signup!</button>
                             </div>
                         </form>
@@ -109,7 +114,8 @@
             <p>COPYRIGHTS © 2022 barbarastone. ALL RIGHTS RESERVED</p>
             <div class="socail-icon">
                 <div class="facebook-img">
-                    <a target="_blank" href="https://www.facebook.com/The-Peoples-Rights-Forum-106166922154011/"><img src="img/facebook.png" alt="" class="img-fluid"></a>
+                    <a target="_blank" href="https://www.facebook.com/The-Peoples-Rights-Forum-106166922154011/"><img
+                            src="img/facebook.png" alt="" class="img-fluid"></a>
                 </div>
                 <div class="printerest-img mr-2">
                     <a target="_blank" href="https://www.linkedin.com/company/peoplesrightsforum">
