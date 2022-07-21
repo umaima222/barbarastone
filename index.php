@@ -55,7 +55,7 @@
     </section>
     <section class="detail-sec">
         <div class="container">
-            <div class="row">
+            <div class="row align-items-center">
                 <div class="about-details">
                     <h1 class="Poppinsbolditalic">Our Bountiful Unalienable Birthrights</h1>
                 </div>
@@ -382,7 +382,7 @@
                     </p>
                     <p> to become a true international leader, to lead the world by actions, not by hypocrisy.</p>
                     <p> 6. We the People must demand that international agencies including the U.N. Human Rights
-                        Council, the U.N. Security Council, and the NATO comply with their own Charters and Conventions
+                        Council, the U.N. Security Council, the International Criminal Court and NATO comply with their own Charters and Conventions
                         and enact effective enforcement provisions to ensure compliance by their member states.
                     </p>
                 </div>

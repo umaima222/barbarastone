@@ -100,7 +100,12 @@ header {
   font-size: 18px;
   position: relative;
 }
-
+#nav .hover-class ul {
+  position: absolute;
+  left: 0;
+  top: 25px;
+  z-index: 9;
+}
 .app:hover {
   text-decoration: underline;
 }
@@ -313,7 +318,7 @@ input::-webkit-inner-spin-button {
   font-family: Script;
   color: #876911;
   font-size: 25px;
-  padding: 20px;
+  padding: 30px 0 5px;
 }
 
 .building-imgbox {
@@ -337,7 +342,7 @@ input::-webkit-inner-spin-button {
 }
 
 .building-heading .Poppinsbolditalic {
-  font-family: Poppinsbolditalic;
+  font-family: Poppinsbold;
   color: #9f1d3c;
   margin: 0;
 }
@@ -367,11 +372,10 @@ input::-webkit-inner-spin-button {
 
 .about-details .Poppinsbolditalic {
   color: #9f1d3c;
-  font-family: Poppinsbolditalic;
+  font-family: 'Poppinsbold';
   padding-top: 10px;
   font-size: 33px;
 }
-
 .Fundamental {
   color: #ff0000;
   font-weight: 600;
@@ -706,11 +710,12 @@ h2 {
 }
 
 .barbara-info p {
-  font-size: 16px;
-  font-family: "Poppins", sans-serif;
   text-align: start;
-  font-weight: 510 !important;
   margin-bottom: 33px;
+  font-size: 17px;
+  padding: 3px 1px;
+  margin-top: 18px;
+  font-family: Poppinsmedium;
 }
 .barbara-info h4 {
   font-family: 'Poppins';
@@ -735,9 +740,12 @@ h2 {
 .story-title {
   text-align: center;
   padding: 10px;
+  padding-top: 0;
 }
 .story-title h2 {
   font-family: Poppinsbold;
+  margin-bottom: 5px;
+  margin-top: 0;
 }
 
 .border-box button {
@@ -749,9 +757,10 @@ h2 {
   font-size: 14px;
 }
 
-.info-btn {
-  text-align: center;
-  padding: 20px;
+.story-title h2 {
+  font-family: Poppinsbold;
+  margin-bottom: 5px;
+  margin-top: 0;
 }
 
 .info-btn h5 {
@@ -2717,5 +2726,5 @@ footer {
   }
 }
 .info-btn h5.Script {
-   padding: 0px;
- }
+  padding: 0px 0 20px;
+}
