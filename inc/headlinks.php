@@ -26,3 +26,5 @@
 <link rel="icon" type="image/x-icon" href="img/group30.png">
 <link rel="stylesheet" href="css/style.css">
 <!--    Custom CSS-->
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
