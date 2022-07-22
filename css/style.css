@@ -100,7 +100,12 @@ header {
   font-size: 18px;
   position: relative;
 }
-
+#nav .hover-class ul {
+  position: absolute;
+  left: 0;
+  top: 25px;
+  z-index: 9;
+}
 .app:hover {
   text-decoration: underline;
 }
@@ -183,13 +188,13 @@ header {
 .fa {
   margin-top: 19px;
   font-size: 28px;
-  color: #9E1C36;
+  color: #9e1c36;
 }
 
 .fas {
   margin-top: 19px;
   font-size: 28px;
-  color: #9E1C36;
+  color: #9e1c36;
 }
 
 .fa-user-alt:before {
@@ -198,7 +203,7 @@ header {
 
 .dropdown-menu {
   top: 15px !important;
-  background-color: #F9F9F9 !important;
+  background-color: #f9f9f9 !important;
   color: #202020 !important;
   left: -37px !important;
   width: 253px !important;
@@ -313,7 +318,7 @@ input::-webkit-inner-spin-button {
   font-family: Script;
   color: #876911;
   font-size: 25px;
-  padding: 20px;
+  padding: 30px 0 5px;
 }
 
 .building-imgbox {
@@ -337,7 +342,7 @@ input::-webkit-inner-spin-button {
 }
 
 .building-heading .Poppinsbolditalic {
-  font-family: Poppinsbolditalic;
+  font-family: Poppinsbold;
   color: #9f1d3c;
   margin: 0;
 }
@@ -361,17 +366,16 @@ input::-webkit-inner-spin-button {
 
 .about-details {
   text-align: center;
-  padding: 42px;
+  padding: 30px 0 35px;
   width: 100%;
 }
 
 .about-details .Poppinsbolditalic {
   color: #9f1d3c;
-  font-family: Poppinsbolditalic;
+  font-family: "Poppinsbold";
   padding-top: 10px;
   font-size: 33px;
 }
-
 .Fundamental {
   color: #ff0000;
   font-weight: 600;
@@ -467,7 +471,7 @@ p {
 }
 
 .Poppinsbolditalic {
-  font-family: Poppinsbolditalic;
+  font-family: "Poppinsbolditalic";
 }
 
 .news-sec {
@@ -476,15 +480,14 @@ p {
 
 .about-news {
   text-align: center;
-  padding: 35px;
+  padding: 35px 0 30px;
 }
 
 .about-news .Poppinsbolditalic {
   color: #9f1d3c;
-  font-family: Poppinsbolditalic;
+  font-family: "Poppinsbold";
   font-size: 34px;
 }
-
 .news-card-img-1 {
   text-align: right;
 }
@@ -560,9 +563,8 @@ p {
   color: #9f1d3c;
   font-weight: 400;
   margin: 40px 0px;
-  font-family: Poppinsbolditalic;
+  font-family: "Poppinsbold";
 }
-
 .bottom-text {
   margin-bottom: 36px;
   margin-top: 25px;
@@ -584,8 +586,9 @@ p {
   border: 5px solid #ff911c;
   padding: 6px;
   text-align: center;
-  width: 86%;
+  width: 85%;
   margin-left: 132px;
+  margin: 0px auto;
 }
 
 .text-border {
@@ -603,7 +606,10 @@ p {
   font-size: 21px;
   font-family: Script;
 }
-
+.text-border p.text-center {
+  font-size: 21px;
+  font-family: Script;
+}
 .place-sec {
   width: 100%;
   background-color: #f7f2df;
@@ -618,16 +624,17 @@ p {
   font-weight: 600;
   color: #9f1d3c;
   /* margin: 25px; */
-  font-family: Poppinsbolditalic;
+  font-family: "Poppinsbold";
+  margin: 0;
 }
 
-.placeimg-container {
-  margin-left: 70px;
-}
+/*.placeimg-container {*/
+/*  margin-left: 70px;*/
+/*}*/
 
 .center-text {
   text-align: center;
-  margin-left: 70px;
+  /*margin-left: 70px;*/
 }
 
 .center-text h2 {
@@ -686,7 +693,7 @@ h2 {
   font-family: Script;
   color: #876911;
   font-size: 29px;
-  padding: 32px;
+  padding: 12px;
 }
 
 .bold-word {
@@ -706,24 +713,42 @@ h2 {
 }
 
 .barbara-info p {
-  font-size: 16px;
-  font-family: "Poppins", sans-serif;
   text-align: start;
-  font-weight: 510 !important;
   margin-bottom: 33px;
+  font-size: 17px;
+  padding: 3px 1px;
+  margin-top: 18px;
+  font-family: Poppinsmedium;
 }
-
+.barbara-info h4 {
+  font-family: "Poppins";
+  font-size: 20px;
+  text-align: left;
+  color: #000;
+}
+.barbara-info .section {
+  margin-top: 20px;
+}
+.barbara-info .section h5 {
+  text-align: left;
+  color: #9f1d3c;
+  font-family: "Poppins";
+  font-size: 14px;
+  font-weight: 600;
+}
 .barbara-info .underline {
   text-decoration: underline;
 }
 
 .story-title {
   text-align: center;
-  padding: 35px;
+  padding: 10px;
+  padding-top: 0;
 }
-
 .story-title h2 {
-  font-family: Poppinsbolditalic;
+  font-family: Poppinsbold;
+  margin-bottom: 5px;
+  margin-top: 0;
 }
 
 .border-box button {
@@ -735,9 +760,10 @@ h2 {
   font-size: 14px;
 }
 
-.info-btn {
-  text-align: center;
-  padding: 20px;
+.story-title h2 {
+  font-family: Poppinsbold;
+  margin-bottom: 5px;
+  margin-top: 0;
 }
 
 .info-btn h5 {
@@ -755,10 +781,12 @@ h2 {
 .platform-sec h1 {
   font-size: 33px;
   color: #9f1d3c;
-  font-family: Poppinsbolditalic;
+  font-family: Poppinsbold;
   padding-bottom: 20px;
 }
-
+.platform-sec .platform-title h1 {
+  padding-top: 0px;
+}
 .platform-sec h2 {
   font-size: 22px;
   color: black;
@@ -767,11 +795,10 @@ h2 {
 
 .platform-title {
   text-align: center;
-  padding-top: 60px;
 }
 
 .about-platform p {
-  font-size: 17px;
+  font-size: 15px;
   font-family: "Poppins", sans-serif;
   margin-bottom: 8px;
   text-align: center;
@@ -800,14 +827,18 @@ h2 {
 
 .government-sec .government-head h1 {
   font-weight: 600;
-  font-style: italic;
+  /*font-style: italic;*/
 }
 
 .government-head {
   text-align: center;
-  padding-top: 60px;
+  padding-top: 30px;
+  padding-bottom: 20px;
 }
-
+.government-title {
+  text-align: center;
+  padding: 20px 0px 20px;
+}
 .government-title {
   text-align: center;
 }
@@ -821,10 +852,13 @@ h2 {
 .government-title h1 {
   font-size: 32px;
   color: #9f1d3c;
-  font-family: Poppinsbolditalic;
+  font-family: Poppinsbold;
   font-weight: 600 !important;
 }
-
+.government-title.blackmail h1 {
+  margin-left: 240px;
+  padding-bottom: 10px;
+}
 .government-text p {
   text-transform: capitalize;
   font-size: 24px;
@@ -832,7 +866,7 @@ h2 {
 }
 
 .about-government {
-  margin-top: 39px;
+  /*margin-top: 39px;*/
   text-align: left;
 }
 
@@ -841,6 +875,7 @@ h2 {
   font-family: "Poppins", sans-serif;
   padding: 13px 0;
   font-weight: 500;
+  margin-bottom: 0;
 }
 
 .government-imgbox1 {
@@ -872,7 +907,9 @@ h2 {
   margin: 10px;
   font-size: 22px;
 }
-
+.platform-sec h5.Script {
+  padding: 10px 0 15px;
+}
 .informative-sec {
   width: 100%;
   background-color: #ffe3a17d;
@@ -880,9 +917,9 @@ h2 {
 
 .a-talking-head {
   text-align: center;
-  padding-top: 60px;
+  padding-top: 5px;
+  padding-bottom: 20px;
 }
-
 .a-talking-head {
   font-size: 29px;
 }
@@ -893,17 +930,17 @@ h2 {
 
 .a-talking-head h3 {
   font-weight: 700;
-  font-family: Poppinsbolditalic;
+  font-family: Poppinsbold;
 }
 
 .a-talking-head h2 {
   font-weight: 600;
-  font-family: Poppinsbolditalic;
+  font-family: Poppinsbold;
 }
 
-.scheme {
-  margin-top: 73px;
-}
+/*.scheme {*/
+/*  margin-top: 73px;*/
+/*}*/
 
 h3 {
   color: #9f1d3c;
@@ -915,11 +952,14 @@ h3 {
   font-weight: 500;
   margin-bottom: 20px;
 }
-
+.News-you-can-use {
+  text-align: center;
+}
 .Photos-of-news {
   margin: 10px 0;
   text-align: end;
   margin-right: 36px;
+  margin: 10px auto;
 }
 
 .Criminal-sec {
@@ -929,7 +969,7 @@ h3 {
 
 .criminal-head {
   text-align: center;
-  padding-top: 69px;
+  padding-top: 35px;
   padding-bottom: 10px;
 }
 
@@ -938,7 +978,6 @@ h3 {
   color: #9f1d3c;
   font-weight: 510;
   font-family: Poppins;
-  font-style: italic;
 }
 
 .criminal-heading h2 {
@@ -955,27 +994,39 @@ h3 {
 
 .script-text {
   text-align: center;
-  padding: 20px;
+  padding: 20px 0 20px;
 }
-
 .about-criminal p {
   font-size: 16px;
   font-weight: 500;
   margin: 0;
   padding-top: 10px;
 }
-
+.Government-Employees-sec .script-text {
+  padding-bottom: 0px;
+  padding-top: 5px;
+}
 .criminal {
   margin: 0;
+  padding: 0;
+  list-style: none;
 }
-
-.criminal p {
+ul.criminal {
+  column-count: 2;
+}
+.about-criminal {
+  padding-top: 20px;
+}
+ul.criminal p {
   font-size: 15px;
   font-weight: 500;
   margin: 0;
   line-height: 1.9;
 }
-
+.about-crimes ul.criminal li {
+  list-style: none;
+  margin-bottom: 6px;
+}
 .crimes {
   margin: 0;
   font-size: 15px;
@@ -985,6 +1036,7 @@ h3 {
 .about-crimes {
   display: flex;
   flex-direction: row;
+  padding-left: 15px;
 }
 
 .criminal-imgbox {
@@ -993,7 +1045,8 @@ h3 {
 
 .read-btn {
   text-align: center;
-  margin-top: 55px;
+  margin-top: 30px;
+  margin-bottom: 5px;
 }
 
 .read-btn button {
@@ -1012,21 +1065,21 @@ h3 {
 
 .Constitutional-head {
   text-align: center;
-  padding: 55px 15px;
+  padding: 20px 15px;
 }
 
 .Constitutional-sec h1 {
   font-size: 29px;
   color: #9f1d3c;
   font-weight: 600;
-  font-family: Poppinsbolditalic;
+  font-family: Poppinsbold;
 }
 
 h1 {
   font-size: 33px;
   color: #9f1d3c;
   font-weight: 600;
-  font-family: Poppinsbolditalic;
+  font-family: Poppinsbold;
 }
 
 .about-Constitutional p {
@@ -1056,52 +1109,77 @@ h1 {
 }
 
 .consititutional-btn button {
-  width: 180px;
+  width: auto;
   height: 49px;
   text-transform: uppercase;
   border: transparent;
   font-size: 14px;
   background-color: #ecc091;
   font-family: Poppinsbold;
+  padding: 0px 20px;
 }
 
 .Government-Employees-sec {
   width: 100%;
   background-color: #f9f5e8;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 
 .heading {
   text-align: center;
-  padding-bottom: 20px;
-  padding-top: 79px;
+  padding-bottom: 30px;
+  padding-top: 40px;
 }
-.printerest-img i, .google-img i {
+.printerest-img i,
+.google-img i {
   /* width: 35px; */
   /* height: 35px; */
   padding: 8px 10px 10px 10px !important;
 }
-.printerest-img, .google-img {
-  background: #080808;
+.printerest-img,
+.google-img {
+  background: #191919;
 }
 .heading h1 {
   font-weight: 510;
   font-family: Poppins;
-  font-style: italic;
+  /*font-style: italic;*/
 }
 
-.about-Government-Employees {
-  margin-top: 50px;
-}
-
+/*.about-Government-Employees {*/
+/*  margin-top: 50px;*/
+/*}*/
+/*.Government-Employees-sec .Employees-img1 img {*/
+/*  height: 130px;*/
+/*  width: 100%;*/
+/*}*/
 .about-Employees p {
   font-size: 17px;
   font-family: Poppinsmedium;
   margin: 0;
 }
-
+.Government-Employees-sec .image-wrapper {
+  display: flex;
+}
+.Government-Employees-sec .Employees-img2 img {
+  height: 220px;
+  width: 100%;
+}
+.Employees-img6 img {
+  height: 220px;
+  width: 100%;
+}
+.Government-Employees-sec .img-fluid {
+  height: 220px;
+  width: 100%;
+}
+.Government-Employees-sec .Employees-img1 img {
+  width: 100%;
+  height: 220px;
+}
 .about-Employees {
   margin-bottom: 20px;
+  text-align: center;
 }
 
 .about-Government-Employees p {
@@ -1116,17 +1194,16 @@ h1 {
 .employees-imgbox {
   display: flex;
   flex-direction: row;
-  margin: 10px;
 }
 
 .Employees p {
   font-size: 17px;
   padding: 5px;
+  text-align: center;
 }
-
-.Employees-img2 {
-  margin: 10px;
-}
+/*.Employees-img2 {*/
+/*  margin: 10px;*/
+/*}*/
 
 .conspiracy {
   margin-top: 20px;
@@ -1134,39 +1211,34 @@ h1 {
 
 .Court-Criminals p {
   font-size: 16px;
-  padding-bottom: 20px;
+  padding-bottom: 0px;
+  text-align: center;
 }
-
-.Court-Criminals {
-  margin-top: 10px;
-}
-
-.Employees-img3 {
-  margin: 10px;
-}
-
-.Employees-img4 {
-  margin-top: 60px;
-}
-
 .about-parties {
   margin-top: 25px;
+  text-align: center;
+  /*padding-bottom: 30px;*/
 }
-
+.about-parties.last-parties {
+  padding-bottom: 30px;
+}
+.employees-imgbox .Employees-img3 {
+  width: 100%;
+}
 .about-parties p {
   font-size: 17px;
   font-weight: 0;
   margin-bottom: 0;
+  text-align: center;
 }
 
-.Employees-img6 {
-  margin-top: 20px;
-}
+/*.Employees-img6 {*/
+/*  margin-top: 20px;*/
+/*}*/
 
 .power-hungry {
-  margin-top: 77px;
+  margin-top: 20px;
 }
-
 .power-hungry p {
   font-size: 18px;
 }
@@ -1177,7 +1249,7 @@ h1 {
 }
 
 .secure h1 {
-  font-family: Poppinsbolditalic;
+  font-family: "Poppinsbold";
 }
 
 .secure-btn {
@@ -1204,7 +1276,7 @@ h1 {
 }
 
 .injuries-heading {
-  padding-top: 60px;
+  padding-top: 40px;
   padding-bottom: 10px;
   text-align: center;
 }
@@ -1213,7 +1285,7 @@ h1 {
   font-size: 16px;
   font-weight: 500;
   margin-bottom: 0;
-  margin-top: 30px;
+  margin-top: 10px;
 }
 
 .about-injuries1 p {
@@ -1233,6 +1305,7 @@ h1 {
   font-weight: 510;
   font-size: 28px;
   padding: 20px 0;
+  margin: 0;
 }
 
 .injuries-heading2 {
@@ -1246,13 +1319,28 @@ h1 {
 
 .consent-heading {
   text-align: center;
-  padding-bottom: 20px;
-  padding-top: 68px;
+  padding-bottom: 35px;
+  padding-top: 50px;
 }
-
+.Consent-sec .about-consent {
+  text-align: center;
+}
+.Consent-sec .about-consent {
+  text-align: center;
+}
+.Consent-sec img {
+  height: 150px;
+  width: 100%;
+}
+.Consent-sec .Employees-img8 {
+  margin: 0;
+}
+.Consent-sec .Employees-img9 {
+  margin: 0;
+}
 .consent-heading h1 {
   font-family: "Poppins";
-  font-style: italic;
+  /*font-style: italic;*/
   font-weight: 510;
 }
 
@@ -1280,14 +1368,13 @@ h1 {
 
 .government-rights-sec {
   width: 100%;
-  padding-bottom: 40px;
+  padding-bottom: 30px;
 }
-
 section.government-rights-sec h3 {
   font-size: 25px;
   font-weight: 600;
   margin-bottom: 13px;
-  font-style: italic;
+  /*font-style: italic;*/
 }
 
 .rights-heading {
@@ -1298,7 +1385,6 @@ section.government-rights-sec h3 {
 .rights-heading h1 {
   font-size: 30px;
   font-family: "Poppins";
-  font-style: italic;
   font-weight: 510;
 }
 
@@ -1323,12 +1409,13 @@ section.government-rights-sec h3 {
 
 .about-right {
   text-align: center;
-  width: 350px;
+  width: 100%;
   height: 229px;
   margin: 10px;
   border: 5px solid transparent;
   background-color: #f9f5e8;
   border-radius: 19px;
+  padding: 0 20px;
 }
 
 .about-right p {
@@ -1431,7 +1518,7 @@ section.government-rights-sec h3 {
 
 .postcast-heading {
   text-align: center;
-  padding-bottom: 35px;
+  padding-bottom: 40px;
   padding-top: 52px;
 }
 
@@ -1463,9 +1550,8 @@ section.government-rights-sec h3 {
   font-size: 12px;
   padding: 4px;
   margin-top: 0 !important;
-
 }
-.fa{
+.fa {
   margin-top: 0 !important;
 }
 .play-icon .fa {
@@ -1497,7 +1583,7 @@ section.government-rights-sec h3 {
 .product-sec {
   width: 100%;
   background-color: #f5f5f5;
-  padding-bottom: 99px;
+  padding-bottom: 70px;
 }
 
 .product-heading {
@@ -1664,18 +1750,17 @@ section.government-rights-sec h3 {
   font-family: poppinsmedium;
   background-color: #f1b800;
 }
-.footer{
+.footer {
   margin-top: -50px;
 }
 footer {
   width: 100%;
   background-color: #191919;
   padding-bottom: 40px;
-  margin-top: 5%;
+  margin-top: 0%;
 }
-
 .footer-form p {
-  color: #FFFFFF;
+  color: #ffffff;
   font-size: 14px !important;
   margin-bottom: 10px;
   margin-top: 10px;
@@ -1713,19 +1798,19 @@ footer {
   display: block;
   padding-top: 21px;
   opacity: 0.9;
-  color: #EEEEEE;
+  color: #eeeeee;
   font-size: 13px;
 }
 
 .footer-border {
   margin-top: 73px;
-  border: 2px solid #FFFFFF;
+  border: 2px solid #ffffff;
   padding: 35px 20px;
 }
 
 .footer-border h3 {
   font-size: 21px;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .footer-border p {
@@ -1750,7 +1835,7 @@ footer {
 }
 
 .footer-border .form-control::placeholder {
-  color: #5B5B5B;
+  color: #5b5b5b;
   opacity: 0.8;
   font-size: 14px;
 }
@@ -1802,7 +1887,7 @@ footer {
 }
 
 .copyright {
-  background: #ECC091;
+  background: #ecc091;
   text-align: center;
   padding: 20px 0;
   border-top: 1px solid #70707087;
@@ -1810,7 +1895,7 @@ footer {
 
 .copyright p {
   margin: 0;
-  color: #FFFFFF;
+  color: #ffffff;
   font-size: 11px;
   text-transform: uppercase;
 }
@@ -1823,7 +1908,7 @@ footer {
   display: flex;
   flex-direction: row;
 }
-.banr{
+.banr {
   padding-left: 82px;
   padding-right: 95px;
 }
@@ -1844,7 +1929,6 @@ footer {
   }
 
   .about-banner ::placeholder {
-
     font-size: 10px;
     font-weight: 400;
   }
@@ -2075,17 +2159,17 @@ footer {
 @media screen and (max-width: 765px) {
   .dropdown-menu {
     top: 57px !important;
-    background-color: #F9F9F9 !important;
+    background-color: #f9f9f9 !important;
     color: #202020 !important;
-    left:0!important;
+    left: 0 !important;
     width: 253px !important;
     position: absolute;
     transform: none !important;
-    will-change:unset;
+    will-change: unset;
   }
   #nav .hover-class ul {
     display: none;
-    position: unset  !important;
+    position: unset !important;
     width: 116px !important;
   }
   .nav-container {
@@ -2097,7 +2181,6 @@ footer {
   .nav-btn {
     width: 104px;
     height: 70px;
-
   }
   .nav-btn2 {
     width: 113px;
@@ -2698,7 +2781,16 @@ footer {
     background-color: #f9f5e8;
     border-radius: 19px;
   }
-  .footer{
+  .footer {
     margin-top: 0;
   }
+}
+.info-btn h5.Script {
+  padding: 0px 0 20px;
+}
+i.fa:before {
+  font-family: FontAwesome;
+}
+.info-sec {
+  padding-bottom: 50px;
 }
