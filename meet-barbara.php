@@ -11,11 +11,12 @@
         <div class="col-md-12">
             <div class="barbara-info">
                 <p>Barbara is an attorney previously in practice for over 25 years with
-                    prominent national firms in New York and Florida. Barbara resigned from the practice of law
+                    prominent national firms in New York and Florida. Barbara resigned from the practice of law with a
+                    letter of appreciation from the Bar association for her many years of service
                     and became a highly successful real estate
                     broker and Vice President of Corcoran, a prestigious national real
-                    estate brokerage company. See testimonials attached
-                    <span class="bold-word"> Insert link to testimonials. </span>
+                    estate brokerage company. <a href="#">See testimonials attached</a>
+                    <!-- <span class="bold-word"> Insert link to testimonials. </span> -->
                 </p>
                 <p>After Barbara resigned from practicing law, the bar association and the judicial branch of government
                     had no further jurisdiction. Yet, in violation of law and without jurisdiction, to retaliate
@@ -72,10 +73,7 @@
                     understands the urgency and dangers facing the American public by the monumentally
                     tyrannical, corrupt government, having experienced it first-hand herself.</span>
                     As a result, she knows what must be done to Reclaim and secure the Rights of
-                    the People and hold” criminally accountable.
-                    <span class="highlight"> “government </span>
-                    career
-                    <span class="highlight"> criminals” </span>
+                    the People and hold” criminally accountable. “government career criminals”
                     criminally accountable
                 </p>
                 <div class="story-title">

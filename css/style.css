@@ -1008,15 +1008,25 @@ h3 {
 }
 .criminal {
   margin: 0;
+  padding: 0;
+  list-style: none;
 }
-
-.criminal p {
+ul.criminal {
+  column-count: 2;
+}
+.about-criminal {
+  padding-top: 20px;
+}
+ul.criminal p {
   font-size: 15px;
   font-weight: 500;
   margin: 0;
   line-height: 1.9;
 }
-
+.about-crimes ul.criminal li {
+  list-style: none;
+  margin-bottom: 6px;
+}
 .crimes {
   margin: 0;
   font-size: 15px;
@@ -1320,6 +1330,7 @@ h1 {
 }
 .Consent-sec img {
   height: 150px;
+  width: 100%;
 }
 .Consent-sec .Employees-img8 {
   margin: 0;
@@ -1398,12 +1409,13 @@ section.government-rights-sec h3 {
 
 .about-right {
   text-align: center;
-  width: 350px;
+  width: 100%;
   height: 229px;
   margin: 10px;
   border: 5px solid transparent;
   background-color: #f9f5e8;
   border-radius: 19px;
+  padding: 0 20px;
 }
 
 .about-right p {

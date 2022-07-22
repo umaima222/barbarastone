@@ -774,23 +774,61 @@
     <div class="container">
         <div class="about-crimes row">
             <div class="col-md-7">
-                <div class="criminal">
-                    <p>Piotr Hofmański, President (Poland)</p>
-                    <p>Luz del Carmen Ibáñez Carranza, First VP (Peru)</p>
-                    <p>Antoine Kesia-Mbe Mindua, Second VP (DR Congo) </p>
-                    <p>Reine Alapini-Gansou (Benin)</p>
-                    <p>Tomoko Akane (Japan)
+                <ul class="criminal">
+                    <li>
+                        <p>Piotr Hofmański, President (Poland)</p>
+                    </li>
+                    <li>
+                        <p>Luz del Carmen Ibáñez Carranza, First VP (Peru)</p>
+                    </li>
+                    <li>
+                        <p>Antoine Kesia-Mbe Mindua, Second VP (DR Congo) </p>
+                    </li>
+                    <li>
+                        <p>Reine Alapini-Gansou (Benin)</p>
+                    </li>
+                    <li>
+                        <p>Tomoko Akane (Japan)</p>
+                    </li>
+                    <li>
+                        <p>Solomy Balungi Bossa (Uganda)</p>
+                    </li>
+                    <li>
+                        <p>Chung Chang-ho (South Korea)</p>
+                    </li>
+                    <li>
+                        <p>Péter Kovács (Hungary)</p>
+                    </li>
+                    <li>
+                        <p>Marc Perrin de Brichambaut (France)</p>
+                    </li>
+                    <li>
+                        <p>Kimberly Prost (Canada)</p>
+                    </li>
+                    <li>
+                        <p>Rosario Salvatore Aitala (Italy)</p>
+                    </li>
+                    <li>
+                        <p>Bertram Schmitt (Germany)</p>
+                    </li>
+                    <li>
+                        <p>Joanna Korner (United Kingdom)</p>
+                    </li>
+                    <li>
+                        <p>Gocha Lordkipanidze (Georgia)</p>
+                    </li>
+                    <li>
+                        <p>Chung Chang-ho (South Korea)</p>
+                    </li>
+                </ul>
+                <div class="about-criminal">
+                    <p>All ICC judicial public servants are criminally liable for conspiracy and accomplice to
+                        Atrocity
+                        Crimes for any failure to hold Joe Biden and the U.S. government employees criminally liable
+                        for
+                        the U.S. Atrocity Crimes.
+                        All Crime Victims of these Atrocity Crimes are urged to join this Criminal Complaint
                     </p>
-                    <p>Solomy Balungi Bossa (Uganda)</p>
-                    <p>Chung Chang-ho (South Korea)</p>
-                    <p>Péter Kovács (Hungary)</p>
-                    <p>Marc Perrin de Brichambaut (France)</p>
-                    <p>Kimberly Prost (Canada)</p>
-                    <p>Rosario Salvatore Aitala (Italy)</p>
-                    <p>Bertram Schmitt (Germany)</p>
-                    <p>Joanna Korner (United Kingdom)</p>
-                    <p>Gocha Lordkipanidze (Georgia)</p>
-                    <p>Chung Chang-ho (South Korea)</p>
                 </div>
             </div>
             <div class="col-md-4">
@@ -809,7 +847,7 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        <!-- <div class="row">
             <div class="col-md-12">
                 <div class="about-criminal">
                     <p>All ICC judicial public servants are criminally liable for conspiracy and accomplice to
@@ -821,7 +859,7 @@
                     </p>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
     <div class="read-btn">
         <a target="_blank" href="https://drive.google.com/file/d/1ShZ_X3HLM0snCu-zw7Xvjnx40zUx0G57/view"><button>read
