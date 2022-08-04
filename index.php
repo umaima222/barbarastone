@@ -29,6 +29,8 @@
 
     </div>
     <div class="read-btn banner-btns">
+        <a target="_blank" href="meet-barbara.php"><button>Meet
+                Barbara</button></a><br /><br />
         <a target="_blank" href="https://drive.google.com/file/d/1ShZ_X3HLM0snCu-zw7Xvjnx40zUx0G57/view"><button>read
                 Our ICC Complaint</button></a>
         <a target="_blank" href="https://drive.google.com/file/d/1rR7g5cBrq5qUVTOfZhUGS5Imue2uvI0m/view"><button>Read
@@ -88,7 +90,8 @@
                         have 30 + Unalienable Bountiful Birthrights enumerated in an International Bill of Rights
                         enacted by the United Nations </p>
                     <div class="Birthrights-btn">
-                        <a href="#" class="Poppins"><button class="detail-btn">30+ Rights</button></a>
+                        <a href="https://www.un.org/en/about-us/universal-declaration-of-human-rights"
+                            class="Poppins"><button class="detail-btn">Our 30+ Rights</button></a>
                     </div>
                 </div>
             </div>
@@ -146,7 +149,7 @@
     </div>
     <div class="container">
         <div class="col-md-12">
-            <div class="news-bottom">
+            <!-- <div class="news-bottom">
                 <h1 class="Poppinsbolditalic">Wake up America -Reclaim and Secure Your Rights</h1>
 
                 <div class="news-img pt-0">
@@ -159,11 +162,11 @@
                     <p class="Poppins"> Fascists and Oligarchs Perpetrating Crimes against Humanity</p>
                     </p>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
     <div class="container">
-        <div class="wrong">
+        <div class="wrong mt-5">
             <div class="Operation-border">
                 <div class="text-border">
                     <p class="sec-end"> Find out just what the people will submit to and you have found out the
@@ -345,7 +348,7 @@
         <div class="col-md-12">
             <div class="platform-title">
                 <h1>Our Platform</h1>
-                <h2>Wake Up America!!! We Are Living In A Big Lie!!!</h2>
+                <h2>Wake Up America We Are Living In A Big Lie</h2>
             </div>
             <div class="about-platform">
                 <p>1. Our Innate Unalienable Birth Rights have been stolen.</p>
@@ -383,9 +386,9 @@
                 </p>
                 <p> 4. We the People must lay its foundation on the principles and organize its powers in such form
                     as shall seem most likely to effort our Safety and Happiness.</p>
-                <p> 5. We the People must adopt and ratify the international, universal laws of the United Nations
+                <p> 5. We the People must adopt and ratify the international, universal laws of the United Nations to
+                    become a true international leader, to lead the world by actions, not by hypocrisy.
                 </p>
-                <p> to become a true international leader, to lead the world by actions, not by hypocrisy.</p>
                 <p> 6. We the People must demand that international agencies including the U.N. Human Rights
                     Council, the U.N. Security Council, the International Criminal Court and NATO comply with their own
                     Charters and Conventions
@@ -401,6 +404,7 @@
 <section class="government-sec">
     <div class="container">
         <div class="government-head">
+            <h1 class="mb-3">The U.S. is at War Against Humanity</h1>
             <h1>The Human, Sex Traffic and Genocide Regime by the U.S.
                 Government Against the U.S. and World Population
             </h1>
@@ -473,15 +477,15 @@
         </div>
         <div class="col-md-12 p-0">
             <div class="about-government">
-                <p>These Crimes constitute “Deprivation of Rights Under Color of Law” in criminal violation of
-                    Federal law 18 U.S.C. § 242. The criminal penalties include life imprisonment and the death
-                    sentence.
-                </p>
                 <p>This deadly racket is no different than the Nazi Holocaust. People are rounded up under auspices
                     of the state, their assets stolen and they are murdered by chemical restraints. In fact, it is
                     far more diabolical as it is perpetrated by the U.S. Government that falsely positions itself as
                     a “Human Rights Protector” when it has failed to sign most of the core International Human
                     Rights Treaties.
+                </p>
+                <p>These Crimes constitute “Deprivation of Rights Under Color of Law” in criminal violation of
+                    Federal law 18 U.S.C. § 242. The criminal penalties include life imprisonment and the death
+                    sentence.
                 </p>
                 <p>We make testament to this U.S. Holocaust just as those who escaped the Nazi Holocaust.
                 </p>
@@ -493,7 +497,7 @@
         </div>
         <div class="col-md-12 p-0">
             <div class="government-title">
-                <h1 class="m-0"> A.THE U.S. GUARDIAN GENOCIDE REGIME</h1>
+                <h1 class="m-0"> A.The U.S. guardian genocide regime</h1>
             </div>
             <div class="about-government">
                 <p>The U.S. Government Kidnaps, Enslaves, Traffics, Tortures and Murders vulnerable adults and
@@ -506,7 +510,7 @@
             </div>
         </div>
         <div class="government-title pt-0">
-            <h1> B. THE U.S. CHILD SEX/HUMAN TRAFFICKING REGIME</h1>
+            <h1> B. The U.S. child sec/human trafficking regime</h1>
         </div>
         <div class="row">
             <div class="col-md-9">
@@ -518,7 +522,7 @@
                     </p>
                 </div>
                 <div class="government-title blackmail">
-                    <h1 class="mb-0">C. REVERSE BLACKMAIL SCHEMES</h1>
+                    <h1 class="mb-0">C. Reverse blackmail schemes</h1>
                     <div class="about-government">
                         <p>The U.S Guardian and Child Trafficking Rackets run a “reverse blackmail scheme” symbiotic
                             to
@@ -530,10 +534,35 @@
                             them from reporting Atrocity Crimes by the U.S. Government.</p>
                     </div>
                 </div>
+                <div class="government-title blackmail">
+                    <h1 class="mb-0">D. The faces of the trafficking regimes</h1>
+                </div>
             </div>
             <div class="col-md-3 scheme">
                 <div class="scheme-imgbox">
                     <img src="img/image104.png" alt="" class="img-fluid">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3 col-md-6">
+                <div class="faces-img">
+                    <figure><img src="img/face1.jpg" alt="" class="img-fluid"></figure>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="faces-img">
+                    <figure><img src="img/face2.jpg" alt="" class="img-fluid"></figure>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="faces-img">
+                    <figure><img src="img/face3.png" alt="" class="img-fluid"></figure>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="faces-img">
+                    <figure><img src="img/face4.jpg" alt="" class="img-fluid"></figure>
                 </div>
             </div>
         </div>
@@ -544,7 +573,72 @@
             <p>Sanctioned, Sponsored and Funded by all branches </p>
             <p>and at all levels of U. S. Government</p>
         </div>
-
+        <div class="government-title blackmail">
+            <h1 class="m-0">Childern and parents are<br /> kidnapped and stolen at gunpoint by traffickers</h1>
+        </div>
+        <div class="button-group text-center">
+            <a class="mr-3" href="https://tinyurl.com/DontTakeChild">https://tinyurl.com/DontTakeChild</a>
+            <a href="https://tinyurl.com/RobinsonVid">https://tinyurl.com/RobinsonVid</a>
+        </div>
+        <div class="kidnapped-sec mt-4">
+            <div class="government-title blackmail">
+                <h1 class="m-0">Childern, mothers and fathers are<br />
+                    beaten, drugged, tortured, starved and murdered
+                </h1>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="kidnaped-img">
+                        <figure><img src="img/kidnapped1.png" class="img-fluid"></figure>
+                        <h4>Mrs. Ana Daniel
+                            Beaten, Bloodied and Tortured in Guardianship
+                        </h4>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="kidnaped-img">
+                        <figure><img src="img/kidnapped2.jpg" class="img-fluid"></figure>
+                        <h4>Mrs. Marjorie Fister
+                            Beaten, Bloodied, Tortured, Starved
+                            and Murdered In Guardianship
+                        </h4>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="kidnaped-img">
+                        <figure><img src="img/kidnapped3.png" class="img-fluid"></figure>
+                        <h4>Mr. Charles Phillip Mcanally
+                            Beaten, Bloodied, Tortured, Starved
+                            and Murdered In Guardianship
+                        </h4>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="kidnaped-img">
+                        <figure><img src="img/kidnapped4.jpg" class="img-fluid"></figure>
+                        <h4>Mrs. June Lacey
+                            MURDERED IN GUARDIANSHIP
+                        </h4>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="kidnaped-img">
+                        <figure><img src="img/kidnapped5.jpg" class="img-fluid"></figure>
+                        <h4>Mrs. Louise Zahn
+                            MURDERED IN GUARDIANSHIP
+                        </h4>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="kidnaped-img">
+                        <figure><img src="img/kidnapped6.jpg" class="img-fluid"></figure>
+                        <h4>Mr. Lester G. Moore
+                            MURDERED IN GUARDIANSHIP
+                        </h4>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="script-text pt-3">
             <h5 class="Script">#We Know #We Grow</h5>
         </div>
@@ -554,7 +648,7 @@
 <section class="informative-sec pt-5">
     <div class="container">
         <div class="a-talking-head">
-            <h1>The U.S. Government is a Conglomerate of Inextricably
+            <h1 class="mb-3">The U.S. Government is a Conglomerate<br /> of Inextricably
                 Intertwined Rackets
             </h1>
             <h3>A. Inextricably Intertwined Rackets Derived from the </h3>
@@ -566,9 +660,10 @@
                     against family members (“Inextricably Intertwined Rackets”).</p>
                 <p>The Inextricably Intertwined Rackets are carried out in other lawless, collusive, crime
                     syndicates falsely called “courts” to protect, cover up, debilitate, rape the rights of and
-                    destroy the lives of family members to silence exposure and render them indigent so they must
-                    struggle for their own financial survival and unable to fight the underlying Racket. Insert Link
-                    here to Section titled “U.S. Inextricably Intertwined Rackets”</p>
+                    destroy the lives of family members to financially profit from embroiling them in other court
+                    rackets. These Inextricably Intertwined Rackets also serve to silence exposure and render family
+                    members indigent so they must struggle for their own financial survival and unable to fight the
+                    underlying Racket</p>
                 <p>These Inextricably Intertwined Rackets use such names as “bankruptcy” “foreclosure” “criminal”
                     “probate” “civil” to perpetrate a separate string of Atrocity Crimes including:
                 </p>
@@ -577,10 +672,10 @@
                 </p>
                 <p>2. Sued in fraudulent lawsuits known a “SLAPP lawsuits” where they are falsely accusing them of
                     “defamation” when they truthfully report the Crimes;</p>
-                <p>3. Maliciously prosecuted and falsely arrested for invented “crimes” such as:
+                <p>3. Maliciously prosecuted and falsely arrested for invented “crimes” such as:<br /><br />
                     a. “Contempt of Court” by being falsely accused of “violating” illegal, void rights raping
                     edicts by judicial criminals that strip them of their Rights to protect their loved ones and
-                    report crimes;
+                    report crimes;<br />
                     b. “Interference with “custody” of their own parent or child to orchestrate their false arrest
                     when family members attempt to protect their loved ones from the Atrocity Crimes. “Custody” is
                     another fabricated code word to absurdly imply someone can be stripped/raped of their
@@ -597,25 +692,22 @@
                     including “appellate courts”, “attorney and judicial oversight committees” and their protection
                     arm, the “law enforcement agencies.”</p>
                 <p>When Family Members first become a Crime Victim, they are unaware the U.S. Guardian Genocide
-                    Racket and Child Sex/Human Trafficking Racket are deliberate systemic Atrocity Crimes. As is the
-                    intention of these rackets, they initially believe their “matter” could not possibly be anything
-                    other than “isolated” crimes because of something they may have done. And that “IF” the next
-                    tier of courts or oversight government officials were informed, they would find remedy. Thus
-                    they are extorted to hemorrhage fees on “court costs” and attorneys who are part of the racket.
+                    Racket and Child Sex/Human Trafficking Racket are deliberate systemic Atrocity Crimes.
                     As they wade through a deliberate minefield of obstacles and subjected to cover up, retaliation
                     and escalated attacks, they realize they are embroiled in a systemic web and any attempt at
-                    remedy is futile as they are embroiled in an organized crime syndicate.</p>
+                    remedy is futile as they are embroiled in an organized crime syndicate and cover up web and any
+                    attempt at remedy is futile as the U.S. is perpetrating a War against Humanity.</p>
             </div>
             <div class="a-talking-head">
                 <h2>B. Conglomerate of Rackets</h2>
             </div>
             <div class="News-you-can-use">
-                <p>The “legislative” and “executive branches” conjure up illegal void “rights raping edicts” they
+                <!-- <p>The “legislative” and “executive branches” conjure up illegal void “rights raping edicts” they
                     call by “protection sounding names” to imply they somehow benefit the People when they are
                     subterfuges to enable bribery and kickbacks and deploy taxpayer money to fund the secret,
-                    special interests and lobbyists of government employee politicians. </p>
-                <p>The “judicial branch” is used to issue illegal void “judicial edicts” to steal the property and
-                    liberty of their victims and silence them from reporting the Atrocity Crimes. </p>
+                    special interests and lobbyists of government employee politicians. </p> -->
+                <!-- <p>The “judicial branch” is used to issue illegal void “judicial edicts” to steal the property and
+                    liberty of their victims and silence them from reporting the Atrocity Crimes. </p> -->
 
             </div>
         </div>
@@ -715,8 +807,9 @@
                     concentration camps.</p>
             </div>
             <div class="criminal-head">
-                <h1>THE CRIMES BEING PERPETRATED BY THE U.S. GOVERNMENT
-                    CONSTITUTE “ATROCITY CRIMES” UNDER INTERNATIONAL LAWS.</h1>
+                <h1>The U.S. Government is Perpetrating “Atrocity Crimes”<br />
+                    under International Laws
+                </h1>
             </div>
             <div class="about-criminal">
                 <p>Governments are obliged under international law to: </p>
@@ -726,28 +819,42 @@
                 <p>c. to grant compensation to the victims or their families, and
                 </p>
                 <p>d. to take effective measures to avoid future recurrence of such violations.</p>
-                <p>To the contrary, the U. S. government itself is perpetrating the Atrocity Crimes and flouting its
-                    deliberate, systemic violation of international laws.
+                <p>To the contrary, the U. S. government itself is perpetrating Atrocity Crimes and flouting its
+                    deliberate, systemic violation of international laws. Atrocity Crimes under international law
+                    include Genocide, Crimes against Humanity, War Crimes and Crimes of Aggression.
                 </p>
                 <p>The International Criminal Court in the Hague was established by the U.N.in the aftermath of the
                     Nazi Holocaust to hold government leaders criminally liable for Atrocity Crimes. The ICC is
                     mandated to provide remedy</p>
             </div>
+            <div class="criminal-head">
+                <h1>The Perpetrators
+                </h1>
+            </div>
+            <p>
+                The other top government employees in this Criminal Complaint/Claim in addition to Joe Robinette Biden,
+                Jr. include Kamala Harris, Vice President; Clarence Thomas, Associate Justice, U.S. Supreme Court;
+                Charles E. Grassley, Senator and prior president pro tempore emeritus of the United States Senate; Ted
+                Crux, Ranking Member of the Senate Judiciary Subcommittee on the Constitution; Richard Blumenthal,
+                Chairman of the Senate Judiciary Subcommittee on the Constitution; Xavier Becerra, Secretary of the
+                Department of Health and Human Services; U.S. State Governors and Perpetrator Judicial Government
+                Employees
+            </p>
         </div>
     </div>
     <div class="criminal-head">
-        <h1>Our International Criminal Court Complaint</h1>
+        <h1>Our ICC Complaint has been filed with all ICC Judicial Employees</h1>
     </div>
     <div class="container">
         <div class="row">
             <div class="col-md-2"></div>
             <div class="col-md-7">
-                <div class="criminal-heading">
+                <!-- <div class="criminal-heading">
                     <h2>FOR ATROCITY CRIMES:
                         GENOCIDE, CRIMES AGAINST HUMANITY,
                         CRIMES OF AGGRESSION AND WAR CRIMES
                         IN THE INTERNATIONAL CRIMINAL COURT</h2>
-                </div>
+                </div> -->
             </div>
             <div class="col-md-3"></div>
         </div>
@@ -793,9 +900,9 @@
                     <li>
                         <p>Solomy Balungi Bossa (Uganda)</p>
                     </li>
-                    <li>
+                    <!-- <li>
                         <p>Chung Chang-ho (South Korea)</p>
-                    </li>
+                    </li> -->
                     <li>
                         <p>Péter Kovács (Hungary)</p>
                     </li>
@@ -838,9 +945,9 @@
                     <p>Miatta Maria Samba (Sierra Leone)</p>
                     <p>Althea Violet Alexis-Windsor (Trinidad and Tobago)
                     </p>
-                    <p>Tomoko Akane (Japan)
-                    </p>
-                    <p>Solomy Balungi Bossa (Uganda)</p>
+                    <!-- <p>Tomoko Akane (Japan)
+                    </p> -->
+                    <!-- <p>Solomy Balungi Bossa (Uganda)</p> -->
                     <div class="criminal-imgbox">
                         <img src="img/rectangle180flag.png" alt="" class="img-fluid">
                     </div>
@@ -877,41 +984,52 @@
         <div class="Constitutional-head">
             <h1>The Constitutional Is Unconstitutional</h1>
         </div>
+        <div class="consititutional-img text-center mb-4">
+            <img src="img/2.png" alt="" class="img-fluid">
+        </div>
         <div class="row">
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <div class="about-Constitutional">
-                    <p>We the People are allowing ourselves to be conned by the most monstrous and longest running
-                        scam in history.</p>
+                    <!-- <p>We the People are allowing ourselves to be conned by the most monstrous and longest running
+                        scam in history.</p> -->
                     <p>The Constitution was written in 1787 for an Agrarian Slave Society.</p>
                     <p>The Constitution held sacred was fatally flawed at its inception. Even its founders were
                         concerned that government would evolve into tyranny.
                     </p>
                 </div>
             </div>
-            <div class="col-md-2">
-                <div class="consititutional-img">
-                    <img src="img/2.png" alt="" class="img-fluid">
-                </div>
-            </div>
             <div class="col-md-12">
                 <p>Their ominous premonitions have become true. To continue its outdated, Supremist concept to
                     govern our digital 21st century world is preposterous and gross dereliction of duty- no
                     different than stubbornly persisting in using a horse and buggy, antiquated 1787
-                    medicalcures or ignoring technology. </p>
-                <p>As the Constitution is premised on the continuing consent of the governed, when the state no
+                    medical cures or ignoring technology. </p>
+                <p>We do not Consent to Tyrannical Assaults on our Human Rights and Human Dignity. As the Constitution
+                    is premised on the continuing consent of the governed, when the state no
                     longer protects the rights it was intended to preserve, the consent is vitiated. When
                     governments violate those rights, its citizens have the right to take up arms.</p>
             </div>
+            <div class="col-md-2"></div>
+            <div class="col-md-4">
+                <div class="img-box">
+                    <figure><img src="img/frame1.png" alt="" class="img-fluid"></figure>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="img-box">
+                    <figure><img src="img/frame2.png" alt="" class="img-fluid"></figure>
+                </div>
+            </div>
+            <div class="col-md-2"></div>
         </div>
         <div class="col-md-12">
             <div class="Constitutional-head">
                 <h1>Examples of Fatal Flaws in the Constitution</h1>
             </div>
             <div class="consititutional">
-                <p>1. Pro-Slavery.</p>
-                <p>2. Empowers the Government and Disempowers the People.
+                <p>1.It is Pro-Slavery.</p>
+                <p>2.It Empowers the Government and Disempowers the People.
                 </p>
-                <p>3. Protects the Property of Government, not the People.</p>
+                <p>3.It Protects the Property of the Government, not the People.</p>
                 <p>4. The Constitution reeks of sanctimonious complicity.
                 </p>
                 <p>
@@ -919,9 +1037,29 @@
                 </p>
                 <p>6. The Constitution was illegally ratified, born from intimidation, and virtually impossible to
                     Amend.</p>
+                <p>7. Most top-level Federal government employee are appointed, not elected.</p>
+                <p>8. There are countless loopholes in state governments enabling the appointment, not election of state
+                    government employees.</p>
+                <p>9. There are NO ENFORCEMENT mechanisms in the Constitution to its violation by government employees.
+                </p>
+                <p>10. There is no Federal Constitutionally created federal law enforcement government agency. Law
+                    enforcement is not a federal Constitutional Right.</p>
+                <p>
+                    11. Pursuant to the Declaration of Independence, “that to secure our rights, Governments are
+                    instituted among Men, deriving their just powers from the consent of the governed.” These are empty
+                    words without implementation and execution provisions, therefore hypocritical and deceptive
+                    propaganda creating a false government. A government's legitimacy and moral right to use state power
+                    is only justified and legal when derived from the people.
+                </p>
+                <p>
+                    12. The Constitution has lapsed. Thomas Jefferson himself made clear this fundamental, commonsense
+                    principle of law. In a letter to James Madison, Jefferson states any Constitution is not binding on
+                    those who are not a party; expires after 19 years and must be renewed if it is not to become “an act
+                    of force and not of right”
+                </p>
             </div>
             <div class="consititutional-btn">
-                <a href="#"><button>More complete analysis of the Unconstitutional Constitution.</button></a>
+                <a href="#"><button>SEE SUMMARY OF UNCONSTITUTIONAL CONSTITUTION</button></a>
             </div>
             <div class="script-text">
                 <h5 class="Script">#We Know #We Grow</h5>
@@ -937,7 +1075,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="about-Government-Employees">
-                    <p>We are in a COLD WAR. Not with a foreign government but with the U.S. government, a crime
+                    <p>We are in a COLD WAR. Not with a foreign government but with the U.S. government that is waging
+                        war against WE THE PEOPLE, its rightful masters . Our government has become a crime
                         syndicate of Kakistocrats and Kleptocrats running our country. The monumental debauchery,
                         depravity, and sadistic deception by the U.S. government masquerading as free world nation
                         is
@@ -963,9 +1102,9 @@
                     <a href="#">https://en.wikipedia.org/wiki/Kleptocracy</a>
                 </div>
                 <div class="Employees">
-                    <p>U.S. Government Employees self benefit, abuse their power, act above the law, use taxpayer
+                    <p>U.S. Government Employees self-benefit, abuse their power, act above the law, use taxpayer
                         appointments to strip/rape citizens of their rights, assets, liberty and lives and destroy
-                        anyone who interferes with their well oiled thievery, trafficking and money laundering. </p>
+                        anyone who interferes with their well-oiled thievery, trafficking and money laundering. </p>
                     <p class="conspiracy">All government branches act in conspiracy</p>
                 </div>
                 <div class="Court-Criminals">
@@ -976,9 +1115,9 @@
                         all terror, blackmail and stalking threats using a “protection sounding name” the
                         illegal, void “Patriot Act,” to pretend to legitimize its crimes and extort the public
                         from reporting them. </p>
-                    <p>The Supreme Court Criminals purport to “legitimize” corruption. </p>
+                    <p>The Supreme Court purports to “legitimize” corruption. </p>
                     <p>The cold war RAGING between the American people and Government is so dangerous, it is
-                        even sometimes reported by the corrupt media and explosively exposed by those in its
+                        even sometimes leaked by the corrupt media and explosively exposed by those in its
                         inner sanctum and prominent public influencers</p>
                 </div>
                 <div class="about-Employees">
@@ -1123,9 +1262,35 @@
     <div class="container">
         <div class="col-md-12">
             <div class="injuries-heading">
-                <h1>Injuries And Usurpations</h1>
+                <h1>Injuries And Usurpations<br /> And New Guards</h1>
             </div>
-            <div class="about-injuries">
+            <div class="about-injuries1">
+                <h5>Declaration of Independence:</h5>
+                <p>But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design
+                    to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such
+                    Government, and to provide new Guards for their future security.--Such has been the patient
+                    sufferance of these Colonies; and such is now the necessity which constrains them to alter their
+                    former Systems of Government. The history of the present King of Great Britain is a history of
+                    repeated injuries and usurpations, all having in direct object the establishment of an absolute
+                    Tyranny over these States. To prove this, let Facts be submitted to a candid world.</p>
+                <p>
+                    The Injustices and Usurpations in the King's form of government pale in comparison to those by
+                    existing imposter U.S. government employees who openly Murder, Pillage, Sex and Human Traffic its
+                    People and those in other countries. Their atrocities are so heinous that an International Criminal
+                    Court was established by the U. N. with sole jurisdiction of the Atrocity Crimes by the government
+                    itself.
+                </p>
+                <p>
+                    As done by the founders in the Declaration of Independence who set forth to a candid world the
+                    “repeated injuries and usurpations all having in direct object the establishment of an absolute
+                    Tyranny over these States” so too do we.
+                </p>
+                <a href="https://www.peoplesrightsforum.com/">Injuries and Usurpations</a>
+                <div class="script-text">
+                    <h5 class="Script">#We Know #We Grow</h5>
+                </div>
+            </div>
+            <!-- <div class="about-injuries">
                 <p>Under the Declaration of Independence “when a long train of abuses and usurpations, pursuing
                     invariably the same Object evinces a design to reduce them under absolute Despotism, it is their
                     right, it is their duty, to throw off such Government, and to provide new Guards for their
@@ -1151,28 +1316,11 @@
             </div>
             <div class="injuries-heading2">
                 <h1>B. Kleptocrats and Kakistocracies</h1>
-            </div>
-            <div class="about-injuries1">
-                <h5>Declaration of Independence:</h5>
-                <p>“But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a
-                    design to reduce them under absolute Despotism, it is their right, it is their duty, to throw
-                    off such Government, and to provide new Guards for their future security.--Such has been the
-                    patient sufferance of these Colonies; and such is now the necessity which constrains them to
-                    alter their former Systems of Government. The history of the present King of Great Britain is a
-                    history of repeated injuries and usurpations, all having in direct object the establishment of
-                    an absolute Tyranny over these States. To prove this, let Facts be submitted to a candid world.”
-                    As done by the founders in the Declaration of Independence who set forth to a candid world the
-                    “repeated injuries and usurpations all having in direct object the establishment of an absolute
-                    Tyranny over these States” so too do we.</p>
-                <a href="#">Insert injuries and Usurpations link here</a>
-                <div class="script-text">
-                    <h5 class="Script">#We Know #We Grow</h5>
-                </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
-<section class="Consent-sec">
+<!-- <section class="Consent-sec">
     <div class="container">
         <div class="consent-heading">
             <h1>No Consent by the Governed</h1>
@@ -1222,7 +1370,7 @@
             <h5 class="Script">#We Know #We Grow</h5>
         </div>
     </div>
-</section>
+</section> -->
 <section class="government-rights-sec">
     <div class="container">
         <div class="rights-heading">

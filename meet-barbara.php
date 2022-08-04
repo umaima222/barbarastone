@@ -78,7 +78,7 @@
                 </p>
                 <div class="story-title">
                     <h2>Speaking Truth to Tyranny</h2>
-                </div>
+                    </div>
                 <div class="truth-info">
                     <p>By far the number one issue in America and the greatest national and international
                         security
