@@ -67,9 +67,7 @@
             </div>
             <div class="col-md-3 p-0">
                 <div class="president-logo">
-                    <a href="index.php">
-                        <figure><img src="img/president-logo.png" alt="" class="img-fluid"></figure>
-                    </a>
+                    <figure><a href="index.php"><img src="img/president-logo.png" alt="" class="img-fluid"></a></figure>
                 </div>
             </div>
         </div>
