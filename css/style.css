@@ -155,9 +155,12 @@ header {
 	margin-bottom: 10px;
 	border: transparent;
 }
-
+#header .president-logo {
+	max-width: 40%;
+	margin: 4px 0 0 auto;
+}
 .nav-container {
-	justify-content: right;
+	/* justify-content: right; */
 	display: flex;
 	margin-top: 35px;
 }
