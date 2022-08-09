@@ -1093,12 +1093,11 @@ ul.criminal p {
 }
 
 .Constitutional-sec h1 {
-	font-size: 25px;
+	font-size: 33px;
 	color: #9f1d3c;
 	font-weight: 600;
 	font-family: Poppinsbold;
 }
-
 h1 {
 	font-size: 33px;
 	color: #9f1d3c;
@@ -1166,9 +1165,10 @@ h1 {
 	background: #191919;
 }
 .heading h1 {
-	font-weight: 510;
-	font-family: Poppins;
-	/*font-style: italic;*/
+	font-size: 33px;
+	color: #9f1d3c;
+	font-weight: 600;
+	font-family: Poppinsbold;
 }
 
 /*.about-Government-Employees {*/

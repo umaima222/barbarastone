@@ -1,4 +1,4 @@
-<?php include 'inc/app.php';?>
+<?php include 'inc/app.php'; ?>
 <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'> </script>
 
 <link rel="stylesheet" href="css/style.css">
@@ -8,7 +8,8 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="sub-container">
-                    <h1 class="web-title">Barbara Stone</h1>
+                    <h1 class="web-title mb-0">Barbara Stone</h1>
+                    <h1 class="HarlowSolid">The People's President</h1>
                     <h1 class="HarlowSolid">The People's Rights Forum </h1>
                     <h1 class="day">Our Day Has Come</h1>
                     <h1 class="Script">#We Know #We Grow</h1>
@@ -66,12 +67,10 @@
             <div class="col-md-6">
 
                 <div class="detail-text">
-                    <span class="right">Our Rights are </span> <span class="Fundamental">Fundamental,</span> <span
-                        class="Inherent">Inherent,</span>
+                    <span class="right">Our Rights are </span> <span class="Fundamental">Fundamental,</span> <span class="Inherent">Inherent,</span>
                     <span class="Unalienable">Unalienable,</span>
                     <span class="Indivisible">,</span> <span class="Innate">Innate,</span>
-                    <span class="Natural">Natural,</span> <span class="Equal">Equal</span> <span
-                        class="right">and</span> <span class="Universal">Universal. </span>
+                    <span class="Natural">Natural,</span> <span class="Equal">Equal</span> <span class="right">and</span> <span class="Universal">Universal. </span>
                     <p> They are OWNED by us by virtue of our Birth and Humanity and because WE EXIST as human
                         beings.
                     <p> Our Rights are Unalienable and are endowed by the Creator under the Declaration of
@@ -90,8 +89,7 @@
                         have 30 + Unalienable Bountiful Birthrights enumerated in an International Bill of Rights
                         enacted by the United Nations </p>
                     <div class="Birthrights-btn">
-                        <a href="https://www.un.org/en/about-us/universal-declaration-of-human-rights"
-                            class="Poppins"><button class="detail-btn">Our 30+ Rights</button></a>
+                        <a href="https://www.un.org/en/about-us/universal-declaration-of-human-rights" class="Poppins"><button class="detail-btn">Our 30+ Rights</button></a>
                     </div>
                 </div>
             </div>
@@ -347,8 +345,9 @@
     <div class="container">
         <div class="col-md-12">
             <div class="platform-title">
-                <h1>Our Platform</h1>
-                <h2>Wake Up America We Are Living In A Big Lie</h2>
+                <!-- <h1>Our Platform</h1> -->
+                <h1 class="mb-4">Wake Up America<br /> We Are Living In A Big Lie</h1>
+                <!-- <h2>Wake Up America We Are Living In A Big Lie</h2> -->
             </div>
             <div class="about-platform">
                 <p>1. Our Innate Unalienable Birth Rights have been stolen.</p>
@@ -359,9 +358,9 @@
                 <p> 4. As mandated by the Declaration of Independence, it is, our duty to throw off such
                     Government and provide new
                     Guards for our future Security</p>
-                <p> 5. We are Reclaiming and Securing Our Innate Unalienable Bountiful Birth Rights</p>
-                <p> 6. We Alter, Abolish, and Institute a New Government to Effect our Safety and Happiness </p>
-                <p> 7. We Affirm the International Bill of Rights to be established as our Founding and Governing
+                <p> 5. We must Reclaim and Secure Our Innate Unalienable Bountiful Birth Rights</p>
+                <p> 6. We must Alter, Abolish, and Institute a New Government to Effect our Safety and Happiness </p>
+                <p> 7. We must Affirm the International Bill of Rights to be established as our Founding and Governing
                     Principles</p>
                 <p> 8. We Submit these Facts to a Candid World.</p>
             </div>
@@ -693,10 +692,7 @@
                     arm, the “law enforcement agencies.”</p>
                 <p>When Family Members first become a Crime Victim, they are unaware the U.S. Guardian Genocide
                     Racket and Child Sex/Human Trafficking Racket are deliberate systemic Atrocity Crimes.
-                    As they wade through a deliberate minefield of obstacles and subjected to cover up, retaliation
-                    and escalated attacks, they realize they are embroiled in a systemic web and any attempt at
-                    remedy is futile as they are embroiled in an organized crime syndicate and cover up web and any
-                    attempt at remedy is futile as the U.S. is perpetrating a War against Humanity.</p>
+                    As they wade through a deliberate minefield of obstacles,cover up,retaliation and escalated attacks, they realize they are embroiled in anorganized crime syndicate and cover up web and any attempt at remedy is futile as the U.S. is perpetrating a War against Humanity.</p>
             </div>
             <div class="a-talking-head">
                 <h2>B. Conglomerate of Rackets</h2>
@@ -1077,7 +1073,7 @@
                 <div class="about-Government-Employees">
                     <p>We are in a COLD WAR. Not with a foreign government but with the U.S. government that is waging
                         war against WE THE PEOPLE, its rightful masters . Our government has become a crime
-                        syndicate of Kakistocrats and Kleptocrats running our country. The monumental debauchery,
+                        syndicate of Kakistocrats and Kleptocrats. The monumental debauchery,
                         depravity, and sadistic deception by the U.S. government masquerading as free world nation
                         is
                         more terrifying than that of the worst 3rd world countries.</p>
@@ -1104,7 +1100,7 @@
                 <div class="Employees">
                     <p>U.S. Government Employees self-benefit, abuse their power, act above the law, use taxpayer
                         appointments to strip/rape citizens of their rights, assets, liberty and lives and destroy
-                        anyone who interferes with their well-oiled thievery, trafficking and money laundering. </p>
+                        anyone who interferes with their well-oiled thievery, trafficking, murder-for-hire and money laundering. </p>
                     <p class="conspiracy">All government branches act in conspiracy</p>
                 </div>
                 <div class="Court-Criminals">
@@ -1112,8 +1108,7 @@
                         for its failure to ratify most major multilateral human rights treaties and conventions.
                     </p>
                     <p>To blackmail its citizens into silence, color of law “legislators” enacted the monster of
-                        all terror, blackmail and stalking threats using a “protection sounding name” the
-                        illegal, void “Patriot Act,” to pretend to legitimize its crimes and extort the public
+                        all terror, blackmail and stalking threats using a “protection sounding name” i.e the “Patriot Act,” to pretend to legitimize its crimes and extort the public
                         from reporting them. </p>
                     <p>The Supreme Court purports to “legitimize” corruption. </p>
                     <p>The cold war RAGING between the American people and Government is so dangerous, it is
@@ -1624,4 +1619,4 @@
 </section>
 <!-- End Here -->
 
-<?php include 'inc/footer.php';?>
+<?php include 'inc/footer.php'; ?>
