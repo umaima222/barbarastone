@@ -30,12 +30,68 @@
 
     </div>
     <div class="read-btn banner-btns">
-        <a target="_blank" href="meet-barbara.php"><button>Meet
-                Barbara</button></a><br /><br />
         <a target="_blank" href="https://drive.google.com/file/d/1ShZ_X3HLM0snCu-zw7Xvjnx40zUx0G57/view"><button>read
                 Our ICC Complaint</button></a>
         <a target="_blank" href="https://drive.google.com/file/d/1rR7g5cBrq5qUVTOfZhUGS5Imue2uvI0m/view"><button>Read
                 Our Press Release</button></a>
+    </div>
+</section>
+<section class="barbara">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="content-wrapper">
+                    <h2>MEET BARBARA</h2>
+                    <p>
+                        Hello America and World – my name is Barbara Stone.<br />
+                        I have announced my candidacy for President of the U.S. I am choosing to run for President as I
+                        have respect and honor for the People of this Country. I am outraged as a Citizen of the U.S.
+                        and the world about how the lives and very essence of humanity of those who have believed in,
+                        toiled and built this country has become defiled and destroyed by government servants in every
+                        branch of government. The crimes by government servants are rampant as there are no consequences
+                        for them.<br /><br />
+                        Our country is completely lawless in every arena - our right to free speech is censored, our
+                        right to privacy is invaded, our liberty is threatened by false incarceration as the government
+                        runs a racket by profiting from the jail system and there are countless other
+                        rackets.<br /><br />
+                        But nowhere is the tyrannical U.S. government more brazenly on display than with regard to our
+                        basic human and family rights and the destruction of our lives under the guise of family court
+                        and guardian court.<br /><br />
+                        Our rights are Unalienable and endowed by the Creator under the Declaration of Independence and
+                        derived from Human Dignity under the UN. Universal Declaration of Human rights. They are not
+                        "civil" or "constitutional rights" - they are our Unalienable birthrights that we own because we
+                        were born and exist.<br /><br />
+                        Protecting our Human Rights is the fundamental function for governments. Reclaiming and
+                        protecting our human rights is the essence of my campaign and the reason I am running for
+                        President.<br /><br />
+                        I am an expert on government tyranny as I have experienced it first hand as a victim while
+                        seeking futile remedy to protect my mother from being human trafficked in the guise of
+                        “guardianship” and as a prior attorney who has been viciously retaliated for being a
+                        whistleblower.<br /><br />
+                        The U.S. is at War against Humanity. That is why I am running for President. There is no one in
+                        or seeking office except myself who will speak Truth to Tyranny, must less articulate a Platform
+                        to bring to light and remedy the U.S. War on Humanity and restore and protect the rights of We
+                        the People.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="barbara-img">
+                    <figure><img src="img/barbara.png" alt="" class="img-fluid"></figure>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="centered">
+                    <h4>THIS IS A CALL TO ACTION - WAKE UP AMERICA -WAKE UP WORLD. </h4>
+                    <p>We own our rights. There is nothing more important than reclaiming and protecting our rights.
+                        Please
+                        support me in this platform to reclaim and protect our Unalienable Rights.</p>
+                    <div class="button-group">
+                        <a href="meet-barbara.php" class="btn">Meet Barbara</a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 <section class="building-sec">
@@ -67,10 +123,12 @@
             <div class="col-md-6">
 
                 <div class="detail-text">
-                    <span class="right">Our Rights are </span> <span class="Fundamental">Fundamental,</span> <span class="Inherent">Inherent,</span>
+                    <span class="right">Our Rights are </span> <span class="Fundamental">Fundamental,</span> <span
+                        class="Inherent">Inherent,</span>
                     <span class="Unalienable">Unalienable,</span>
                     <span class="Indivisible">,</span> <span class="Innate">Innate,</span>
-                    <span class="Natural">Natural,</span> <span class="Equal">Equal</span> <span class="right">and</span> <span class="Universal">Universal. </span>
+                    <span class="Natural">Natural,</span> <span class="Equal">Equal</span> <span
+                        class="right">and</span> <span class="Universal">Universal. </span>
                     <p> They are OWNED by us by virtue of our Birth and Humanity and because WE EXIST as human
                         beings.
                     <p> Our Rights are Unalienable and are endowed by the Creator under the Declaration of
@@ -82,6 +140,10 @@
                     <p> Our rights are derived by “Human Dignity” under the International Declaration of Human
                         Rights adopted by the United Nations</p>
                     </p>
+                    <p>
+                        Any so called “law” that strips our Unalienable Rights is Unlawful and VOID and must be Repealed
+                        and removed from the books.
+                    </p>
                     <p>Our rights cannot be taken away or restricted except if found guilty of a crime by a
                         legitimate court of law</p>
                     <p> Far beyond the 3 meager “Rights Crumbs” (life, liberty and pursuit of happiness) articulated
@@ -89,7 +151,8 @@
                         have 30 + Unalienable Bountiful Birthrights enumerated in an International Bill of Rights
                         enacted by the United Nations </p>
                     <div class="Birthrights-btn">
-                        <a href="https://www.un.org/en/about-us/universal-declaration-of-human-rights" class="Poppins"><button class="detail-btn">Our 30+ Rights</button></a>
+                        <a href="https://www.un.org/en/about-us/universal-declaration-of-human-rights"
+                            class="Poppins"><button class="detail-btn">Our 30+ Rights</button></a>
                     </div>
                 </div>
             </div>
@@ -365,9 +428,16 @@
                 <p> 8. We Submit these Facts to a Candid World.</p>
             </div>
         </div>
+        <div class="script-text pt-3">
+            <h5 class="Script">#We Know #We Grow</h5>
+        </div>
+    </div>
+</section>
+<section class="platform-sec second-platform">
+    <div class="container">
         <div class="col-md-12">
             <div class="platform-title pt-4">
-                <h1>The Peoples Rights Platform</h1>
+                <h1>The People’s Rights Platform</h1>
             </div>
             <div class="about-platfrm">
                 <p>It is impossible for Crime Victims of U.S. Government Crimes to seek remedy alone. The only
@@ -390,8 +460,8 @@
                 </p>
                 <p> 6. We the People must demand that international agencies including the U.N. Human Rights
                     Council, the U.N. Security Council, the International Criminal Court and NATO comply with their own
-                    Charters and Conventions
-                    and enact effective enforcement provisions to ensure compliance by their member states.
+                    Charters and Conventions; repeal and nullify all provisions therein that strip our Unalienable
+                    Rights; and enact effective enforcement provisions to ensure compliance by their member states.
                 </p>
             </div>
         </div>
@@ -404,9 +474,9 @@
     <div class="container">
         <div class="government-head">
             <h1 class="mb-3">The U.S. is at War Against Humanity</h1>
-            <h1>The Human, Sex Traffic and Genocide Regime by the U.S.
+            <!-- <h1>The Human, Sex Traffic and Genocide Regime by the U.S.
                 Government Against the U.S. and World Population
-            </h1>
+            </h1> -->
         </div>
         <div class="row">
             <div class="col-md-9">
@@ -494,9 +564,21 @@
                 </p>
             </div>
         </div>
+        <div class="script-text pt-3">
+            <h5 class="Script">#We Know #We Grow</h5>
+        </div>
+    </div>
+</section>
+<div class="government-sec second-goverment">
+    <div class="container">
         <div class="col-md-12 p-0">
+            <div class="government-head">
+                <h1 class="mb-3">The Genocide and Human and Sex Traffic Regimes<br />
+                    Perpetrated by the U.S. Government Against the U.S. and World Population
+                </h1>
+            </div>
             <div class="government-title">
-                <h1 class="m-0"> A.The U.S. guardian genocide regime</h1>
+                <h1 class="m-0">A.The U.S. Guardian Genocide Regime</h1>
             </div>
             <div class="about-government">
                 <p>The U.S. Government Kidnaps, Enslaves, Traffics, Tortures and Murders vulnerable adults and
@@ -509,10 +591,10 @@
             </div>
         </div>
         <div class="government-title pt-0">
-            <h1> B. The U.S. child sec/human trafficking regime</h1>
+            <h1>B. The U.S. Child Sex/Human Trafficking Regime</h1>
         </div>
         <div class="row">
-            <div class="col-md-9">
+            <div class="col-md-12">
                 <div class="about-government">
                     <p>As done in the U.S. Guardian Genocide Regime, the U.S. Child Sex/Human Trafficking Regime
                         Kidnaps, Enslaves, Traffics, Tortures and Murders vulnerable children in this terrorist
@@ -521,7 +603,7 @@
                     </p>
                 </div>
                 <div class="government-title blackmail">
-                    <h1 class="mb-0">C. Reverse blackmail schemes</h1>
+                    <h1 class="mb-0">C. Reverse Blackmail Schemes</h1>
                     <div class="about-government">
                         <p>The U.S Guardian and Child Trafficking Rackets run a “reverse blackmail scheme” symbiotic
                             to
@@ -537,11 +619,11 @@
                     <h1 class="mb-0">D. The faces of the trafficking regimes</h1>
                 </div>
             </div>
-            <div class="col-md-3 scheme">
+            <!-- <div class="col-md-3 scheme">
                 <div class="scheme-imgbox">
                     <img src="img/image104.png" alt="" class="img-fluid">
                 </div>
-            </div>
+            </div> -->
         </div>
         <div class="row">
             <div class="col-lg-3 col-md-6">
@@ -566,11 +648,14 @@
             </div>
         </div>
         <div class="government-text">
-            <p>a U.S. Holocaust that is </p>
-            <p>undoubtedly the most evil and barbaric </p>
-            <p>Crime Syndicate in history</p>
-            <p>Sanctioned, Sponsored and Funded by all branches </p>
-            <p>and at all levels of U. S. Government</p>
+            <p>
+                The U.S. Genocide and Trafficking Regimes<br />
+                A U.S. Holocaust that is<br />
+                Undoubtedly the most Evil and Barbaric<br />
+                Crime Syndicate in History<br />
+                Sanctioned, Sponsored and Funded by All Branches<br />
+                and at all levels of U. S. government
+            </p>
         </div>
         <div class="government-title blackmail">
             <h1 class="m-0">Childern and parents are<br /> kidnapped and stolen at gunpoint by traffickers</h1>
@@ -638,12 +723,43 @@
                 </div>
             </div>
         </div>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="book-box">
+                    <fieldset><img src="img/book1.jpg" alt="" class="img-fluid"></fieldset>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="book-box">
+                    <fieldset><img src="img/book2.png" alt="" class="img-fluid"></fieldset>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="book-box">
+                    <fieldset><img src="img/book3.jpg" alt="" class="img-fluid"></fieldset>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="book-box">
+                    <fieldset><img src="img/book4.jpg" alt="" class="img-fluid"></fieldset>
+                </div>
+            </div>
+        </div>
+        <div class="link mb-3 text-center">
+            <a href="#">
+                See Part Two of the ICC Complaint<br />
+                for a complete description of the<br />
+                U.S. Guardian Genocide Regime and U.S. Child Trafficking Regime.<br />
+            </a>
+        </div>
+        <div class="centered-img">
+            <figure><img src="img/decleration.jpg" alt="" class="img-fluid"></figure>
+        </div>
         <div class="script-text pt-3">
             <h5 class="Script">#We Know #We Grow</h5>
         </div>
     </div>
-
-</section>
+</div>
 <section class="informative-sec pt-5">
     <div class="container">
         <div class="a-talking-head">
@@ -692,7 +808,9 @@
                     arm, the “law enforcement agencies.”</p>
                 <p>When Family Members first become a Crime Victim, they are unaware the U.S. Guardian Genocide
                     Racket and Child Sex/Human Trafficking Racket are deliberate systemic Atrocity Crimes.
-                    As they wade through a deliberate minefield of obstacles,cover up,retaliation and escalated attacks, they realize they are embroiled in anorganized crime syndicate and cover up web and any attempt at remedy is futile as the U.S. is perpetrating a War against Humanity.</p>
+                    As they wade through a deliberate minefield of obstacles,cover up,retaliation and escalated attacks,
+                    they realize they are embroiled in anorganized crime syndicate and cover up web and any attempt at
+                    remedy is futile as the U.S. is perpetrating a War against Humanity.</p>
             </div>
             <div class="a-talking-head">
                 <h2>B. Conglomerate of Rackets</h2>
@@ -774,7 +892,7 @@
                 <h1>Our International Criminal Court Complaint</h1>
             </div>
             <div class="about-criminal">
-                <p>We are MILLIONS of families all over the U.S. and the world whose parents, children and spouses
+                <p>There are MILLIONS of families all over the U.S. and the world whose parents, children and spouses
                     are
                     stolen, kidnapped, trafficked and murdered by predators and grifters paid by and under the
                     “auspices” of the government, using Nuremberg “rights - raping” pronouncements in the guise of
@@ -782,9 +900,10 @@
                     away
                     from their family and the world in order to operate a profiteering slave trade industry using
                     its
-                    citizens, residents and the entire world population in order to steal their assets in secret.
+                    citizens, residents and the entire world population in order to steal their assets in secret using
+                    false laws and false courts.
                 </p>
-                <p>The U.S. Guardian Genocide Regime is used to run a human trafficking fabricated “court
+                <!-- <p>The U.S. Guardian Genocide Regime is used to run a human trafficking fabricated “court
                     proceeding” to
                     embezzle their homes, cars, heirlooms, investments, pension funds, Medicare, life insurance,
                     401k
@@ -794,6 +913,8 @@
                 <p>The U.S. Child Trafficking Regime is used to pay predators and sex traffickers to steal children
                     in
                     order to extort their parents and families in a human trafficking fabricated “court proceeding.
+                 -->
+                <p>
                     The
                     deadly, systemic Genocide, Trafficking organized crime syndicates are a U.S. Holocaust no
                     different
@@ -1073,34 +1194,36 @@
                 <div class="about-Government-Employees">
                     <p>We are in a COLD WAR. Not with a foreign government but with the U.S. government that is waging
                         war against WE THE PEOPLE, its rightful masters . Our government has become a crime
-                        syndicate of Kakistocrats and Kleptocrats. The monumental debauchery,
+                        syndicate of Kakistocrats and Kleptocrats who are running our country. The monumental
+                        debauchery,
                         depravity, and sadistic deception by the U.S. government masquerading as free world nation
                         is
                         more terrifying than that of the worst 3rd world countries.</p>
                 </div>
                 <div class="about-Employees">
-                    <p>1 Kakistocracy: (/kæki'stɒkrəsi/, /kækis'tɒkrəsi/) a government run by the worst, least
+                    <p>Kakistocracy: (/kæki'stɒkrəsi/, /kækis'tɒkrəsi/) a government run by the worst, least
                         qualified, or most
                         unscrupulous citizens. As far back as 1877, American poet James Russell Lowell used the term in
                         a letter to Joel Benton, writing, "What fills me with doubt and dismay is the degradation of the
                         moral tone. Is it or is it not a result of Democracy? Is ours a 'government of the people by the
                         people for the people,' or a Kakistocracy rather, for the benefit of knaves at the cost of
                         fools?"</p>
-                    <a href="#">https://en.wikipedia.org/wiki/Kakistocracy </a>
+                    <a href="https://en.wikipedia.org/wiki/Kakistocracy">https://en.wikipedia.org/wiki/Kakistocracy </a>
                 </div>
                 <div class="about-Employees">
-                    <p>2 Kleptocracy: Kleptocracy (from Greek κλέπτης kléptēs, "thief", κλέπτω kléptō, "I steal", and
+                    <p>Kleptocracy: Kleptocracy (from Greek κλέπτης kléptēs, "thief", κλέπτω kléptō, "I steal", and
                         -κρατία -kratía from κράτος krátos, "power, rule") is a government whose corrupt leaders
                         (kleptocrats) use political power to appropriate the wealth of their nation, typically by
                         embezzling or misappropriating government funds at the expense of the wider population.
                         Theocracy means literally the rule by thievery and is a term used synonymously to kleptocracy.
                     </p>
-                    <a href="#">https://en.wikipedia.org/wiki/Kleptocracy</a>
+                    <a href="https://en.wikipedia.org/wiki/Kleptocracy">https://en.wikipedia.org/wiki/Kleptocracy</a>
                 </div>
                 <div class="Employees">
                     <p>U.S. Government Employees self-benefit, abuse their power, act above the law, use taxpayer
                         appointments to strip/rape citizens of their rights, assets, liberty and lives and destroy
-                        anyone who interferes with their well-oiled thievery, trafficking, murder-for-hire and money laundering. </p>
+                        anyone who interferes with their well-oiled thievery, trafficking, murder-for-hire and money
+                        laundering. </p>
                     <p class="conspiracy">All government branches act in conspiracy</p>
                 </div>
                 <div class="Court-Criminals">
@@ -1108,14 +1231,18 @@
                         for its failure to ratify most major multilateral human rights treaties and conventions.
                     </p>
                     <p>To blackmail its citizens into silence, color of law “legislators” enacted the monster of
-                        all terror, blackmail and stalking threats using a “protection sounding name” i.e the “Patriot Act,” to pretend to legitimize its crimes and extort the public
+                        all terror, blackmail and stalking threats using a “protection sounding name” i.e the “Patriot
+                        Act,” to pretend to legitimize its crimes and extort the public
                         from reporting them. </p>
                     <p>The Supreme Court purports to “legitimize” corruption. </p>
                     <p>The cold war RAGING between the American people and Government is so dangerous, it is
                         even sometimes leaked by the corrupt media and explosively exposed by those in its
                         inner sanctum and prominent public influencers</p>
+                    <div class="link text-center my-3">
+                        <a href="#">Explosive Exposure</a>
+                    </div>
                 </div>
-                <div class="about-Employees">
+                <!-- <div class="about-Employees">
                     <p>1. Constitutional attorney John W. Whitehead, president of The Rutherford Institute: “We
                         have
                         let government's evil-doing, abuses, power grabs, brutality, meanness, inhumanity,
@@ -1175,7 +1302,7 @@
                             descended into madness, kleptocracy (rule by thieves) and kakistocracy (rule by the
                             worst, most unscrupulous and least qualified career politicians).” </p>
                     </div>
-                </div>
+                </div> -->
             </div>
             <div class="col-md-3">
                 <div class="Employees-img1">
@@ -1233,8 +1360,8 @@
             </div>
             <div class="col-lg-6">
                 <div class="secure">
-                    <h1>WAKE UP AMERICA
-                        UNITE, RECLAIM AND SECURE
+                    <h1>WAKE UP AMERICA<br />
+                        UNITE, RECLAIM AND SECURE<br />
                         YOUR POWER AND RIGHTS</h1>
 
                     <div class="secure-btn">
@@ -1280,7 +1407,9 @@
                     “repeated injuries and usurpations all having in direct object the establishment of an absolute
                     Tyranny over these States” so too do we.
                 </p>
-                <a href="https://www.peoplesrightsforum.com/">Injuries and Usurpations</a>
+                <div class="link my-3 text-center">
+                    <a href="https://www.peoplesrightsforum.com/">Injuries and Usurpations</a>
+                </div>
                 <div class="script-text">
                     <h5 class="Script">#We Know #We Grow</h5>
                 </div>
@@ -1381,13 +1510,11 @@
                     <h3>The Past</h3>
                 </div>
                 <div class="about-right">
-                    <p>An Archaic, Repressive, Slave-Driven, Illegitimate Government(insert link to Injuriesand
-                        Usurpations)(insert link toIntolerable Acts)</p>
+                    <p>An Archaic, Repressive, Slave-Driven, Illegitimate Government</p>
                 </div>
                 <div class="about-right">
                     <p>The Unconstitutional Constitution created exclusively by White Men, many who were Slave
-                        Owners to protect their Elitist Status, not the rights of the People(insert link to
-                        Unconstitutional Constitution)</p>
+                        Owners to protect their Elitist Status, not the rights of the People</p>
                 </div>
             </div>
             <div class="col-md-4">
@@ -1395,12 +1522,10 @@
                     <h3>The Present</h3>
                 </div>
                 <div class="about-right">
-                    <p>The Adult and Child Trafficking Racket(Insert link to Adult and Child Trafficking Racket)</p>
+                    <p>The Adult and Child Trafficking Racket</p>
                 </div>
                 <div class="about-right">
-                    <p>The Inextricably Intertwined Rackets
-                        (insert link to Inextricably
-                        Intertwined Rackets)</p>
+                    <p>The Inextricably Intertwined Rackets</p>
                 </div>
             </div>
             <div class="col-md-4">
@@ -1412,8 +1537,7 @@
                         We the People</p>
                 </div>
                 <div class="about-right">
-                    <p>Affirmation of Our Bountiful Rights set forth in the U.N. International Bill of Rights(Insert
-                        Link to International Bill of Rights)</p>
+                    <p>Affirmation of Our Bountiful Rights set forth in the U.N. International Bill of Rights</p>
                 </div>
             </div>
         </div>
