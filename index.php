@@ -41,7 +41,7 @@
         <div class="row">
             <div class="col-lg-8">
                 <div class="content-wrapper">
-                    <h2>MEET BARBARA</h2>
+                    <h2>Meet Barbara</h2>
                     <p>
                         Hello America and World – my name is Barbara Stone.<br />
                         I have announced my candidacy for President of the U.S. I am choosing to run for President as I
@@ -123,12 +123,10 @@
             <div class="col-md-6">
 
                 <div class="detail-text">
-                    <span class="right">Our Rights are </span> <span class="Fundamental">Fundamental,</span> <span
-                        class="Inherent">Inherent,</span>
+                    <span class="right">Our Rights are </span> <span class="Fundamental">Fundamental,</span> <span class="Inherent">Inherent,</span>
                     <span class="Unalienable">Unalienable,</span>
                     <span class="Indivisible">,</span> <span class="Innate">Innate,</span>
-                    <span class="Natural">Natural,</span> <span class="Equal">Equal</span> <span
-                        class="right">and</span> <span class="Universal">Universal. </span>
+                    <span class="Natural">Natural,</span> <span class="Equal">Equal</span> <span class="right">and</span> <span class="Universal">Universal. </span>
                     <p> They are OWNED by us by virtue of our Birth and Humanity and because WE EXIST as human
                         beings.
                     <p> Our Rights are Unalienable and are endowed by the Creator under the Declaration of
@@ -151,8 +149,7 @@
                         have 30 + Unalienable Bountiful Birthrights enumerated in an International Bill of Rights
                         enacted by the United Nations </p>
                     <div class="Birthrights-btn">
-                        <a href="https://www.un.org/en/about-us/universal-declaration-of-human-rights"
-                            class="Poppins"><button class="detail-btn">Our 30+ Rights</button></a>
+                        <a href="https://www.un.org/en/about-us/universal-declaration-of-human-rights" class="Poppins"><button class="detail-btn">Our 30+ Rights</button></a>
                     </div>
                 </div>
             </div>
@@ -443,22 +440,22 @@
                 <p>It is impossible for Crime Victims of U.S. Government Crimes to seek remedy alone. The only
                     result is further retaliation and more entrenched corruption by enactment of additional illegal,
                     unconstitutional laws to cover up loopholes.
-                    We the People must unite to reclaim our rights and inherent dignity for our generation and our
-                    children to thrive and prosper. We the People, ourselves, are the only ones who can make this
+                    We the People’s must unite to reclaim our rights and inherent dignity for our generation and our
+                    children to thrive and prosper. We the People’s, ourselves, are the only ones who can make this
                     happen.
 
-                <p> 1. We the People must come together to take action to emerge into the next millennium with our
+                <p> 1. We the People’s must come together to take action to emerge into the next millennium with our
                     rights, freedoms and inherent dignity.</p>
-                <p> 2. We the People must set aside the “U.S. Injustice System” and establish a legitimate “U.S.
+                <p> 2. We the People’s must set aside the “U.S. Injustice System” and establish a legitimate “U.S.
                     Justice System.”</p>
-                <p> 3. We the People must become the principal and guiding power of our newly instituted government.
+                <p> 3. We the People’s must become the principal and guiding power of our newly instituted government.
                 </p>
-                <p> 4. We the People must lay its foundation on the principles and organize its powers in such form
+                <p> 4. We the People’s must lay its foundation on the principles and organize its powers in such form
                     as shall seem most likely to effort our Safety and Happiness.</p>
-                <p> 5. We the People must adopt and ratify the international, universal laws of the United Nations to
+                <p> 5. We the People’s must adopt and ratify the international, universal laws of the United Nations to
                     become a true international leader, to lead the world by actions, not by hypocrisy.
                 </p>
-                <p> 6. We the People must demand that international agencies including the U.N. Human Rights
+                <p> 6. We the People’s must demand that international agencies including the U.N. Human Rights
                     Council, the U.N. Security Council, the International Criminal Court and NATO comply with their own
                     Charters and Conventions; repeal and nullify all provisions therein that strip our Unalienable
                     Rights; and enact effective enforcement provisions to ensure compliance by their member states.
