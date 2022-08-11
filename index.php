@@ -1204,17 +1204,15 @@
                         a letter to Joel Benton, writing, "What fills me with doubt and dismay is the degradation of the
                         moral tone. Is it or is it not a result of Democracy? Is ours a 'government of the people by the
                         people for the people,' or a Kakistocracy rather, for the benefit of knaves at the cost of
-                        fools?"</p>
-                    <a href="https://en.wikipedia.org/wiki/Kakistocracy">https://en.wikipedia.org/wiki/Kakistocracy </a>
+                        fools?" <a href="https://en.wikipedia.org/wiki/Kakistocracy">https://en.wikipedia.org/wiki/Kakistocracy </a></p>
                 </div>
                 <div class="about-Employees">
                     <p>Kleptocracy: Kleptocracy (from Greek κλέπτης kléptēs, "thief", κλέπτω kléptō, "I steal", and
                         -κρατία -kratía from κράτος krátos, "power, rule") is a government whose corrupt leaders
                         (kleptocrats) use political power to appropriate the wealth of their nation, typically by
                         embezzling or misappropriating government funds at the expense of the wider population.
-                        Theocracy means literally the rule by thievery and is a term used synonymously to kleptocracy.
+                        Theocracy means literally the rule by thievery and is a term used synonymously to kleptocracy. <a href="https://en.wikipedia.org/wiki/Kleptocracy">https://en.wikipedia.org/wiki/Kleptocracy</a>
                     </p>
-                    <a href="https://en.wikipedia.org/wiki/Kleptocracy">https://en.wikipedia.org/wiki/Kleptocracy</a>
                 </div>
                 <div class="Employees">
                     <p>U.S. Government Employees self-benefit, abuse their power, act above the law, use taxpayer
