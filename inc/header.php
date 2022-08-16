@@ -6,7 +6,7 @@
                     <div class="col-md-3 p-0 logo">
                         <div class="logo-img">
                             <a href="index.php">
-                                <img src="img/group30.png" alt="" class="img-fluid">
+                                <img src="img/president-logo.png" alt="" class="img-fluid mt-2">
                             </a>
                         </div>
                     </div>
@@ -67,7 +67,7 @@
             </div>
             <div class="col-md-3 p-0">
                 <div class="president-logo">
-                    <figure><a href="index.php"><img src="img/president-logo.png" alt="" class="img-fluid"></a></figure>
+                    <figure><a href="index.php"><img src="img/group30.png" alt="" class="img-fluid"></a></figure>
                 </div>
             </div>
         </div>
