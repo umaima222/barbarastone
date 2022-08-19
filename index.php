@@ -767,8 +767,8 @@
                 <h1 class="mb-3">The U.S. Government is a Conglomerate<br /> of Inextricably
                     Intertwined Rackets
                 </h1>
-                <h3>A. Inextricably Intertwined Rackets Derived from the </h3>
-                <h3> U.S. Guardian and Child Trafficking Rackets</h3>
+                <h3>A. Attacks against Family Members </h3>
+                <!-- <h3> U.S. Guardian and Child Trafficking Rackets</h3> -->
             </div>.
             <div class="newsss">
                 <div class="News-you-can-use">
