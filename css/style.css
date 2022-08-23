@@ -151,8 +151,9 @@ header {
 
 #nav .hover-class ul {
 	display: none;
-	width: 230px;
+	width: 255px;
 	background: #f7f2df;
+	height: 255px;
 }
 
 #nav .hover-class:hover ul {
@@ -661,7 +662,9 @@ p {
 	font-family: "Poppinsbold";
 	margin: 0;
 }
-
+.holo-img {
+	height: 260px;
+}
 /*.placeimg-container {*/
 /*  margin-left: 70px;*/
 /*}*/
@@ -1070,7 +1073,12 @@ h3 {
 
 .script-text {
 	text-align: center;
-	padding: 20px 0 20px;
+	padding: 20px 0 30px;
+	margin-top: 12px
+}
+.faces-img img {
+	height: 250px;
+	width: 100%;
 }
 .about-criminal p {
 	font-size: 17px;

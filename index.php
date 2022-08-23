@@ -85,9 +85,9 @@
                 <div class="col-md-12">
                     <div class="centered">
                         <h4 class="text-left">THIS IS A CALL TO ACTION - WAKE UP AMERICA -WAKE UP WORLD. </h4>
-                        <p  class="text-left">We own our rights. There is nothing more important than reclaiming and protecting our rights.<br>
+                        <p  class="text-left">We own our rights. There is nothing more important than Reclaiming and Protecting our Rights.<br>
                             Please
-                            support me in this platform to reclaim and protect our Unalienable Rights.</p>
+                            support me in this platform to Reclaim and Protect our Unalienable Rights.</p>
                         <p class="text-center">f. The links to the zoom and to the podcast were removed... they should be reinserted before the link to Meet Barbara as follows:</p>
                         <div class="text-left">
                             <a class="text-left" target="_blank" href="https://www.buzzsprout.com/1364944/11077228">Barbara’s Presidential announcement by podcast</a><br>
@@ -492,33 +492,50 @@
                         <p>
                             Nuremberg laws are illegal, unlawful, null so called “laws” devised by color of law, imposter
                             government employees to strip the People of their rights and misuse, abuse, weaponize and
-                            criminalize the laws against them order to illegal seize and steal their rights, assets and
+                            criminalize the laws against them order to seize and steal their rights, assets and
                             liberty.
                         </p>
                         <p>
-                            No one in the World is Immune. Members of the Pritzker andDisney families, Britney Spears, beloved, iconic artist Peter Max,Mrs. Vincent Astor and other prominent philanthropists andcelebrities have been seized, embezzled and murdered in this racket.
+                            No one in the World is Immune. Members of the Pritzker and Disney families, Britney Spears, beloved, iconic artist Peter Max, Mrs.Vincent Astor and other prominent philanthropists and celebrities have been seized, embezzled and murdered in this racket.
                         </p>
                         <p class="work">All three branches of government work in collusion:</p>
                         <p>1. U.S. legislative government employees use false, devious “protection sounding names” such
-                            as “guardianship” “conservatorship” and “child protection” to enact and mask theirillegal Nuremberg Laws.
+                            as “guardianship” “conservatorship” and “child protection” to enact and mask their illegal Nuremberg Laws.
                         </p>
                         <p>2. U.S. executive government employees - the President and his cabinet and State Governors
                             illegally “adopt” these illegal, void, “Human Trafficking/Nuremberg Laws” using the People
-                            to profit from slavery and  steal taxpayer funds to incentive, “certify” and fund third partygrafter vendors who use such “protection sounding names” as“Adult Protection Services” and “Child Protection Services”“Guardians” and “Conservators” to kidnap, sale, barter andtraffic our children and parents.
+                            to profit from slavery and  steal taxpayer funds to incentivize, “certify” and fund third party grafter vendors who use such “protection sounding names” as“Adult Protection Services” and “Child Protection Services”“Guardians” and “Conservators” to kidnap, sale, barter and traffic our children and parents.
                         </p>
-                        <p>3. U.S. judicial government employees use taxpayer courts to run a human trafficking crime syndicate using
-                            these illegal Nuremberg Laws to perpetrate felony crimes including Murder, Murder for Hire,
-                            human trafficking, kidnapping, conspiracy, theft, extortion and blackmail. Government
-                            Grifter Insiders, many with criminal records are paid to steal, fence and money launder the
-                            homes and possessions of American families and the world population, then Murder them by
-                            toxic chemical restraints. Insert Link to Appendix of Crimes.
+                        <p>3. U.S. judicial government employees use taxpayer courts to run a human trafficking crime syndicate.
 
                         </p>
                         <p>Federal and state “law enforcement agencies” act as the “Protection Arm” for these Crime
                             Syndicates.</p>
-                        <p>These Crimes constitute the most egregious felony crimes underU.S. Laws including Murder, Murder for Hire, human trafficking,kidnapping, conspiracy, theft, extortion and blackmail. GovernmentGrifter Insiders, many with criminal records are paid to steal, fenceand money launder the homes and possessions of American familiesand the world population, then Murder them by toxic chemicalrestraints. These Crimes include “Deprivation of Rights UnderColor of Law” in criminal violation of Federal law 18 U.S.C. § 242.The criminal penalties include life imprisonment and the death sentence.
+                        <p>These Crimes constitute the most egregious felony crimes under U.S. Laws including Murder, Murder for Hire, human trafficking,kidnapping, conspiracy, theft, extortion and blackmail. GovernmentGrifter Insiders, many with criminal records are paid to steal, fenceand money launder the homes and possessions of American familiesand the world population, then Murder them by toxic chemicalrestraints. These Crimes include “Deprivation of Rights Under Color of Law” in criminal violation of Federal law 18 U.S.C. § 242.The criminal penalties include life imprisonment and the death sentence.
                         </p>
+                       <h5>Appendix of U.S. Crimes:</h5>
+                        <p style="margin-top: -15px">These Crimes constitute “Atrocity Crimes” the most heinous atrocitiesunder International Laws. Atrocity Crimes include four categories ofCrimes:  Genocide, Crimes against Humanity, War Crimes and Crimesof Aggression.  Pillaging is a war crime under the Geneva Convention.The Atrocity Crimes are described in the ICC Claim.</p>
                     </div>
+
+                        <div class="about-government">
+                            <p>This deadly racket is no different than the Nazi Holocaust. People are rounded up under auspices
+                                of the state, their assets stolen and they are murdered by chemical restraints. In fact, it is
+                                far more diabolical as it is perpetrated by the U.S. Government that falsely positions itself as
+                                a “Human Rights Protector” when it has failed to sign most of the core International Human
+                                Rights Treaties.
+                            </p>
+                            <!--                    <p>These Crimes constitute “Deprivation of Rights Under Color of Law” in criminal violation of-->
+                            <!--                        Federal law 18 U.S.C. § 242. The criminal penalties include life imprisonment and the death-->
+                            <!--                        sentence.-->
+                            <!--                    </p>-->
+                            <p>We make testament to this U.S. Holocaust just as those who escaped the Nazi Holocaust.</p>
+                            <img class="img-fluid d-block ml-auto mr-auto holo-img" src="img/holo.png">
+                            <!--                    <p>No one in the World is Immune. Members of the Pritzker and Disney families, Britney Spears,-->
+                            <!--                        beloved, iconic artist Peter Max, Mrs. Vincent Astor and other prominent philanthropists and-->
+                            <!--                        celebrities have been captured, embezzled and murdered in this racket.-->
+                            <!--                    </p>-->
+                        </div>
+
                 </div>
                 <div class="col-md-3">
                     <div class="col-md-12">
@@ -539,32 +556,16 @@
                         <div class="government-place">
                             <div class="government-imgbox">
                                 <img src="img/sec8-3.png" alt="" class="img-fluid">
+                                <img src="img/humain-trafficking.png" alt="" class="img-fluid mt-5">
+                                <img src="img/humain-trafficking1.png" alt="" class="img-fluid mt-5">
+                                <img src="img/history-channel.jpg" alt="" class="img-fluid mt-5">
                             </div>
 
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-md-12 p-0">
-                <div class="about-government">
-                    <p>This deadly racket is no different than the Nazi Holocaust. People are rounded up under auspices
-                        of the state, their assets stolen and they are murdered by chemical restraints. In fact, it is
-                        far more diabolical as it is perpetrated by the U.S. Government that falsely positions itself as
-                        a “Human Rights Protector” when it has failed to sign most of the core International Human
-                        Rights Treaties.
-                    </p>
-                    <p>These Crimes constitute “Deprivation of Rights Under Color of Law” in criminal violation of
-                        Federal law 18 U.S.C. § 242. The criminal penalties include life imprisonment and the death
-                        sentence.
-                    </p>
-                    <p>We make testament to this U.S. Holocaust just as those who escaped the Nazi Holocaust.
-                    </p>
-                    <p>No one in the World is Immune. Members of the Pritzker and Disney families, Britney Spears,
-                        beloved, iconic artist Peter Max, Mrs. Vincent Astor and other prominent philanthropists and
-                        celebrities have been captured, embezzled and murdered in this racket.
-                    </p>
-                </div>
-            </div>
+
             <div class="script-text pt-3">
                 <h5 class="Script">#We Know #We Grow</h5>
             </div>
@@ -626,28 +627,7 @@
                     </div>
                 </div> -->
             </div>
-            <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <div class="faces-img">
-                        <figure><img src="img/face1.jpg" alt="" class="img-fluid"></figure>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="faces-img">
-                        <figure><img src="img/face2.jpg" alt="" class="img-fluid"></figure>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="faces-img">
-                        <figure><img src="img/face3.png" alt="" class="img-fluid"></figure>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="faces-img">
-                        <figure><img src="img/face4.jpg" alt="" class="img-fluid"></figure>
-                    </div>
-                </div>
-            </div>
+
             <div class="government-text">
                 <p>
                     The U.S. Genocide and Trafficking Regimes<br />
@@ -657,93 +637,11 @@
                     Sanctioned, Sponsored and Funded by All Branches<br />
                     and at all levels of U. S. government
                 </p>
-            </div>
-            <div class="government-title blackmail">
-                <h1 class="m-0">Childern and parents are<br /> kidnapped and stolen at gunpoint by traffickers</h1>
-            </div>
-            <div class="button-group text-center">
-                <a class="mr-3" href="https://tinyurl.com/DontTakeChild">https://tinyurl.com/DontTakeChild</a>
-                <a href="https://tinyurl.com/RobinsonVid">https://tinyurl.com/RobinsonVid</a>
-            </div>
-            <div class="kidnapped-sec mt-4">
-                <div class="government-title blackmail">
-                    <h1 class="m-0">Childern, mothers and fathers are<br />
-                        beaten, drugged, tortured, starved and murdered
-                    </h1>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="kidnaped-img">
-                            <figure><img src="img/kidnapped1.png" class="img-fluid"></figure>
-                            <h4>Mrs. Ana Daniel
-                                Beaten, Bloodied and Tortured in Guardianship
-                            </h4>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="kidnaped-img">
-                            <figure><img src="img/kidnapped2.jpg" class="img-fluid"></figure>
-                            <h4>Mrs. Marjorie Fister
-                                Beaten, Bloodied, Tortured, Starved
-                                and Murdered In Guardianship
-                            </h4>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="kidnaped-img">
-                            <figure><img src="img/kidnapped3.png" class="img-fluid"></figure>
-                            <h4>Mr. Charles Phillip Mcanally
-                                Beaten, Bloodied, Tortured, Starved
-                                and Murdered In Guardianship
-                            </h4>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="kidnaped-img">
-                            <figure><img src="img/kidnapped4.jpg" class="img-fluid"></figure>
-                            <h4>Mrs. June Lacey
-                                MURDERED IN GUARDIANSHIP
-                            </h4>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="kidnaped-img">
-                            <figure><img src="img/kidnapped5.jpg" class="img-fluid"></figure>
-                            <h4>Mrs. Louise Zahn
-                                MURDERED IN GUARDIANSHIP
-                            </h4>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="kidnaped-img">
-                            <figure><img src="img/kidnapped6.jpg" class="img-fluid"></figure>
-                            <h4>Mr. Lester G. Moore
-                                MURDERED IN GUARDIANSHIP
-                            </h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-3">
-                    <div class="book-box">
-                        <fieldset><img src="img/book1.jpg" alt="" class="img-fluid"></fieldset>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="book-box">
-                        <fieldset><img src="img/book2.png" alt="" class="img-fluid"></fieldset>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="book-box">
-                        <fieldset><img src="img/book3.jpg" alt="" class="img-fluid"></fieldset>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="book-box">
-                        <fieldset><img src="img/book4.jpg" alt="" class="img-fluid"></fieldset>
-                    </div>
+<!--                <div class="button-group text-left mt-2">-->
+<!--                    <a href="trafficking-regimes.php" class="btn">Faces of trafficking regimes</a>-->
+<!--                </div>-->
+                <div class="read-btn">
+                    <a href="trafficking-regimes.php"><button style="width: 280px; margin-bottom: 15px">Faces of trafficking regimes</button></a>
                 </div>
             </div>
             <div class="link mb-3 text-center">
