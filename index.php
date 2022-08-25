@@ -79,21 +79,20 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="barbara-img text-right">
-                        <figure><img src="img/barbara.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/barbara.png" alt="" class="img-fluid" style="width: 100%"></figure>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="centered">
-                        <h4 class="text-left">THIS IS A CALL TO ACTION - WAKE UP AMERICA -WAKE UP WORLD. </h4>
-                        <p  class="text-left">We own our rights. There is nothing more important than Reclaiming and Protecting our Rights.<br>
+                        <h4 class="text-center">THIS IS A CALL TO ACTION - WAKE UP AMERICA -WAKE UP WORLD. </h4>
+                        <p  class="text-center">We own our rights. There is nothing more important than Reclaiming and Protecting our Rights.<br>
                             Please
                             support me in this platform to Reclaim and Protect our Unalienable Rights.</p>
-                        <p class="text-center">f. The links to the zoom and to the podcast were removed... they should be reinserted before the link to Meet Barbara as follows:</p>
-                        <div class="text-left">
+                        <div class="text-center">
                             <a class="text-left" target="_blank" href="https://www.buzzsprout.com/1364944/11077228">Barbara’s Presidential announcement by podcast</a><br>
                             <a class="text-left" target="_blank" href="https://peoplesrightsforum.com/Barbara-Stone-Announces-Candidacy-For-US-President.mp4">Barbara’s Presidential announcement by zoom video</a>
                         </div>
-                        <div class="button-group text-left mt-2">
+                        <div class="button-group text-center mt-3">
                             <a href="meet-barbara.php" class="btn">Meet Barbara</a>
                         </div>
                     </div>
@@ -1458,7 +1457,7 @@
     <section class="podcast-sec">
         <div class="container">
             <div class="postcast-heading">
-                <h1>Join Our Podcast</h1>
+                <h1>Our Podcast</h1>
             </div>
             <div class="postcst-container">
                 <div class="row podcastrow">
