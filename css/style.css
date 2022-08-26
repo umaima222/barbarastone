@@ -155,7 +155,11 @@ header {
 	background: #f7f2df;
 	height: 255px;
 }
-
+.video-section {
+	height: 368px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
 #nav .hover-class:hover ul {
 	display: block;
 }

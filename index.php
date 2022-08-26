@@ -512,28 +512,28 @@
                             Syndicates.</p>
                         <p>These Crimes constitute the most egregious felony crimes under U.S. Laws including Murder, Murder for Hire, human trafficking,kidnapping, conspiracy, theft, extortion and blackmail. GovernmentGrifter Insiders, many with criminal records are paid to steal, fenceand money launder the homes and possessions of American familiesand the world population, then Murder them by toxic chemicalrestraints. These Crimes include “Deprivation of Rights Under Color of Law” in criminal violation of Federal law 18 U.S.C. § 242.The criminal penalties include life imprisonment and the death sentence.
                         </p>
-                       <h5>Appendix of U.S. Crimes:</h5>
+                        <h5>Appendix of U.S. Crimes:</h5>
                         <p style="margin-top: -15px">These Crimes constitute “Atrocity Crimes” the most heinous atrocitiesunder International Laws. Atrocity Crimes include four categories ofCrimes:  Genocide, Crimes against Humanity, War Crimes and Crimesof Aggression.  Pillaging is a war crime under the Geneva Convention.The Atrocity Crimes are described in the ICC Claim.</p>
                     </div>
 
-                        <div class="about-government">
-                            <p>This deadly racket is no different than the Nazi Holocaust. People are rounded up under auspices
-                                of the state, their assets stolen and they are murdered by chemical restraints. In fact, it is
-                                far more diabolical as it is perpetrated by the U.S. Government that falsely positions itself as
-                                a “Human Rights Protector” when it has failed to sign most of the core International Human
-                                Rights Treaties.
-                            </p>
-                            <!--                    <p>These Crimes constitute “Deprivation of Rights Under Color of Law” in criminal violation of-->
-                            <!--                        Federal law 18 U.S.C. § 242. The criminal penalties include life imprisonment and the death-->
-                            <!--                        sentence.-->
-                            <!--                    </p>-->
-                            <p>We make testament to this U.S. Holocaust just as those who escaped the Nazi Holocaust.</p>
-                            <img class="img-fluid d-block ml-auto mr-auto holo-img" src="img/holo.png">
-                            <!--                    <p>No one in the World is Immune. Members of the Pritzker and Disney families, Britney Spears,-->
-                            <!--                        beloved, iconic artist Peter Max, Mrs. Vincent Astor and other prominent philanthropists and-->
-                            <!--                        celebrities have been captured, embezzled and murdered in this racket.-->
-                            <!--                    </p>-->
-                        </div>
+                    <div class="about-government">
+                        <p>This deadly racket is no different than the Nazi Holocaust. People are rounded up under auspices
+                            of the state, their assets stolen and they are murdered by chemical restraints. In fact, it is
+                            far more diabolical as it is perpetrated by the U.S. Government that falsely positions itself as
+                            a “Human Rights Protector” when it has failed to sign most of the core International Human
+                            Rights Treaties.
+                        </p>
+                        <!--                    <p>These Crimes constitute “Deprivation of Rights Under Color of Law” in criminal violation of-->
+                        <!--                        Federal law 18 U.S.C. § 242. The criminal penalties include life imprisonment and the death-->
+                        <!--                        sentence.-->
+                        <!--                    </p>-->
+                        <p>We make testament to this U.S. Holocaust just as those who escaped the Nazi Holocaust.</p>
+                        <img class="img-fluid d-block ml-auto mr-auto holo-img" src="img/holo.png">
+                        <!--                    <p>No one in the World is Immune. Members of the Pritzker and Disney families, Britney Spears,-->
+                        <!--                        beloved, iconic artist Peter Max, Mrs. Vincent Astor and other prominent philanthropists and-->
+                        <!--                        celebrities have been captured, embezzled and murdered in this racket.-->
+                        <!--                    </p>-->
+                    </div>
 
                 </div>
                 <div class="col-md-3">
@@ -636,9 +636,9 @@
                     Sanctioned, Sponsored and Funded by All Branches<br />
                     and at all levels of U. S. government
                 </p>
-<!--                <div class="button-group text-left mt-2">-->
-<!--                    <a href="trafficking-regimes.php" class="btn">Faces of trafficking regimes</a>-->
-<!--                </div>-->
+                <!--                <div class="button-group text-left mt-2">-->
+                <!--                    <a href="trafficking-regimes.php" class="btn">Faces of trafficking regimes</a>-->
+                <!--                </div>-->
                 <div class="read-btn">
                     <a href="trafficking-regimes.php"><button style="width: 280px; margin-bottom: 15px">Faces of trafficking regimes</button></a>
                 </div>
@@ -1618,6 +1618,39 @@
                     <div class="col-lg-1 col-md-0 col-sm-1"></div>
                 </div>
             </div>
+    </section>
+    <section class="product-sec" style="background: #fff">
+        <div class="container">
+            <div class="product-heading">
+                <h1>Our Videos</h1>
+            </div>
+            <div class="row product">
+                <div class="col-md-8">
+                    <video width="100%" controls>
+                        <source src="mov_bbb.mp4" type="video/mp4">
+                        <source src="mov_bbb.ogg" type="video/ogg">
+                        Your browser does not support HTML video.
+                    </video>
+                </div>
+                <div class="col-md-4 video-section">
+                    <video width="400" controls>
+                        <source src="mov_bbb.mp4" type="video/mp4">
+                        <source src="mov_bbb.ogg" type="video/ogg">
+                        Your browser does not support HTML video.
+                    </video>
+                    <video width="400" controls>
+                        <source src="mov_bbb.mp4" type="video/mp4">
+                        <source src="mov_bbb.ogg" type="video/ogg">
+                        Your browser does not support HTML video.
+                    </video>
+                    <video width="400" controls>
+                        <source src="mov_bbb.mp4" type="video/mp4">
+                        <source src="mov_bbb.ogg" type="video/ogg">
+                        Your browser does not support HTML video.
+                    </video>
+                </div>
+            </div>
+        </div>
     </section>
     <section class="product-sec">
         <div class="container">
