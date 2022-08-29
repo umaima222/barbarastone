@@ -79,7 +79,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="barbara-img text-right">
-                        <figure><img src="img/barbara.png" alt="" class="img-fluid" style="width: 100%"></figure>
+                        <figure><img src="img/barbara.png" alt="" class="img-fluid" ></figure>
                     </div>
                 </div>
                 <div class="col-md-12">

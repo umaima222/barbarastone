@@ -667,7 +667,8 @@ p {
 	margin: 0;
 }
 .holo-img {
-	height: 260px;
+	height: auto;
+    width: 100%;
 }
 /*.placeimg-container {*/
 /*  margin-left: 70px;*/
