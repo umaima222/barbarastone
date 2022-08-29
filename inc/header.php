@@ -27,6 +27,7 @@
                                             </li>
                                             <li><a target="_blank" href="https://drive.google.com/file/d/1rR7g5cBrq5qUVTOfZhUGS5Imue2uvI0m/view">Read
                                                     Our Press Release</a></li>
+                                            <li class="app"><a href="trafficking-regimes.php">Faces of trafficking regime</a>
                                         </ul>
                                     </li>
                                 </ul>
