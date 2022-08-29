@@ -84,7 +84,7 @@
                 </div>
                 <div class="col-md-12">
                     <div class="centered">
-                        <h4 class="text-left">THIS IS A CALL TO ACTION - WAKE UP AMERICA -WAKE UP WORLD. </h4>
+                        <h4 class="text-left">THIS IS A CALL TO ACTION - WAKE UP AMERICA -WAKE UP WORLD </h4>
                         <p  class="text-left">We own our rights. There is nothing more important than reclaiming and protecting our rights.<br>
                             Please
                             support me in this platform to reclaim and protect our Unalienable Rights.</p>
