@@ -86,7 +86,7 @@
                     <div class="centered">
 <!--                      <h4 class="text-left">THIS IS A CALL TO ACTION - WAKE UP AMERICA -WAKE UP WORLD </h4>-->
 <!--                        <p  class="text-left">We own our rights. There is nothing more important than reclaiming and protecting our rights.<br>-->
-                        <h4 class="text-center">THIS IS A CALL TO ACTION - WAKE UP AMERICA -WAKE UP WORLD. </h4>
+                        <h4 class="text-center">THIS IS A CALL TO ACTION - WAKE UP AMERICA -WAKE UP WORLD </h4>
                         <p  class="text-center">We own our rights. There is nothing more important than Reclaiming and Protecting our Rights.<br>
                             Please
                             support me in this platform to Reclaim and Protect our Unalienable Rights.</p>
@@ -515,7 +515,7 @@
                         <p>These Crimes constitute the most egregious felony crimes under U.S. Laws including Murder, Murder for Hire, human trafficking,kidnapping, conspiracy, theft, extortion and blackmail. GovernmentGrifter Insiders, many with criminal records are paid to steal, fenceand money launder the homes and possessions of American familiesand the world population, then Murder them by toxic chemicalrestraints. These Crimes include “Deprivation of Rights Under Color of Law” in criminal violation of Federal law 18 U.S.C. § 242.The criminal penalties include life imprisonment and the death sentence.
                         </p>
                         <h5>Appendix of U.S. Crimes:</h5>
-                        <p style="margin-top: -15px">These Crimes constitute “Atrocity Crimes” the most heinous atrocitiesunder International Laws. Atrocity Crimes include four categories ofCrimes:  Genocide, Crimes against Humanity, War Crimes and Crimesof Aggression.  Pillaging is a war crime under the Geneva Convention.The Atrocity Crimes are described in the ICC Claim.</p>
+                        <p style="margin-top: -15px">These Crimes constitute “Atrocity Crimes” the most heinous atrocitiesunder International Laws. Atrocity Crimes include four categories of Crimes:  Genocide, Crimes against Humanity, War Crimes and Crimes of Aggression. Pillaging is a war crime under the Geneva Convention.The Atrocity Crimes are described in the ICC Claim.</p>
                     </div>
 
                     <div class="about-government">
