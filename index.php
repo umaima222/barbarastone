@@ -515,7 +515,7 @@
                         <p>These Crimes constitute the most egregious felony crimes under U.S. Laws including Murder, Murder for Hire, human trafficking,kidnapping, conspiracy, theft, extortion and blackmail. GovernmentGrifter Insiders, many with criminal records are paid to steal, fenceand money launder the homes and possessions of American familiesand the world population, then Murder them by toxic chemicalrestraints. These Crimes include “Deprivation of Rights Under Color of Law” in criminal violation of Federal law 18 U.S.C. § 242.The criminal penalties include life imprisonment and the death sentence.
                         </p>
                         <h5>Appendix of U.S. Crimes:</h5>
-                        <p style="margin-top: -15px">These Crimes constitute “Atrocity Crimes” the most heinous atrocitiesunder International Laws. Atrocity Crimes include four categories of Crimes:  Genocide, Crimes against Humanity, War Crimes and Crimes of Aggression. Pillaging is a war crime under the Geneva Convention.The Atrocity Crimes are described in the ICC Claim.</p>
+                        <p style="margin-top: -15px">These Crimes constitute “Atrocity Crimes” the most heinous atrocities under International Laws. Atrocity Crimes include four categories of Crimes:  Genocide, Crimes against Humanity, War Crimes and Crimes of Aggression. Pillaging is a war crime under the Geneva Convention.The Atrocity Crimes are described in the ICC Claim.</p>
                     </div>
 
                     <div class="about-government">
