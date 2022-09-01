@@ -557,9 +557,9 @@
                     <div class="government-place">
                         <div class="government-imgbox">
                             <img src="img/sec8-3.png" alt="" class="img-fluid">
-                            <img src="img/humain-trafficking.png" alt="" class="img-fluid mt-5">
-                            <img src="img/humain-trafficking1.png" alt="" class="img-fluid mt-5">
-                            <img src="img/history-channel.jpg" alt="" class="img-fluid mt-5">
+                            <img src="img/humain-trafficking.png" alt="" class="img-fluid mt-4">
+                            <img src="img/humain-trafficking1.png" alt="" class="img-fluid mt-4">
+                            <img src="img/history-channel.jpg" alt="" class="img-fluid mt-4">
                         </div>
 
                     </div>
