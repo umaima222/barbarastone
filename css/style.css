@@ -156,9 +156,12 @@ header {
 	height: 255px;
 }
 .video-section {
-	height: 368px;
+	height: 427px;
 	overflow-y: scroll;
 	overflow-x: hidden;
+}
+.video-section::-webkit-scrollbar {
+	width: 0em;
 }
 #nav .hover-class:hover ul {
 	display: block;
@@ -668,7 +671,7 @@ p {
 }
 .holo-img {
 	height: auto;
-    width: 100%;
+	width: 100%;
 }
 /*.placeimg-container {*/
 /*  margin-left: 70px;*/
@@ -926,10 +929,15 @@ h2 {
 	font-weight: 500;
 	margin-bottom: 0;
 }
-
-.government-imgbox1 {
-	padding: 17px 10px;
+.government-imgbox img {
+	width: 100%;
 }
+.government-place img {
+	width: 100%;
+}
+/* .government-imgbox1 {
+	padding: 17px 10px;
+} */
 
 .about-government p.work {
 	font-size: 22px;
@@ -1079,7 +1087,7 @@ h3 {
 .script-text {
 	text-align: center;
 	padding: 20px 0 30px;
-	margin-top: 12px
+	margin-top: 12px;
 }
 .faces-img img {
 	height: 250px;
@@ -1481,9 +1489,9 @@ section.government-rights-sec h3 {
 }
 
 .rights-heading h1 {
-    font-size: 34px;
-    font-family: "Poppins";
-    font-weight: 700;
+	font-size: 33px;
+	font-family: "Poppins";
+	font-weight: 700;
 }
 
 .rights-heading h4 {
@@ -1516,11 +1524,11 @@ section.government-rights-sec h3 {
 	padding: 0 20px;
 }
 .about-right p {
-    margin-top: 45px;
-    color: #000;
-    font-family: "Poppins";
-    font-weight: 600;
-    font-size: 21px !important;
+	margin-top: 45px;
+	color: #000;
+	font-family: "Poppins";
+	font-weight: 600;
+	font-size: 21px !important;
 }
 .Law {
 	text-align: center;
@@ -1619,9 +1627,9 @@ section.government-rights-sec h3 {
 }
 
 .postcast-heading h1 {
-	font-family: poppins;
+	font-family: "poppins";
+	font-weight: 700;
 }
-
 .play-icon button {
 	width: 32px;
 	height: 33px;
