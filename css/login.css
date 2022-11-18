@@ -2,7 +2,7 @@
     font-family: Poppinssemibold;
     src: url(../fonts/Poppins-SemiBold.ttf);
   }
-  #header{
+  header{
     background-color: transparent !important;
   }
 .signup .sign-up-box-wrapper {

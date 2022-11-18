@@ -2,6 +2,9 @@
     font-family: Recoletabold;
     src: url(../fonts/Recoleta-Bold.ttf);
   }
+  header{
+    background-color: transparent !important;
+  }
 /* Banner Css Start Here */
   .donation-heading {
     text-align: center;

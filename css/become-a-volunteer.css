@@ -6,7 +6,7 @@
     font-family: "Work Sans";
     src: url(../fonts/work-sans/work-sans.ttf);
 }
-  #header{
+  header{
     background-color: transparent !important;
   }
   .signup .sign-up-box-wrapper {

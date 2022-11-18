@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="css/upload-dll.css">
 <link rel="stylesheet" href="css/testimonial.css">
 
-<section>
+<section class="attachment-sec">
     <div class="donation-heading">
         <h1>Upload Files</h1>
     </div>

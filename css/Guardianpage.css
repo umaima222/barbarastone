@@ -12,7 +12,7 @@
     src: url(font/Montserrat-SemiBold.ttf);
 }
   header{
-    background-color: #FFFFFF;
+    background-color: #FFFFFF !important;
 }
 .guardian-sec{
     width: 100%;

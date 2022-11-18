@@ -18,8 +18,8 @@
                                         <ul>
                                             <li class="app"><a href="meet-barbara.php">meet barbara</a>
                                             <li class="drop-down-li"><a href="index.php">home</a></li>
-                                            <li class="app"><a href="javascript:void(0);">about our platform</a>
-                                            <li class="app"><a href="javascript:void(0);">interoable acts tyranny</a>
+                                            <li class="app"><a href="aboutus.php">about our platform</a>
+                                            <li class="app"><a href="/IntolerableActspage.php">interoable acts tyranny</a>
                                             </li>
                                             <li>
                                                 <a target="_blank" href="https://drive.google.com/file/d/1ShZ_X3HLM0snCu-zw7Xvjnx40zUx0G57/view">read
@@ -47,11 +47,11 @@
                             <i class="fa fa-chevron-down" style="margin-left:0 ;margin-right:38px ; margin-top:35px !important; font-size:12px;"></i>
                         </a>
                         <div class="dropdown-menu     ">
-                            <a class="dropdown-item" href="#">Sign in</a>
-                            <a class="dropdown-item" href="#">Sign Up</a>
-                            <a class="dropdown-item" href="#">My Profile</a>
+                            <a class="dropdown-item" href="sign-in.php">Sign in</a>
+                            <a class="dropdown-item" href="login.php">Sign Up</a>
+                            <a class="dropdown-item" href="user-profile.php">My Profile</a>
                             <a class="dropdown-item" href="#">Account</a>
-                            <a class="dropdown-item" href="#">View Cart</a>
+                            <a class="dropdown-item" href="checkout.php">View Cart</a>
                             <!--                            <a class="dropdown-item" href="registration-form.php">Registration</a>-->
                         </div>
                     </div>

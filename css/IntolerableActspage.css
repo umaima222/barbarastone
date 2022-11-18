@@ -40,7 +40,7 @@
 
 
 header {
-    background-color: #ffff;
+    background-color: #ffff !important;
 }
 
 .spn {

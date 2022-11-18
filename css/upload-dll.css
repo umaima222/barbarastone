@@ -1,6 +1,8 @@
 
 /* donation-sec start here */
-
+header{
+    background-color: transparent !important;
+  }
 .donation-heading {
     text-align: center;
     background-color: #9E1C36;
@@ -170,4 +172,7 @@
     .table-responsive-vertical > .table-bordered > tbody > tr > td:last-child {
         border-bottom: 0;
     }
+}
+.attachment-sec {
+    padding: 57px 0;
 }

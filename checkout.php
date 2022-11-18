@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="css/checkout.css">
 <!-- start here -->
 <section>
-<div class="legal-heading">
+    <div class="legal-heading">
         <h1>Checkout</h1>
     </div>
 </section>
@@ -11,62 +11,7 @@
         <form action="thank-you.php">
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="first-top-bar">
-                        <h3>Shipment Details</h3>
-                    </div>
 
-                    <div class="saved-address">
-                        <div class="title">
-                            <h5>Use Saved Addresses</h5>
-                        </div>
-
-                        <label class="container">
-                            <input type="radio" checked="checked" name="radio">
-                            <span class="checkmark">
-                                <div class="select-address">
-                                    <div class="selection">
-                                        <i class="fa fa-check" aria-hidden="true"></i>
-                                    </div>
-                                    <div class="radio-btn">
-                                        <span></span>
-                                    </div>
-                                    <div class="address-detail">
-                                        <h5><span class="property">Country:</span><span class="value">United
-                                                States</span><span class="property pl-4">State:</span><span class="value">Texas</span>
-                                        </h5>
-                                        <h5><span class="property">Address:</span><span class="value">10515 Fox Ave
-                                                Fairdale, Kentucky(KY), 40118</span></h5>
-                                        <h5><span class="property">Phone:</span><span class="value">+44-123-456-789</span>
-                                        </h5>
-                                        <button class="btn default disabled">Default</button>
-                                    </div>
-                                </div>
-                            </span>
-                        </label>
-
-                        <label class="container">
-                            <input type="radio" name="radio">
-                            <span class="checkmark">
-                                <div class="select-address">
-                                    <div class="selection">
-                                        <i class="fa fa-check" aria-hidden="true"></i>
-                                    </div>
-                                    <div class="radio-btn">
-                                        <span></span>
-                                    </div>
-                                    <div class="address-detail">
-                                        <h5><span class="property">Country:</span><span class="value">United
-                                                States</span><span class="property pl-4">State:</span><span class="value">Texas</span>
-                                        </h5>
-                                        <h5><span class="property">Address:</span><span class="value">10515 Fox Ave
-                                                Fairdale, Kentucky(KY), 40118</span></h5>
-                                        <h5><span class="property">Phone:</span><span class="value">+44-123-456-789</span>
-                                        </h5>
-                                    </div>
-                                </div>
-                            </span>
-                        </label>
-                    </div>
                     <div class="add-new-address">
                         <div class="form-check ">
                             <input type="checkbox" class="form-check-input" id="exampleCheck1">
@@ -354,18 +299,18 @@
                     </div>
                 </div>
                 <div class="border-last"></div>
-                </form>
-                <div class="confirm-orderDv">
-                    <div class="form-check ">
-                        <input type="checkbox" class="form-check-input" id="for-checkbox">
-                        <label class="form-check-label" for="exampleCheck1">Proident, sunt in culpa qui officia deserunt mollit anim id est
-                            laborum</label>
-                    </div>
+        </form>
+        <div class="confirm-orderDv">
+            <div class="form-check ">
+                <input type="checkbox" class="form-check-input" id="for-checkbox">
+                <label class="form-check-label" for="exampleCheck1">Proident, sunt in culpa qui officia deserunt mollit anim id est
+                    laborum</label>
+            </div>
 
-                    <div class="button-checkout">
-                        <a href="thankyou.php">Confirm Order <img src="img/right-arrow.svg" alt=""></a>
-                    </div>
-                </div>
+            <div class="button-checkout">
+                <a href="thankyou.php">Confirm Order <img src="img/right-arrow.svg" alt=""></a>
+            </div>
+        </div>
     </div>
 </section>
 <!-- checkout-section ends here -->

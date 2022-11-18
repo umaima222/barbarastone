@@ -23,7 +23,7 @@
     src: url(../fonts/times\ new\ roman\ bold.ttf);
 }
 header{
-    background-color: #F3FFF3; 
+    background-color: #F3FFF3 !important; 
   }
   .Genocide-Racketsec{
     width: 100%;

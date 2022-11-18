@@ -21,7 +21,7 @@ function is_dir_empty($dir)
     return (count(scandir($dir)) == 2);
 }
 ?>
-<section>
+<section class="attachment-sec">
     <div class="donation-heading">
         <h1>Upload Files</h1>
     </div>

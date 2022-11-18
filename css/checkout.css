@@ -2,7 +2,7 @@
     font-family: Recoletabold;
     src: url(../fonts/Recoleta-Bold.ttf);
   }
-#header{
+header{
     background-color: transparent !important;
 }
 
@@ -855,7 +855,7 @@
   @media (max-width: 480px) {
     .checkout .container {
       padding: 60px 18px;
-      margin: 20px;
+      margin: 0 !important;
     }
   }
   @media (max-width: 414px) {
@@ -865,6 +865,30 @@
     .checkout .cart-product-detail .products .abt-product .pro-dtl h5.name {
       font-size: 13px;
     }
+    .checkout .confirm-orderDv .button-checkout a {
+      /* width: 222px; */
+      padding: 12px 49px !important;
+      cursor: pointer;
+  }
+  .checkout .second-top-bar .form-group button {
+    height: 53.6px;
+    width: 66% !important;
+    font-size: 11px !important;
+
+}
+.checkout
+    .payment-details
+    .saved-payment-method
+    label.container
+    span.checkmark
+    .card-details
+    .visa-card
+    input {
+    font-size: 11px !important;
+}
+.button-checkout {
+  margin-top: 10px;
+}
   }
   @media (max-width: 375px) {
     .checkout .cart-product-detail .products {
