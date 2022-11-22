@@ -155,7 +155,7 @@ header {
 	display: none;
 	width: 255px;
 	background: #f7f2df;
-	height: 255px;
+	/* height: 255px; */
 }
 .video-section {
 	height: 427px;

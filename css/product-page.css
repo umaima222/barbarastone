@@ -152,7 +152,7 @@ select#inputState {
 .price-1 h5 {
   color: #9F1D3C;
   font-family: Poppinssemibold;
-  font-size: 15px;
+  font-size: 13px !important;
 }
 
 .cards-container {
@@ -165,21 +165,23 @@ select#inputState {
 .price-1 p {
   color: #000000;
   opacity: 0.4;
-  font-size: 12px;
+  font-size: 11px !important;
   text-decoration: line-through;
+  margin-bottom: 0;
 }
 
 .reveiws p {
   color: #000000;
   opacity: 0.4;
-  font-size: 12px;
+  font-size: 11px !important;
+  margin-bottom: 0;
 }
 .reveiws{
   margin-left: 10px;
 }
-.phone-img {
+/* .phone-img {
   width: 80%;
-}
+} */
 
 .phone-img img {
   width: 100%;
@@ -188,9 +190,9 @@ select#inputState {
 .product {
   margin-top: 40px;
 }
-.cards-imgs{
+/* .cards-imgs{
   width: 80%;
-}
+} */
 .cards-imgs img{
   width: 100%;
 }

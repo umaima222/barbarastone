@@ -184,10 +184,12 @@ header{
     margin: 0px 10px;
     transform: scale(1.5);
   }
-  
-  .slick-slide.slick-cloned {
-    margin: 0px 10px;
+  .slick-dots li button{
+    display: none !important;
   }
+  /* .slick-slide.slick-cloned {
+    margin: 0px 10px;
+  } */
   
   .slick-slide img {
     display: block;

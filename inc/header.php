@@ -18,8 +18,18 @@
                                         <ul>
                                             <li class="app"><a href="meet-barbara.php">meet barbara</a>
                                             <li class="drop-down-li"><a href="index.php">home</a></li>
-                                            <li class="app"><a href="aboutus.php">about our platform</a>
-                                            <li class="app"><a href="/IntolerableActspage.php">interoable acts tyranny</a>
+                                            <li class="app"><a href="aboutus.php">about our platform</a> </li>
+                                            <li class="app"><a href="IntolerableActspage.php">interoable acts tyranny</a></li>
+                                            <li class="app"><a href="articlespage.php">Articles </a></li>
+                                            <li class="app"><a href="Constitutionpage.php">Constitution</a></li>
+                                            <li class="app"><a href="CrimeSyndicatepage.php">CrimeSyndicate</a></li>
+                                            <li class="app"><a href="donation.php">Donation </a></li>
+                                            <li class="app"><a href="forum-1.php">forum</a></li>
+                                            <li class="app"><a href="Guardianpage.php">Guardian </a></li>
+                                            <li class="app"><a href="Genocide-Rackethpage.php">Genocide Racketh </a></li>
+                                            <li class="app"><a href="trafficking-regimes.php">trafficking regimes</a></li>
+                                            <li class="app"><a href="TraffickingArticlespage.php">Trafficking Articles </a></li>
+                                            <li class="app"><a href="Unconstitutional.php">Unconstitutional </a></li>
                                             </li>
                                             <li>
                                                 <a target="_blank" href="https://drive.google.com/file/d/1ShZ_X3HLM0snCu-zw7Xvjnx40zUx0G57/view">read
@@ -74,3 +84,4 @@
         </div>
     </div>
 </header>
+<?php include 'headlinks.php'; ?>

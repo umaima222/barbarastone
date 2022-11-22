@@ -24,7 +24,6 @@
                             <figure><img src="img/product-detail-9.png" alt=""></figure>
                             <figure><img src="img/product-detail-9.png" alt=""></figure>
                             <figure><img src="img/product-detail-9.png" alt=""></figure>
-                            <figure><img src="img/product-detail-9.png" alt=""></figure>
 
                         </div>
                     </div>
@@ -98,7 +97,7 @@
                                             </span>
                                         </label> -->
 
-                                    <!-- </form>
+                                <!-- </form>
                                 </ul> -->
                             </form>
                         </div>
