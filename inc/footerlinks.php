@@ -130,3 +130,50 @@
         });
     });
 </script>
+<script>
+        function ratingStar(star){
+            star.click(function(){
+                var stars = $('.ratingW').find('li')
+                stars.removeClass('on');
+                var thisIndex = $(this).parents('li').index();
+                for(var i=0; i <= thisIndex; i++){
+                    stars.eq(i).addClass('on');
+                }
+                putScoreNow(thisIndex+1);
+            });
+        }
+
+        function putScoreNow(i){
+            $('#ratingField').val(i);
+            ratingToWord(i);
+        }
+
+        $(function(){
+            if($('.ratingW').length > 0){
+                ratingStar($('.ratingW li a'));
+            }
+        });
+
+        function ratingToWord(rating)
+        {
+            if(rating == 1) {
+                $("#ratingTxt").val('Bad');
+            }
+
+            if(rating == 2) {
+                $("#ratingTxt").val('Poor');
+            }
+
+            if(rating == 3) {
+                $("#ratingTxt").val('Fair');
+            }
+
+            if(rating == 4) {
+                $("#ratingTxt").val('Good');
+            }
+
+            if(rating == 5) {
+                $("#ratingTxt").val('Excellent');
+            }
+        }
+    </script>
