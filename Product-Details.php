@@ -183,6 +183,46 @@
         </div>
     </div>
 </section>
+<!-- opinio section starts here -->
+<section class="opinio">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="content-wrapper">
+                    <h2>What's Your Opinion About this Product</h2>
+                    <form action="https://monkeymarket.co.uk/review" method="post">
+                        <input type="hidden" name="_token" value="uvLCJX7DM9sxoSAGNoN4Odq7TVLSv92uw8qVRE2S">                        <input type="hidden" name="product_id" value="76">
+                        <div class="from-group">
+                            <textarea name="comment" required class="form-control" placeholder="Product Review" id="" cols="30"
+                                      rows="6"></textarea>
+                        </div>
+                        <div class="from-group row">
+                            <div class="col-md-6">
+                                <div class="dv-for-input">
+                                    <input placeholder="Rating" type="text" value="Excellent" id="ratingTxt" readonly="read" class="form-control">
+                                </div>
+                                <input type="hidden" value="5" name="rating" id="ratingField">
+                                <div class="dv-stars starReview" id="rating">
+                                    <ul class="ratingW">
+                                        <li class="on"><a href="javascript:void(0);"><div class="star"></div></a></li>
+                                        <li class="on"><a href="javascript:void(0);"><div class="star"></div></a></li>
+                                        <li class="on"><a href="javascript:void(0);"><div class="star"></div></a></li>
+                                        <li class="on"><a href="javascript:void(0);"><div class="star"></div></a></li>
+                                        <li class="on"><a href="javascript:void(0);"><div class="star"></div></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" class="form-btn">Submit</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- opinio section end here -->
 
 
 <!-- End Here -->

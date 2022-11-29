@@ -379,3 +379,235 @@ button.slick-next.slick-arrow {
 section.para-head-wrapper {
   padding-bottom: 84px;
 }
+/* opinio sec start here */
+.opinio {
+  /* padding: 60px 0px; */
+  /* background-image: url("../img/detail-bg.png"); */
+  background-size: 100%;
+  padding-bottom: 100px;
+}
+
+section.opinio h2 {
+  color: #001c1a;
+  font-family: "Poppins";
+  font-size: 27px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin-bottom: 30px;
+}
+
+section.opinio textarea.form-control {
+  padding: 17px;
+  border: 1px solid #d4d4d4;
+  font-family: "Poppins";
+  color: #717171;
+  font-weight: 500;
+}
+
+.opinio .form-control {
+  margin: 10px 0px;
+}
+
+.opinio input.form-control {
+  padding: 14px;
+  border: 1px solid #d4d4d4;
+  font-family: "Poppins";
+  color: #717171;
+  font-weight: 500;
+}
+
+section.opinio button.form-btn {
+  background: #9F1D3C;
+  border: 0px;
+  padding: 11px 45px;
+  font-size: 13px;
+  color: #fff;
+  font-weight: 400;
+  letter-spacing: 1px;
+  border-radius: 6px;
+  margin-top: 15px;
+  border: 2px solid #fff;
+  box-shadow: 0px 0px 9px 2px #e1e1e1;
+}
+
+
+h3.company-name {
+  font-size: 20px;
+  text-align: initial;
+  font-weight: 600;
+  padding-left: 24px;
+}
+
+.replyed-comments {
+  background-color: #E8FBFF;
+  padding: 60px 0px;
+}
+
+p.des {
+  font-size: 13px;
+  color: #9E9E9E;
+  font-family: 'Poppins';
+  font-weight: 300;
+}
+
+p.replyed-comment-date {
+  float: right;
+  font-size: 14px;
+  color: #9E9E9E;
+  font-family: 'Poppins';
+  padding: 0px 30px;
+}
+
+.dv-stars ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+.dv-for-input {
+  position: relative;
+}
+
+.dv-stars ul li a i {
+  color: #000000;
+  padding: 0px 1px;
+}
+
+.dv-stars {
+  position: absolute;
+  top: 23px;
+  right: 30px;
+}
+
+.details-wrap .checkbox-color input:checked~label:after {
+  display: none;
+}
+.prodetail-wrapper .slick-slide img {
+  width: 100%;
+  height: 450px;
+  object-fit: fill;
+}
+.prodetail_smallimg .slick-slide figure img {
+  width: 100%;
+  height: 130px;
+  object-fit: fill;
+}
+.prodetail_smallimg .slick-slide {
+  box-shadow: rgb(0 0 0 / 30%) 0px 0px 8px 1px;
+  /* padding: 0 10px; */
+  max-width: 130px;
+  margin: 0 5px;
+}
+.prodetail_smallimg .slick-list.draggable {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+.prodetail_smallimg .slick-slide figure{
+  margin-bottom:0;
+}
+.content-wrapper .form-group{
+  margin-left: 0 !important;
+}
+@media(max-width:1199px){
+  .prodetail-wrapper .slick-slide img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+  }
+}
+@media (max-width: 768px) {
+  .pro-detail-content-wrapper .details-wrap {
+    width: 100%;
+  }
+}
+@media(max-width:480px){
+  .inner-stuff-all{
+    top: 111px;
+  }
+}
+@media(max-width:425px) {
+  .inner-stuff-all {
+    top: 115px;
+  }
+}
+/* opinio sec end here */
+/* reviews start here */
+.counterW {margin:0 0 0 60px;}
+.ratingW {position:relative; margin:-11px 0 0;}
+.ratingW li {display:inline-block; margin:0px;}
+.ratingW li a {display:block; position:relative; /*margin:0 3px;  width:28px; height:27px;color:#ccc; background:url('../img/ico/icoStarOff.png') no-repeat; background-size:100%;*/}
+/*.ratingW li.on a {background:url('../img/ico/icoStarOn.png') no-repeat; background-size:100%;}*/
+
+.star {
+    position: relative;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: .9em;
+    margin-right: .9em;
+    margin-bottom: 1.2em;
+    border-right: .3em solid transparent;
+    border-bottom: .7em  solid #ddd;
+    border-left: .3em solid transparent;
+    /* Controlls the size of the stars. */
+    font-size: 24px;
+}
+.star:before, .star:after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: .6em;
+    left: -1em;
+    border-right: 1em solid transparent;
+    border-bottom: .7em  solid #ddd;
+    border-left: 1em solid transparent;
+    -webkit-transform: rotate(-35deg);
+    transform: rotate(-35deg);
+}
+.star:after {
+    -webkit-transform: rotate(35deg);
+    transform: rotate(35deg);
+}
+
+
+.ratingW li.on .star {
+    position: relative;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: .9em;
+    margin-right: .9em;
+    margin-bottom: 1.2em;
+    border-right: .3em solid transparent;
+    border-bottom: .7em  solid #FC0;
+    border-left: .3em solid transparent;
+    /* Controlls the size of the stars. */
+    font-size: 15px;
+    margin-top: 8px;
+}
+.ratingW li.on .star:before, .ratingW li.on .star:after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: .6em;
+    left: -1em;
+    border-right: 1em solid transparent;
+    border-bottom: .7em  solid #FC0;
+    border-left: 1em solid transparent;
+    -webkit-transform: rotate(-35deg);
+    transform: rotate(-35deg);
+}
+.ratingW li.on .star:after {
+    -webkit-transform: rotate(35deg);
+    transform: rotate(35deg);
+}
+@media(max-width:1280px){
+    .ratingW li.on .star{
+        font-size: 10px;
+    margin-top: 14px;
+    }
+}
